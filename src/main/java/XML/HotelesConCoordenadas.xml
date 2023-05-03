@@ -1,0 +1,3713 @@
+<?xml version="1.0" ?>
+<data>
+    <row id="1">
+        <cod_inscripcion>UHSR0972</cod_inscripcion>
+        <nombre>18 de Abril</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Rúa Mirapiés 11</direccion>
+        <localidad>OLITE</localidad>
+        <municipio>OLITE / ERRIBERRI</municipio>
+        <zona>Zona Media</zona>
+        <plazas>16</plazas>
+        <fecha_de_inscripcion>07/06/2022 0:00:00</fecha_de_inscripcion>
+        <latitud>42.480528</latitud>
+        <longitud>-1.650845</longitud>
+    </row>
+    <row id="2">
+        <cod_inscripcion>UH000678</cod_inscripcion>
+        <nombre>A Pamplona</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>Sancho Ramirez 15</direccion>
+        <localidad>PAMPLONA</localidad>
+        <municipio>PAMPLONA / IRUÑA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>24</plazas>
+        <fecha_de_inscripcion>19/02/1997 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8077598</latitud>
+        <longitud>-1.6657708</longitud>
+    </row>
+    <row id="4">
+        <cod_inscripcion>UH000503</cod_inscripcion>
+        <nombre>AC Ciudad de Pamplona</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>4 Estrellas</categoria>
+        <direccion>Iturrama 21</direccion>
+        <localidad>PAMPLONA</localidad>
+        <municipio>PAMPLONA / IRUÑA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>178</plazas>
+        <fecha_de_inscripcion>30/12/1978 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8045954</latitud>
+        <longitud>-1.6525733</longitud>
+    </row>
+    <row id="5">
+        <cod_inscripcion>uh000737</cod_inscripcion>
+        <nombre>AC Ciudad de Tudela</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>4 Estrellas</categoria>
+        <direccion>Misericordia, s/n 0</direccion>
+        <localidad>TUDELA</localidad>
+        <municipio>TUDELA</municipio>
+        <zona>La Ribera</zona>
+        <plazas>84</plazas>
+        <fecha_de_inscripcion>21/11/2001 0:00:00</fecha_de_inscripcion>
+        <latitud>42.046104</latitud>
+        <longitud>-1.583935</longitud>
+    </row>
+    <row id="9">
+        <cod_inscripcion>UH000786</cod_inscripcion>
+        <nombre>Agorreta</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Ziriota 3</direccion>
+        <localidad>SALINAS DE PAMPLONA</localidad>
+        <municipio>GALAR</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>47</plazas>
+        <fecha_de_inscripcion>20/09/2005 0:00:00</fecha_de_inscripcion>
+        <latitud>42.752281</latitud>
+        <longitud>-1.6499485</longitud>
+    </row>
+    <row id="10">
+        <cod_inscripcion>UPE00327</cod_inscripcion>
+        <nombre>Aguirre</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P*</categoria>
+        <direccion>Irun km.8 0</direccion>
+        <localidad>ORICÁIN</localidad>
+        <municipio>EZCABARTE</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>23</plazas>
+        <fecha_de_inscripcion>30/06/1964 0:00:00</fecha_de_inscripcion>
+        <latitud>42.842258</latitud>
+        <longitud>-1.610722</longitud>
+    </row>
+    <row id="11">
+        <cod_inscripcion>UH000802</cod_inscripcion>
+        <nombre>Agustinos</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Agustinos, Comarca 1 C/B</direccion>
+        <localidad>BERRIOPLANO</localidad>
+        <municipio>BERRIOPLANO / BERRIOBEITI</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>118</plazas>
+        <fecha_de_inscripcion>27/10/2006 0:00:00</fecha_de_inscripcion>
+        <latitud>42.847356</latitud>
+        <longitud>-1.689558</longitud>
+    </row>
+    <row id="13">
+        <cod_inscripcion>UH000777</cod_inscripcion>
+        <nombre>Akerreta</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>Transfiguración 11</direccion>
+        <localidad>AKERRETA</localidad>
+        <municipio>ESTERIBAR</municipio>
+        <zona>Pirineos</zona>
+        <plazas>20</plazas>
+        <fecha_de_inscripcion>21/09/2004 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8962922</latitud>
+        <longitud>-1.543273</longitud>
+    </row>
+    <row id="15">
+        <cod_inscripcion>UH000439</cod_inscripcion>
+        <nombre>Alaiz</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>Pamplona-Zaragoza km.9 0</direccion>
+        <localidad>BERIÁIN</localidad>
+        <municipio>BERIÁIN</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>128</plazas>
+        <fecha_de_inscripcion>05/08/1974 0:00:00</fecha_de_inscripcion>
+        <latitud>42.734893</latitud>
+        <longitud>-1.635364</longitud>
+    </row>
+    <row id="17">
+        <cod_inscripcion>UH000652</cod_inscripcion>
+        <nombre>Albret</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>4 Estrellas</categoria>
+        <direccion>Ermitagaña 3</direccion>
+        <localidad>PAMPLONA</localidad>
+        <municipio>PAMPLONA / IRUÑA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>212</plazas>
+        <fecha_de_inscripcion>20/12/1995 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8097047</latitud>
+        <longitud>-1.669168593398885</longitud>
+    </row>
+    <row id="18">
+        <cod_inscripcion>UH000790</cod_inscripcion>
+        <nombre>Alda Castillo de Olite</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>4 Estrellas</categoria>
+        <direccion>Rua de Medios 23</direccion>
+        <localidad>OLITE</localidad>
+        <municipio>OLITE / ERRIBERRI</municipio>
+        <zona>Zona Media</zona>
+        <plazas>48</plazas>
+        <fecha_de_inscripcion>07/12/2005 0:00:00</fecha_de_inscripcion>
+        <latitud>42.4808157</latitud>
+        <longitud>-1.6513453</longitud>
+    </row>
+    <row id="19">
+        <cod_inscripcion>UH000352</cod_inscripcion>
+        <nombre>Alda Centro Pamplona</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>Virgen de la O 7</direccion>
+        <localidad>PAMPLONA</localidad>
+        <municipio>PAMPLONA / IRUÑA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>42</plazas>
+        <fecha_de_inscripcion>25/10/1966 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8184691</latitud>
+        <longitud>-1.6498352297556196</longitud>
+    </row>
+    <row id="21">
+        <cod_inscripcion>UH000880</cod_inscripcion>
+        <nombre>Alma Pamplona</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>5 Estrellas</categoria>
+        <direccion>Beloso Bajo 11</direccion>
+        <localidad>PAMPLONA</localidad>
+        <municipio>PAMPLONA / IRUÑA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>118</plazas>
+        <fecha_de_inscripcion>25/01/2012 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8210215</latitud>
+        <longitud>-1.626542</longitud>
+    </row>
+    <row id="23">
+        <cod_inscripcion>UPE00865</cod_inscripcion>
+        <nombre>Amets</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P*</categoria>
+        <direccion>Gerestegi 25</direccion>
+        <localidad>ZUBIRI</localidad>
+        <municipio>ESTERIBAR</municipio>
+        <zona>Pirineos</zona>
+        <plazas>9</plazas>
+        <fecha_de_inscripcion>11/08/2010 0:00:00</fecha_de_inscripcion>
+        <latitud>42.9306607</latitud>
+        <longitud>-1.5036652</longitud>
+    </row>
+    <row id="24">
+        <cod_inscripcion>UHS00642</cod_inscripcion>
+        <nombre>Ameztia</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Ameztia 9</direccion>
+        <localidad>DONEZTEBE/SANTESTEBAN</localidad>
+        <municipio>DONEZTEBE / SANTESTEBAN</municipio>
+        <zona>Pirineos</zona>
+        <plazas>17</plazas>
+        <fecha_de_inscripcion>21/09/1994 0:00:00</fecha_de_inscripcion>
+        <latitud>43.1308191</latitud>
+        <longitud>-1.6706794</longitud>
+    </row>
+    <row id="25">
+        <cod_inscripcion>UHS00934</cod_inscripcion>
+        <nombre>Ameztia II</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Ameztia 11</direccion>
+        <localidad>DONEZTEBE/SANTESTEBAN</localidad>
+        <municipio>DONEZTEBE / SANTESTEBAN</municipio>
+        <zona>Pirineos</zona>
+        <plazas>20</plazas>
+        <fecha_de_inscripcion>14/06/2018 0:00:00</fecha_de_inscripcion>
+        <latitud>43.1307919</latitud>
+        <longitud>-1.6710273</longitud>
+    </row>
+    <row id="27">
+        <cod_inscripcion>UH000706</cod_inscripcion>
+        <nombre>Andía</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>4 Estrellas</categoria>
+        <direccion>Ipertegui 1</direccion>
+        <localidad>ORKOIEN</localidad>
+        <municipio>ORKOIEN</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>242</plazas>
+        <fecha_de_inscripcion>28/10/1999 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8182086</latitud>
+        <longitud>-1.69476619569353</longitud>
+    </row>
+    <row id="31">
+        <cod_inscripcion>UHS00766</cod_inscripcion>
+        <nombre>Arangoiti</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>René Petit 0 S/N</direccion>
+        <localidad>YESA</localidad>
+        <municipio>YESA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>15</plazas>
+        <fecha_de_inscripcion>16/12/2003 0:00:00</fecha_de_inscripcion>
+        <latitud>42.62025</latitud>
+        <longitud>-1.2036</longitud>
+    </row>
+    <row id="32">
+        <cod_inscripcion>UH000897</cod_inscripcion>
+        <nombre>Arantza</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>5 Estrellas</categoria>
+        <direccion>Aientsa Auzoa 10 Arantza Hotela</direccion>
+        <localidad>ARANTZA</localidad>
+        <municipio>ARANTZA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>24</plazas>
+        <fecha_de_inscripcion>06/08/2013 0:00:00</fecha_de_inscripcion>
+        <latitud>43.189042</latitud>
+        <longitud>-1.745141</longitud>
+    </row>
+    <row id="33">
+        <cod_inscripcion>UHS00709</cod_inscripcion>
+        <nombre>Ardoi</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Belascoain 30</direccion>
+        <localidad>ZIZUR MAYOR</localidad>
+        <municipio>ZIZUR MAYOR / ZIZUR NAGUSIA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>16</plazas>
+        <fecha_de_inscripcion>19/01/2000 0:00:00</fecha_de_inscripcion>
+        <latitud>42.7927427</latitud>
+        <longitud>-1.6982327</longitud>
+    </row>
+    <row id="34">
+        <cod_inscripcion>UHS00745</cod_inscripcion>
+        <nombre>Area 99</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Merkatondoa 32 A</direccion>
+        <localidad>ESTELLA-LIZARRA</localidad>
+        <municipio>ESTELLA-LIZARRA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>22</plazas>
+        <fecha_de_inscripcion>20/03/2002 0:00:00</fecha_de_inscripcion>
+        <latitud>42.653334</latitud>
+        <longitud>-2.027106</longitud>
+    </row>
+    <row id="35">
+        <cod_inscripcion>UHR00811</cod_inscripcion>
+        <nombre>Aribe</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>Santa María 33</direccion>
+        <localidad>ARIBE</localidad>
+        <municipio>ARIBE</municipio>
+        <zona>Pirineos</zona>
+        <plazas>20</plazas>
+        <fecha_de_inscripcion>12/07/2007 0:00:00</fecha_de_inscripcion>
+        <latitud>42.944507</latitud>
+        <longitud>-1.264347</longitud>
+    </row>
+    <row id="36">
+        <cod_inscripcion>UHS00959</cod_inscripcion>
+        <nombre>Aritzalko</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Pamplona-Vitoria 0 km. 23</direccion>
+        <localidad>ETXARRI-ARANATZ</localidad>
+        <municipio>ETXARRI ARANATZ</municipio>
+        <zona>Pirineos</zona>
+        <plazas>17</plazas>
+        <fecha_de_inscripcion>18/01/2021 0:00:00</fecha_de_inscripcion>
+        <latitud>42.906851</latitud>
+        <longitud>-2.064313</longitud>
+    </row>
+    <row id="37">
+        <cod_inscripcion>UHSR0531</cod_inscripcion>
+        <nombre>Aróstegui</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Chiquirrín 13</direccion>
+        <localidad>GARAIOA</localidad>
+        <municipio>GARAIOA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>14</plazas>
+        <fecha_de_inscripcion>28/05/1980 0:00:00</fecha_de_inscripcion>
+        <latitud>42.93333</latitud>
+        <longitud>-1.23333</longitud>
+    </row>
+    <row id="38">
+        <cod_inscripcion>UHS00600</cod_inscripcion>
+        <nombre>Arotza</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>De Navarra 3</direccion>
+        <localidad>TAFALLA</localidad>
+        <municipio>TAFALLA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>32</plazas>
+        <fecha_de_inscripcion>27/09/1989 0:00:00</fecha_de_inscripcion>
+        <latitud>42.5080095</latitud>
+        <longitud>-1.672001</longitud>
+    </row>
+    <row id="40">
+        <cod_inscripcion>UHSR0850</cod_inscripcion>
+        <nombre>Arrobi Borda</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Irurita, s/n 0</direccion>
+        <localidad>EUGI</localidad>
+        <municipio>ESTERIBAR</municipio>
+        <zona>Pirineos</zona>
+        <plazas>9</plazas>
+        <fecha_de_inscripcion>05/06/2009 0:00:00</fecha_de_inscripcion>
+        <latitud>43.01022</latitud>
+        <longitud>-1.515186</longitud>
+    </row>
+    <row id="41">
+        <cod_inscripcion>UPE00896</cod_inscripcion>
+        <nombre>Arróniz</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P**</categoria>
+        <direccion>Allo 14</direccion>
+        <localidad>ARRÓNIZ</localidad>
+        <municipio>ARRÓNIZ</municipio>
+        <zona>Zona Media</zona>
+        <plazas>9</plazas>
+        <fecha_de_inscripcion>14/06/2013 0:00:00</fecha_de_inscripcion>
+        <latitud>42.5767505</latitud>
+        <longitud>-2.0834147</longitud>
+    </row>
+    <row id="42">
+        <cod_inscripcion>UHS00484</cod_inscripcion>
+        <nombre>Atalaya</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Daban 11</direccion>
+        <localidad>PERALTA</localidad>
+        <municipio>PERALTA / AZKOIEN</municipio>
+        <zona>La Ribera</zona>
+        <plazas>32</plazas>
+        <fecha_de_inscripcion>02/09/1976 0:00:00</fecha_de_inscripcion>
+        <latitud>42.3380703</latitud>
+        <longitud>-1.7934819</longitud>
+    </row>
+    <row id="43">
+        <cod_inscripcion>UH000719</cod_inscripcion>
+        <nombre>Atxaspi</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>Bittiria 16</direccion>
+        <localidad>LESAKA</localidad>
+        <municipio>LESAKA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>16</plazas>
+        <fecha_de_inscripcion>21/03/2001 0:00:00</fecha_de_inscripcion>
+        <latitud>43.2468333</latitud>
+        <longitud>-1.7069629</longitud>
+    </row>
+    <row id="44">
+        <cod_inscripcion>UHR00562</cod_inscripcion>
+        <nombre>Auñamendi</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>Urrutia 23</direccion>
+        <localidad>OCHAGAVÍA</localidad>
+        <municipio>OCHAGAVÍA / OTSAGABIA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>25</plazas>
+        <fecha_de_inscripcion>28/12/1970 0:00:00</fecha_de_inscripcion>
+        <latitud>42.9064174</latitud>
+        <longitud>-1.0885703</longitud>
+    </row>
+    <row id="45">
+        <cod_inscripcion>UHSR0773</cod_inscripcion>
+        <nombre>Auzoa</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Illekueta 13</direccion>
+        <localidad>BERA</localidad>
+        <municipio>BERA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>12</plazas>
+        <fecha_de_inscripcion>26/07/2004 0:00:00</fecha_de_inscripcion>
+        <latitud>43.280904</latitud>
+        <longitud>-1.6734582</longitud>
+    </row>
+    <row id="46">
+        <cod_inscripcion>UH000592</cod_inscripcion>
+        <nombre>Avenida</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Zaragoza 5</direccion>
+        <localidad>PAMPLONA</localidad>
+        <municipio>PAMPLONA / IRUÑA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>48</plazas>
+        <fecha_de_inscripcion>21/08/1991 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8119929</latitud>
+        <longitud>-1.6431048</longitud>
+    </row>
+    <row id="47">
+        <cod_inscripcion>UHS00013</cod_inscripcion>
+        <nombre>Ayestarán I</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Aralar 22</direccion>
+        <localidad>LEKUNBERRI</localidad>
+        <municipio>LEKUNBERRI</municipio>
+        <zona>Pirineos</zona>
+        <plazas>136</plazas>
+        <fecha_de_inscripcion>17/10/1969 0:00:00</fecha_de_inscripcion>
+        <latitud>43.002969</latitud>
+        <longitud>-1.8942352</longitud>
+    </row>
+    <row id="48">
+        <cod_inscripcion>UHSR0014</cod_inscripcion>
+        <nombre>Ayestarán II</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Aralar 27</direccion>
+        <localidad>LEKUNBERRI</localidad>
+        <municipio>LEKUNBERRI</municipio>
+        <zona>Pirineos</zona>
+        <plazas>36</plazas>
+        <fecha_de_inscripcion>31/05/1948 0:00:00</fecha_de_inscripcion>
+        <latitud>43.0028812</latitud>
+        <longitud>-1.8935636</longitud>
+    </row>
+    <row id="50">
+        <cod_inscripcion>UH000008</cod_inscripcion>
+        <nombre>Balneario Gustavo Adolfo Bécquer</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Extramuros 0 s/n</direccion>
+        <localidad>FITERO</localidad>
+        <municipio>FITERO</municipio>
+        <zona>La Ribera</zona>
+        <plazas>322</plazas>
+        <fecha_de_inscripcion>02/11/1948 0:00:00</fecha_de_inscripcion>
+        <latitud>41.778856</latitud>
+        <longitud>-1.72311</longitud>
+    </row>
+    <row id="51">
+        <cod_inscripcion>UH000079</cod_inscripcion>
+        <nombre>Balneario Virrey Palafox</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Extramuros 0 s/n</direccion>
+        <localidad>FITERO</localidad>
+        <municipio>FITERO</municipio>
+        <zona>La Ribera</zona>
+        <plazas>119</plazas>
+        <fecha_de_inscripcion>02/11/1948 0:00:00</fecha_de_inscripcion>
+        <latitud>41.778856</latitud>
+        <longitud>-1.72311</longitud>
+    </row>
+    <row id="52">
+        <cod_inscripcion>UHR00975</cod_inscripcion>
+        <nombre>Basque Irati</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>San Bartolomé 80</direccion>
+        <localidad>AURIZBERRI/ESPINAL</localidad>
+        <municipio>ERRO</municipio>
+        <zona>Pirineos</zona>
+        <plazas>0</plazas>
+        <fecha_de_inscripcion>12/01/2023 0:00:00</fecha_de_inscripcion>
+        <latitud>42.978873</latitud>
+        <longitud>-1.369972</longitud>
+    </row>
+    <row id="53">
+        <cod_inscripcion>UH000326</cod_inscripcion>
+        <nombre>Baztan</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Pamplona-Francia km.52 0</direccion>
+        <localidad>GARTZAIN</localidad>
+        <municipio>BAZTAN</municipio>
+        <zona>Pirineos</zona>
+        <plazas>168</plazas>
+        <fecha_de_inscripcion>27/06/1964 0:00:00</fecha_de_inscripcion>
+        <latitud>43.178336</latitud>
+        <longitud>-1.491659</longitud>
+    </row>
+    <row id="54">
+        <cod_inscripcion>UHS00148</cod_inscripcion>
+        <nombre>Bearán 1</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>San Nicolás 25</direccion>
+        <localidad>PAMPLONA</localidad>
+        <municipio>PAMPLONA / IRUÑA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>29</plazas>
+        <fecha_de_inscripcion>30/06/1951 0:00:00</fecha_de_inscripcion>
+        <latitud>42.81579</latitud>
+        <longitud>-1.644886</longitud>
+    </row>
+    <row id="56">
+        <cod_inscripcion>UPE00905</cod_inscripcion>
+        <nombre>Bed &amp; Breakfast Zaldu</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P**</categoria>
+        <direccion>Pío Baroja 1</direccion>
+        <localidad>ESTELLA-LIZARRA</localidad>
+        <municipio>ESTELLA-LIZARRA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>8</plazas>
+        <fecha_de_inscripcion>07/11/2014 0:00:00</fecha_de_inscripcion>
+        <latitud>42.6771057</latitud>
+        <longitud>-2.0342848</longitud>
+    </row>
+    <row id="57">
+        <cod_inscripcion>UH000877</cod_inscripcion>
+        <nombre>Bed4U Pamplona</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>D, PG Ind. Cordovilla 7</direccion>
+        <localidad>CORDOVILLA</localidad>
+        <municipio>GALAR</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>93</plazas>
+        <fecha_de_inscripcion>20/09/2011 0:00:00</fecha_de_inscripcion>
+        <latitud>42.749312</latitud>
+        <longitud>-1.640652</longitud>
+    </row>
+    <row id="59">
+        <cod_inscripcion>UHSR0976</cod_inscripcion>
+        <nombre>Beltza Experience</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Parroquia 13</direccion>
+        <localidad>DONEZTEBE/SANTESTEBAN</localidad>
+        <municipio>DONEZTEBE / SANTESTEBAN</municipio>
+        <zona>Pirineos</zona>
+        <plazas>2</plazas>
+        <fecha_de_inscripcion>26/01/2023 0:00:00</fecha_de_inscripcion>
+        <latitud>43.131718</latitud>
+        <longitud>-1.670316</longitud>
+    </row>
+    <row id="61">
+        <cod_inscripcion>uh000697</cod_inscripcion>
+        <nombre>Beratxa</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Escuelas Pías 7</direccion>
+        <localidad>TAFALLA</localidad>
+        <municipio>TAFALLA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>27</plazas>
+        <fecha_de_inscripcion>26/05/1999 0:00:00</fecha_de_inscripcion>
+        <latitud>42.5283928</latitud>
+        <longitud>-1.6746062</longitud>
+    </row>
+    <row id="62">
+        <cod_inscripcion>UHR00665</cod_inscripcion>
+        <nombre>Bereau</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>Bereau Auzoa 2</direccion>
+        <localidad>LESAKA</localidad>
+        <municipio>LESAKA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>25</plazas>
+        <fecha_de_inscripcion>07/08/1996 0:00:00</fecha_de_inscripcion>
+        <latitud>43.254354</latitud>
+        <longitud>-1.681825</longitud>
+    </row>
+    <row id="63">
+        <cod_inscripcion>UHR00602</cod_inscripcion>
+        <nombre>Besaro</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>1 Estrella</categoria>
+        <direccion>Irigoien 5</direccion>
+        <localidad>IZALZU</localidad>
+        <municipio>IZALZU / ITZALTZU</municipio>
+        <zona>Pirineos</zona>
+        <plazas>16</plazas>
+        <fecha_de_inscripcion>02/11/1989 0:00:00</fecha_de_inscripcion>
+        <latitud>42.9132669</latitud>
+        <longitud>-1.0545479</longitud>
+    </row>
+    <row id="64">
+        <cod_inscripcion>UHSR0691</cod_inscripcion>
+        <nombre>Betelu</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Mayor 7 1 dcha.</direccion>
+        <localidad>BETELU</localidad>
+        <municipio>BETELU</municipio>
+        <zona>Pirineos</zona>
+        <plazas>9</plazas>
+        <fecha_de_inscripcion>08/04/1998 0:00:00</fecha_de_inscripcion>
+        <latitud>42.756117</latitud>
+        <longitud>-1.832921</longitud>
+    </row>
+    <row id="65">
+        <cod_inscripcion>UHSR0558</cod_inscripcion>
+        <nombre>Beti-Jai</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Santa Agueda 2</direccion>
+        <localidad>AOIZ</localidad>
+        <municipio>AOIZ / AGOITZ</municipio>
+        <zona>Pirineos</zona>
+        <plazas>35</plazas>
+        <fecha_de_inscripcion>03/06/1983 0:00:00</fecha_de_inscripcion>
+        <latitud>42.786113</latitud>
+        <longitud>-1.371162</longitud>
+    </row>
+    <row id="66">
+        <cod_inscripcion>UHSR0722</cod_inscripcion>
+        <nombre>Bidean</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Mayor 20</direccion>
+        <localidad>PUENTE LA REINA</localidad>
+        <municipio>PUENTE LA REINA / GARES</municipio>
+        <zona>Zona Media</zona>
+        <plazas>36</plazas>
+        <fecha_de_inscripcion>25/04/2001 0:00:00</fecha_de_inscripcion>
+        <latitud>42.671731</latitud>
+        <longitud>-1.8165311</longitud>
+    </row>
+    <row id="67">
+        <cod_inscripcion>UH000606</cod_inscripcion>
+        <nombre>Blanca de Navarra</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>4 Estrellas</categoria>
+        <direccion>Pio XII 43</direccion>
+        <localidad>PAMPLONA</localidad>
+        <municipio>PAMPLONA / IRUÑA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>204</plazas>
+        <fecha_de_inscripcion>30/12/1989 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8100524</latitud>
+        <longitud>-1.6574044</longitud>
+    </row>
+    <row id="69">
+        <cod_inscripcion>UHS00712</cod_inscripcion>
+        <nombre>Burgalés</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Navarra 2</direccion>
+        <localidad>MILAGRO</localidad>
+        <municipio>MILAGRO</municipio>
+        <zona>La Ribera</zona>
+        <plazas>12</plazas>
+        <fecha_de_inscripcion>09/08/2000 0:00:00</fecha_de_inscripcion>
+        <latitud>42.2379568</latitud>
+        <longitud>-1.7591151</longitud>
+    </row>
+    <row id="70">
+        <cod_inscripcion>UHS00006</cod_inscripcion>
+        <nombre>Burguete</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>San Nicolás 71 S/N</direccion>
+        <localidad>AURITZ/BURGUETE</localidad>
+        <municipio>AURITZ / BURGUETE</municipio>
+        <zona>Pirineos</zona>
+        <plazas>34</plazas>
+        <fecha_de_inscripcion>09/02/1948 0:00:00</fecha_de_inscripcion>
+        <latitud>42.98333</latitud>
+        <longitud>-1.33333</longitud>
+    </row>
+    <row id="71">
+        <cod_inscripcion>UH000614</cod_inscripcion>
+        <nombre>Burlada</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>La Fuente 2</direccion>
+        <localidad>BURLADA</localidad>
+        <municipio>BURLADA / BURLATA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>94</plazas>
+        <fecha_de_inscripcion>22/11/1990 0:00:00</fecha_de_inscripcion>
+        <latitud>42.82566</latitud>
+        <longitud>-1.617155</longitud>
+    </row>
+    <row id="72">
+        <cod_inscripcion>UHR00829</cod_inscripcion>
+        <nombre>Camino de las Bardenas</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>1 Estrella</categoria>
+        <direccion>De la Noria 4</direccion>
+        <localidad>ARGUEDAS</localidad>
+        <municipio>ARGUEDAS</municipio>
+        <zona>La Ribera</zona>
+        <plazas>14</plazas>
+        <fecha_de_inscripcion>14/05/2008 0:00:00</fecha_de_inscripcion>
+        <latitud>42.175983</latitud>
+        <longitud>-1.598314</longitud>
+    </row>
+    <row id="73">
+        <cod_inscripcion>UHS00828</cod_inscripcion>
+        <nombre>Camino del Perdón</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Iruzpegia 20</direccion>
+        <localidad>UTERGA</localidad>
+        <municipio>UTERGA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>10</plazas>
+        <fecha_de_inscripcion>30/04/2008 0:00:00</fecha_de_inscripcion>
+        <latitud>42.7075052</latitud>
+        <longitud>-1.7588203</longitud>
+    </row>
+    <row id="74">
+        <cod_inscripcion>UH000805</cod_inscripcion>
+        <nombre>Caracho</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Ombatillo 0</direccion>
+        <localidad>CORELLA</localidad>
+        <municipio>CORELLA</municipio>
+        <zona>La Ribera</zona>
+        <plazas>30</plazas>
+        <fecha_de_inscripcion>21/12/2006 0:00:00</fecha_de_inscripcion>
+        <latitud>42.1147126</latitud>
+        <longitud>-1.8142716</longitud>
+    </row>
+    <row id="75">
+        <cod_inscripcion>UPE00958</cod_inscripcion>
+        <nombre>Carmen Alta</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P**</categoria>
+        <direccion>Carmen Alta 6</direccion>
+        <localidad>TUDELA</localidad>
+        <municipio>TUDELA</municipio>
+        <zona>La Ribera</zona>
+        <plazas>6</plazas>
+        <fecha_de_inscripcion>18/12/2020 0:00:00</fecha_de_inscripcion>
+        <latitud>42.0632421</latitud>
+        <longitud>-1.6083745</longitud>
+    </row>
+    <row id="76">
+        <cod_inscripcion>UPE00618</cod_inscripcion>
+        <nombre>Casa Armendáriz</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P**</categoria>
+        <direccion>Navarro Villoslada 19</direccion>
+        <localidad>VIANA</localidad>
+        <municipio>VIANA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>13</plazas>
+        <fecha_de_inscripcion>10/04/1991 0:00:00</fecha_de_inscripcion>
+        <latitud>42.5147847</latitud>
+        <longitud>-2.3733038</longitud>
+    </row>
+    <row id="77">
+        <cod_inscripcion>UH000814</cod_inscripcion>
+        <nombre>Casa Azcona</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Belascoáin 24</direccion>
+        <localidad>ZIZUR MAYOR</localidad>
+        <municipio>ZIZUR MAYOR / ZIZUR NAGUSIA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>34</plazas>
+        <fecha_de_inscripcion>28/09/2007 0:00:00</fecha_de_inscripcion>
+        <latitud>42.7927427</latitud>
+        <longitud>-1.6982327</longitud>
+    </row>
+    <row id="78">
+        <cod_inscripcion>UPE00909</cod_inscripcion>
+        <nombre>Casa Elita</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P*</categoria>
+        <direccion>Amairu 7</direccion>
+        <localidad>LARRASOAÑA</localidad>
+        <municipio>ESTERIBAR</municipio>
+        <zona>Pirineos</zona>
+        <plazas>4</plazas>
+        <fecha_de_inscripcion>28/04/2015 0:00:00</fecha_de_inscripcion>
+        <latitud>42.9026473</latitud>
+        <longitud>-1.5392071</longitud>
+    </row>
+    <row id="79">
+        <cod_inscripcion>UHSR0631</cod_inscripcion>
+        <nombre>Casa Equiza</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>San Lorenzo 25</direccion>
+        <localidad>USCARRÉS</localidad>
+        <municipio>GALLUÉS / GALOZE</municipio>
+        <zona>Pirineos</zona>
+        <plazas>22</plazas>
+        <fecha_de_inscripcion>30/12/1992 0:00:00</fecha_de_inscripcion>
+        <latitud>42.7726437</latitud>
+        <longitud>-1.0887245</longitud>
+    </row>
+    <row id="80">
+        <cod_inscripcion>UPE00902</cod_inscripcion>
+        <nombre>Casa Etxezuria</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P**</categoria>
+        <direccion>Elizaldea 60</direccion>
+        <localidad>LUZAIDE/VALCARLOS</localidad>
+        <municipio>LUZAIDE / VALCARLOS</municipio>
+        <zona>Pirineos</zona>
+        <plazas>2</plazas>
+        <fecha_de_inscripcion>06/05/2014 0:00:00</fecha_de_inscripcion>
+        <latitud>43.0912217</latitud>
+        <longitud>-1.3027994</longitud>
+    </row>
+    <row id="81">
+        <cod_inscripcion>UH000748</cod_inscripcion>
+        <nombre>Casa Jacinto</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>1 Estrella</categoria>
+        <direccion>Mugazuri, parcela c-11 0</direccion>
+        <localidad>BURLADA</localidad>
+        <municipio>BURLADA / BURLATA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>42</plazas>
+        <fecha_de_inscripcion>26/06/2002 0:00:00</fecha_de_inscripcion>
+        <latitud>42.829318</latitud>
+        <longitud>-1.620812</longitud>
+    </row>
+    <row id="82">
+        <cod_inscripcion>UH000955</cod_inscripcion>
+        <nombre>Casa Luisa</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>San Lázaro 7</direccion>
+        <localidad>AYEGUI</localidad>
+        <municipio>AYEGUI / AIEGI</municipio>
+        <zona>Zona Media</zona>
+        <plazas>29</plazas>
+        <fecha_de_inscripcion>04/08/2020 0:00:00</fecha_de_inscripcion>
+        <latitud>42.656131</latitud>
+        <longitud>-2.039835</longitud>
+    </row>
+    <row id="83">
+        <cod_inscripcion>UPE00974</cod_inscripcion>
+        <nombre>Casa Marterena</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P*</categoria>
+        <direccion>San Lorenzo 40</direccion>
+        <localidad>ARRIETA</localidad>
+        <municipio>ARCE / ARTZI</municipio>
+        <zona>Pirineos</zona>
+        <plazas>7</plazas>
+        <fecha_de_inscripcion>28/11/2022 0:00:00</fecha_de_inscripcion>
+        <latitud>42.9244795</latitud>
+        <longitud>-1.3717826</longitud>
+    </row>
+    <row id="84">
+        <cod_inscripcion>UHS00952</cod_inscripcion>
+        <nombre>Casa Nahia</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Pamplona 9</direccion>
+        <localidad>LORCA</localidad>
+        <municipio>VALLE DE YERRI / DEIERRI</municipio>
+        <zona>Zona Media</zona>
+        <plazas>14</plazas>
+        <fecha_de_inscripcion>24/04/2020 0:00:00</fecha_de_inscripcion>
+        <latitud>42.6718981</latitud>
+        <longitud>-1.9463891</longitud>
+    </row>
+    <row id="86">
+        <cod_inscripcion>UHSR0891</cod_inscripcion>
+        <nombre>Casa Otsoa</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Rotxapea 4</direccion>
+        <localidad>EZCÁROZ</localidad>
+        <municipio>EZCÁROZ / EZKAROZE</municipio>
+        <zona>Pirineos</zona>
+        <plazas>16</plazas>
+        <fecha_de_inscripcion>30/10/2012 0:00:00</fecha_de_inscripcion>
+        <latitud>42.77416</latitud>
+        <longitud>-1.889162</longitud>
+    </row>
+    <row id="87">
+        <cod_inscripcion>UPE00965</cod_inscripcion>
+        <nombre>Casa Otxotenea</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P*</categoria>
+        <direccion>Albistur 36</direccion>
+        <localidad>LESAKA</localidad>
+        <municipio>LESAKA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>3</plazas>
+        <fecha_de_inscripcion>28/07/2021 0:00:00</fecha_de_inscripcion>
+        <latitud>43.2472346</latitud>
+        <longitud>-1.7031974</longitud>
+    </row>
+    <row id="88">
+        <cod_inscripcion>UHSR0315</cod_inscripcion>
+        <nombre>Casa Perico</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Berbinzana 8</direccion>
+        <localidad>LARRAGA</localidad>
+        <municipio>LARRAGA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>25</plazas>
+        <fecha_de_inscripcion>04/05/1970 0:00:00</fecha_de_inscripcion>
+        <latitud>42.5451379</latitud>
+        <longitud>-1.8299455</longitud>
+    </row>
+    <row id="89">
+        <cod_inscripcion>UHSR0183</cod_inscripcion>
+        <nombre>Casa Sabina</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Pamplona-Francia km. 48 0</direccion>
+        <localidad>ORREAGA/RONCESVALLES</localidad>
+        <municipio>ORREGA / RONCESVALLES</municipio>
+        <zona>Pirineos</zona>
+        <plazas>8</plazas>
+        <fecha_de_inscripcion>13/09/1969 0:00:00</fecha_de_inscripcion>
+        <latitud>43.000747</latitud>
+        <longitud>-1.322868</longitud>
+    </row>
+    <row id="90">
+        <cod_inscripcion>UPE00932</cod_inscripcion>
+        <nombre>Casa Santamaría</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P*</categoria>
+        <direccion>Mayor 28</direccion>
+        <localidad>DONEZTEBE/SANTESTEBAN</localidad>
+        <municipio>DONEZTEBE / SANTESTEBAN</municipio>
+        <zona>Pirineos</zona>
+        <plazas>6</plazas>
+        <fecha_de_inscripcion>29/12/2017 0:00:00</fecha_de_inscripcion>
+        <latitud>43.131528849999995</latitud>
+        <longitud>-1.6672775264023385</longitud>
+    </row>
+    <row id="91">
+        <cod_inscripcion>UHSR0493</cod_inscripcion>
+        <nombre>Casa Sario</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>LLana 11</direccion>
+        <localidad>JAURRIETA</localidad>
+        <municipio>JAURRIETA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>13</plazas>
+        <fecha_de_inscripcion>11/08/1977 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8874272</latitud>
+        <longitud>-1.1339603</longitud>
+    </row>
+    <row id="92">
+        <cod_inscripcion>UPE00849</cod_inscripcion>
+        <nombre>Casa Txarrantxulo</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P*</categoria>
+        <direccion>Burguiberría 2</direccion>
+        <localidad>ISABA</localidad>
+        <municipio>ISABA / IZABA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>12</plazas>
+        <fecha_de_inscripcion>21/05/2009 0:00:00</fecha_de_inscripcion>
+        <latitud>42.860232</latitud>
+        <longitud>-0.922621</longitud>
+    </row>
+    <row id="93">
+        <cod_inscripcion>UH000835</cod_inscripcion>
+        <nombre>Castillo de Gorraiz, Golf &amp; Spa</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>4 Estrellas</categoria>
+        <direccion>Egüés 78</direccion>
+        <localidad>GORRÁIZ</localidad>
+        <municipio>VALLE DE EGÜÉS / EGUESIBAR</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>91</plazas>
+        <fecha_de_inscripcion>17/07/2008 0:00:00</fecha_de_inscripcion>
+        <latitud>42.821233199999995</latitud>
+        <longitud>-1.5734880848773576</longitud>
+    </row>
+    <row id="94">
+        <cod_inscripcion>UH000789</cod_inscripcion>
+        <nombre>Castillo de Javier</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>1 Estrella</categoria>
+        <direccion>San Nicolás, 50-52 0</direccion>
+        <localidad>PAMPLONA</localidad>
+        <municipio>PAMPLONA / IRUÑA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>22</plazas>
+        <fecha_de_inscripcion>07/12/2005 0:00:00</fecha_de_inscripcion>
+        <latitud>42.81579</latitud>
+        <longitud>-1.644886</longitud>
+    </row>
+    <row id="96">
+        <cod_inscripcion>UH000826</cod_inscripcion>
+        <nombre>Château Pago de Cirsus</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>4 Estrellas</categoria>
+        <direccion>Ablitas-Ribaforada, Km 5 0</direccion>
+        <localidad>ABLITAS</localidad>
+        <municipio>ABLITAS</municipio>
+        <zona>La Ribera</zona>
+        <plazas>24</plazas>
+        <fecha_de_inscripcion>16/04/2008 0:00:00</fecha_de_inscripcion>
+        <latitud>42.009048</latitud>
+        <longitud>-1.623009</longitud>
+    </row>
+    <row id="97">
+        <cod_inscripcion>UH000753</cod_inscripcion>
+        <nombre>Churrut</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>de los Fueros 2</direccion>
+        <localidad>BERA</localidad>
+        <municipio>BERA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>33</plazas>
+        <fecha_de_inscripcion>02/09/2002 0:00:00</fecha_de_inscripcion>
+        <latitud>43.277651</latitud>
+        <longitud>-1.697639</longitud>
+    </row>
+    <row id="98">
+        <cod_inscripcion>UH000863</cod_inscripcion>
+        <nombre>Ciudad de Corella</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>de Navarra, s/n 0</direccion>
+        <localidad>CORELLA</localidad>
+        <municipio>CORELLA</municipio>
+        <zona>La Ribera</zona>
+        <plazas>93</plazas>
+        <fecha_de_inscripcion>12/07/2010 0:00:00</fecha_de_inscripcion>
+        <latitud>42.119307</latitud>
+        <longitud>-1.769405</longitud>
+    </row>
+    <row id="99">
+        <cod_inscripcion>UH000960</cod_inscripcion>
+        <nombre>Ciudadela</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>Ciudadela 13</direccion>
+        <localidad>PAMPLONA</localidad>
+        <municipio>PAMPLONA / IRUÑA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>54</plazas>
+        <fecha_de_inscripcion>28/01/2021 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8152661</latitud>
+        <longitud>-1.6471426</longitud>
+    </row>
+    <row id="101">
+        <cod_inscripcion>UH000793</cod_inscripcion>
+        <nombre>Cross Elorz</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Europa 13</direccion>
+        <localidad>IMÁRCOAIN</localidad>
+        <municipio>NOÁIN (VALLE DE ELORZ) / NOAIN (ELORTZIBAR)</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>134</plazas>
+        <fecha_de_inscripcion>08/02/2006 0:00:00</fecha_de_inscripcion>
+        <latitud>42.7312582</latitud>
+        <longitud>-1.6147044</longitud>
+    </row>
+    <row id="102">
+        <cod_inscripcion>UH000399</cod_inscripcion>
+        <nombre>Delta</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Zaragoza 29</direccion>
+        <localidad>TUDELA</localidad>
+        <municipio>TUDELA</municipio>
+        <zona>La Ribera</zona>
+        <plazas>63</plazas>
+        <fecha_de_inscripcion>20/07/1987 0:00:00</fecha_de_inscripcion>
+        <latitud>42.0600758</latitud>
+        <longitud>-1.6012503</longitud>
+    </row>
+    <row id="103">
+        <cod_inscripcion>UH000009</cod_inscripcion>
+        <nombre>Don Carlos</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>Dorraburu 0 S/N</direccion>
+        <localidad>HUARTE</localidad>
+        <municipio>HUARTE / UHARTE</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>47</plazas>
+        <fecha_de_inscripcion>13/09/1969 0:00:00</fecha_de_inscripcion>
+        <latitud>42.826591</latitud>
+        <longitud>-1.6003</longitud>
+    </row>
+    <row id="104">
+        <cod_inscripcion>UHS00663</cod_inscripcion>
+        <nombre>Don Javier</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Abajitabidea 5</direccion>
+        <localidad>ORORBIA</localidad>
+        <municipio>CENDEA DE OLZA / OLTZA ZENDEA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>47</plazas>
+        <fecha_de_inscripcion>03/07/1996 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8173139</latitud>
+        <longitud>-1.7478119720706755</longitud>
+    </row>
+    <row id="105">
+        <cod_inscripcion>UHSR0624</cod_inscripcion>
+        <nombre>Donamariako Benta</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Bentas 4</direccion>
+        <localidad>DONAMARIA</localidad>
+        <municipio>DONAMARIA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>10</plazas>
+        <fecha_de_inscripcion>29/10/1991 0:00:00</fecha_de_inscripcion>
+        <latitud>43.11172</latitud>
+        <longitud>-1.67372</longitud>
+    </row>
+    <row id="106">
+        <cod_inscripcion>UH000605</cod_inscripcion>
+        <nombre>Ducay</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>Rua de Medios 1</direccion>
+        <localidad>OLITE</localidad>
+        <municipio>OLITE / ERRIBERRI</municipio>
+        <zona>Zona Media</zona>
+        <plazas>34</plazas>
+        <fecha_de_inscripcion>21/03/1990 0:00:00</fecha_de_inscripcion>
+        <latitud>42.4808157</latitud>
+        <longitud>-1.6513453</longitud>
+    </row>
+    <row id="107">
+        <cod_inscripcion>UHSR0944</cod_inscripcion>
+        <nombre>Edronekoa</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Beriainbidea 2</direccion>
+        <localidad>UNANU</localidad>
+        <municipio>ERGOIENA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>10</plazas>
+        <fecha_de_inscripcion>15/04/2019 0:00:00</fecha_de_inscripcion>
+        <latitud>42.885897</latitud>
+        <longitud>-2.018271</longitud>
+    </row>
+    <row id="108">
+        <cod_inscripcion>UH000687</cod_inscripcion>
+        <nombre>Ekai</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>de Aoiz 0 S/N</direccion>
+        <localidad>EKAI DE LÓNGUIDA</localidad>
+        <municipio>LÓNGUIDA / LONGIDA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>36</plazas>
+        <fecha_de_inscripcion>08/10/1997 0:00:00</fecha_de_inscripcion>
+        <latitud>42.802178</latitud>
+        <longitud>-1.360903</longitud>
+    </row>
+    <row id="109">
+        <cod_inscripcion>UHS00701</cod_inscripcion>
+        <nombre>Ekaitza</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Berria 13</direccion>
+        <localidad>LESAKA</localidad>
+        <municipio>LESAKA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>12</plazas>
+        <fecha_de_inscripcion>14/04/1999 0:00:00</fecha_de_inscripcion>
+        <latitud>43.24758185</latitud>
+        <longitud>-1.7061873195170318</longitud>
+    </row>
+    <row id="110">
+        <cod_inscripcion>uhsr0615</cod_inscripcion>
+        <nombre>El Almadiero</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Padre Tomás de Burgui 1</direccion>
+        <localidad>BURGUI</localidad>
+        <municipio>BURGUI / BURGI</municipio>
+        <zona>Pirineos</zona>
+        <plazas>16</plazas>
+        <fecha_de_inscripcion>05/06/1991 0:00:00</fecha_de_inscripcion>
+        <latitud>42.829289</latitud>
+        <longitud>-1.645986</longitud>
+    </row>
+    <row id="111">
+        <cod_inscripcion>UHSR0763</cod_inscripcion>
+        <nombre>El Arriero</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Muskilda 5</direccion>
+        <localidad>OLCOZ</localidad>
+        <municipio>BIURRUN-OLCOZ</municipio>
+        <zona>Zona Media</zona>
+        <plazas>13</plazas>
+        <fecha_de_inscripcion>10/09/2003 0:00:00</fecha_de_inscripcion>
+        <latitud>42.6654299</latitud>
+        <longitud>-1.680677</longitud>
+    </row>
+    <row id="112">
+        <cod_inscripcion>UPE00885</cod_inscripcion>
+        <nombre>El Camino Urban Rooms</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P*</categoria>
+        <direccion>San Gregorio 12</direccion>
+        <localidad>PAMPLONA</localidad>
+        <municipio>PAMPLONA / IRUÑA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>20</plazas>
+        <fecha_de_inscripcion>12/06/2012 0:00:00</fecha_de_inscripcion>
+        <latitud>42.815791</latitud>
+        <longitud>-1.645768</longitud>
+    </row>
+    <row id="113">
+        <cod_inscripcion>UH000751</cod_inscripcion>
+        <nombre>El Castillo</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>1 Estrella</categoria>
+        <direccion>El Pinar 46</direccion>
+        <localidad>LARRAGA</localidad>
+        <municipio>LARRAGA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>27</plazas>
+        <fecha_de_inscripcion>04/09/2002 0:00:00</fecha_de_inscripcion>
+        <latitud>42.5604598</latitud>
+        <longitud>-1.846952</longitud>
+    </row>
+    <row id="114">
+        <cod_inscripcion>UPE00529</cod_inscripcion>
+        <nombre>El Cerco</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P*</categoria>
+        <direccion>Mayor 3</direccion>
+        <localidad>ARTAJONA</localidad>
+        <municipio>ARTAJONA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>10</plazas>
+        <fecha_de_inscripcion>15/04/1980 0:00:00</fecha_de_inscripcion>
+        <latitud>42.5882553</latitud>
+        <longitud>-1.763427</longitud>
+    </row>
+    <row id="115">
+        <cod_inscripcion>UHR00872</cod_inscripcion>
+        <nombre>El Cerco</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>1 Estrella</categoria>
+        <direccion>Rodrigo Ximénez de Rada 36</direccion>
+        <localidad>PUENTE LA REINA</localidad>
+        <municipio>PUENTE LA REINA / GARES</municipio>
+        <zona>Zona Media</zona>
+        <plazas>14</plazas>
+        <fecha_de_inscripcion>04/05/2011 0:00:00</fecha_de_inscripcion>
+        <latitud>42.6725043</latitud>
+        <longitud>-1.8158759</longitud>
+    </row>
+    <row id="116">
+        <cod_inscripcion>UHS00333</cod_inscripcion>
+        <nombre>El Corzo</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Pamplona-Zaragoza km 70 0</direccion>
+        <localidad>VILLAFRANCA</localidad>
+        <municipio>VILLAFRANCA</municipio>
+        <zona>La Ribera</zona>
+        <plazas>21</plazas>
+        <fecha_de_inscripcion>25/02/1969 0:00:00</fecha_de_inscripcion>
+        <latitud>42.277933</latitud>
+        <longitud>-1.743053</longitud>
+    </row>
+    <row id="117">
+        <cod_inscripcion>UH000848</cod_inscripcion>
+        <nombre>El Juglar</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Rúa Romana 39</direccion>
+        <localidad>OLITE</localidad>
+        <municipio>OLITE / ERRIBERRI</municipio>
+        <zona>Zona Media</zona>
+        <plazas>16</plazas>
+        <fecha_de_inscripcion>20/04/2009 0:00:00</fecha_de_inscripcion>
+        <latitud>42.4881935</latitud>
+        <longitud>-1.6587708</longitud>
+    </row>
+    <row id="118">
+        <cod_inscripcion>UPE00847</cod_inscripcion>
+        <nombre>El Lechuguero</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P**</categoria>
+        <direccion>Obispo Soldevilla 2</direccion>
+        <localidad>CASCANTE</localidad>
+        <municipio>CASCANTE</municipio>
+        <zona>La Ribera</zona>
+        <plazas>29</plazas>
+        <fecha_de_inscripcion>20/04/2009 0:00:00</fecha_de_inscripcion>
+        <latitud>41.9982672</latitud>
+        <longitud>-1.6791188</longitud>
+    </row>
+    <row id="119">
+        <cod_inscripcion>UHS00388</cod_inscripcion>
+        <nombre>El Mirador</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Pamplona-Zaragoza km. 24 0</direccion>
+        <localidad>BARÁSOAIN</localidad>
+        <municipio>BARÁSOAIN</municipio>
+        <zona>Zona Media</zona>
+        <plazas>52</plazas>
+        <fecha_de_inscripcion>03/07/1970 0:00:00</fecha_de_inscripcion>
+        <latitud>42.60339</latitud>
+        <longitud>-1.64658</longitud>
+    </row>
+    <row id="120">
+        <cod_inscripcion>UPE00752</cod_inscripcion>
+        <nombre>El Peregrino</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P*</categoria>
+        <direccion>San Nicolás 50</direccion>
+        <localidad>LARRASOAÑA</localidad>
+        <municipio>ESTERIBAR</municipio>
+        <zona>Pirineos</zona>
+        <plazas>9</plazas>
+        <fecha_de_inscripcion>11/09/2002 0:00:00</fecha_de_inscripcion>
+        <latitud>42.90219</latitud>
+        <longitud>-1.54112</longitud>
+    </row>
+    <row id="121">
+        <cod_inscripcion>UPE00892</cod_inscripcion>
+        <nombre>El Peregrino</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P**</categoria>
+        <direccion>Llano del Real 8</direccion>
+        <localidad>SANGÜESA</localidad>
+        <municipio>SANGÜESA / ZANGOZA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>10</plazas>
+        <fecha_de_inscripcion>31/12/2012 0:00:00</fecha_de_inscripcion>
+        <latitud>42.571087</latitud>
+        <longitud>-1.279749</longitud>
+    </row>
+    <row id="122">
+        <cod_inscripcion>UHS00832</cod_inscripcion>
+        <nombre>El Polígono</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Santos Justo y Pastor 0 s/n</direccion>
+        <localidad>FUSTIÑANA</localidad>
+        <municipio>FUSTIÑANA</municipio>
+        <zona>La Ribera</zona>
+        <plazas>11</plazas>
+        <fecha_de_inscripcion>20/06/2008 0:00:00</fecha_de_inscripcion>
+        <latitud>42.021326</latitud>
+        <longitud>-1.484306</longitud>
+    </row>
+    <row id="124">
+        <cod_inscripcion>UHR00851</cod_inscripcion>
+        <nombre>El Secreto de Ollo</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>1 Estrella</categoria>
+        <direccion>Santo Tomás 8</direccion>
+        <localidad>OLLO</localidad>
+        <municipio>VALLE DE OLLO / OLLARAN</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>18</plazas>
+        <fecha_de_inscripcion>25/11/2009 0:00:00</fecha_de_inscripcion>
+        <latitud>42.866573</latitud>
+        <longitud>-1.858641</longitud>
+    </row>
+    <row id="127">
+        <cod_inscripcion>UHSR0801</cod_inscripcion>
+        <nombre>Elosta</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Alde Zaharra 44 B</direccion>
+        <localidad>LEKUNBERRI</localidad>
+        <municipio>LEKUNBERRI</municipio>
+        <zona>Pirineos</zona>
+        <plazas>14</plazas>
+        <fecha_de_inscripcion>06/09/2006 0:00:00</fecha_de_inscripcion>
+        <latitud>43.004861950000006</latitud>
+        <longitud>-1.895896979887949</longitud>
+    </row>
+    <row id="129">
+        <cod_inscripcion>UHR00704</cod_inscripcion>
+        <nombre>Eseverry</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>Llana 35</direccion>
+        <localidad>JAURRIETA</localidad>
+        <municipio>JAURRIETA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>19</plazas>
+        <fecha_de_inscripcion>28/07/1999 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8874272</latitud>
+        <longitud>-1.1339603</longitud>
+    </row>
+    <row id="130">
+        <cod_inscripcion>UPE00053</cod_inscripcion>
+        <nombre>Eskisaroi</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P**</categoria>
+        <direccion>Jaime Urrutia 40</direccion>
+        <localidad>ELIZONDO</localidad>
+        <municipio>BAZTAN</municipio>
+        <zona>Pirineos</zona>
+        <plazas>10</plazas>
+        <fecha_de_inscripcion>11/12/1950 0:00:00</fecha_de_inscripcion>
+        <latitud>43.1451691</latitud>
+        <longitud>-1.518671</longitud>
+    </row>
+    <row id="132">
+        <cod_inscripcion>UHS00966</cod_inscripcion>
+        <nombre>Espoz y Mina</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Espoz y Mina 17</direccion>
+        <localidad>PAMPLONA</localidad>
+        <municipio>PAMPLONA / IRUÑA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>20</plazas>
+        <fecha_de_inscripcion>27/10/2021 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8161338</latitud>
+        <longitud>-1.6417487</longitud>
+    </row>
+    <row id="134">
+        <cod_inscripcion>UHS00957</cod_inscripcion>
+        <nombre>Estella Rooms</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>San Nicolás 3</direccion>
+        <localidad>ESTELLA-LIZARRA</localidad>
+        <municipio>ESTELLA-LIZARRA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>32</plazas>
+        <fecha_de_inscripcion>12/08/2020 0:00:00</fecha_de_inscripcion>
+        <latitud>42.669101</latitud>
+        <longitud>-2.029631</longitud>
+    </row>
+    <row id="135">
+        <cod_inscripcion>UHSR0809</cod_inscripcion>
+        <nombre>Etayo</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Vitoria 37 bajo</direccion>
+        <localidad>MURIETA</localidad>
+        <municipio>MURIETA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>16</plazas>
+        <fecha_de_inscripcion>14/05/2007 0:00:00</fecha_de_inscripcion>
+        <latitud>42.65796</latitud>
+        <longitud>-2.14469</longitud>
+    </row>
+    <row id="136">
+        <cod_inscripcion>UHSR0671</cod_inscripcion>
+        <nombre>Etxeberri</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>San Gil 20</direccion>
+        <localidad>EUGI</localidad>
+        <municipio>ESTERIBAR</municipio>
+        <zona>Pirineos</zona>
+        <plazas>12</plazas>
+        <fecha_de_inscripcion>13/11/1996 0:00:00</fecha_de_inscripcion>
+        <latitud>42.978887</latitud>
+        <longitud>-1.51036</longitud>
+    </row>
+    <row id="137">
+        <cod_inscripcion>UH000003</cod_inscripcion>
+        <nombre>Europa</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Espoz y Mina 11</direccion>
+        <localidad>PAMPLONA</localidad>
+        <municipio>PAMPLONA / IRUÑA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>38</plazas>
+        <fecha_de_inscripcion>01/01/1949 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8162271</latitud>
+        <longitud>-1.6416661</longitud>
+    </row>
+    <row id="138">
+        <cod_inscripcion>UHS00866</cod_inscripcion>
+        <nombre>Europa</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Padre Ubillos 26</direccion>
+        <localidad>CASTEJÓN</localidad>
+        <municipio>CASTEJÓN</municipio>
+        <zona>La Ribera</zona>
+        <plazas>20</plazas>
+        <fecha_de_inscripcion>23/08/2010 0:00:00</fecha_de_inscripcion>
+        <latitud>42.1670122</latitud>
+        <longitud>-1.689424757159621</longitud>
+    </row>
+    <row id="139">
+        <cod_inscripcion>UH000787</cod_inscripcion>
+        <nombre>Exe Zizur Pamplona</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>4 Estrellas</categoria>
+        <direccion>Etxesakan 3</direccion>
+        <localidad>ZIZUR MAYOR</localidad>
+        <municipio>ZIZUR MAYOR / ZIZUR NAGUSIA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>140</plazas>
+        <fecha_de_inscripcion>10/10/2005 0:00:00</fecha_de_inscripcion>
+        <latitud>42.79093115</latitud>
+        <longitud>-1.6932324402081154</longitud>
+    </row>
+    <row id="140">
+        <cod_inscripcion>UH000797</cod_inscripcion>
+        <nombre>Express By Holiday Inn</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Area Comercial Galaria, Calle 111</direccion>
+        <localidad>MUTILVA</localidad>
+        <municipio>ARANGUREN</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>154</plazas>
+        <fecha_de_inscripcion>06/07/2006 0:00:00</fecha_de_inscripcion>
+        <latitud>42.790027</latitud>
+        <longitud>-1.625154</longitud>
+    </row>
+    <row id="142">
+        <cod_inscripcion>UHSR0690</cod_inscripcion>
+        <nombre>Ezkaurre</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Garagardoia 14</direccion>
+        <localidad>ISABA</localidad>
+        <municipio>ISABA / IZABA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>24</plazas>
+        <fecha_de_inscripcion>01/07/1998 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8620063</latitud>
+        <longitud>-0.9228376</longitud>
+    </row>
+    <row id="144">
+        <cod_inscripcion>uhsr0682</cod_inscripcion>
+        <nombre>Gau-Txori</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Francia por Alduides km.21 0</direccion>
+        <localidad>SAIGOTS</localidad>
+        <municipio>ESTERIBAR</municipio>
+        <zona>Pirineos</zona>
+        <plazas>14</plazas>
+        <fecha_de_inscripcion>04/06/1997 0:00:00</fecha_de_inscripcion>
+        <latitud>42.990926</latitud>
+        <longitud>-1.51488</longitud>
+    </row>
+    <row id="148">
+        <cod_inscripcion>UH000023</cod_inscripcion>
+        <nombre>Gran Hotel La Perla</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>5 Estrellas</categoria>
+        <direccion>del Castillo 1</direccion>
+        <localidad>PAMPLONA</localidad>
+        <municipio>PAMPLONA / IRUÑA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>87</plazas>
+        <fecha_de_inscripcion>13/08/2007 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8176548</latitud>
+        <longitud>-1.6427201</longitud>
+    </row>
+    <row id="149">
+        <cod_inscripcion>UHSR0831</cod_inscripcion>
+        <nombre>Haizea</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Burguete 2</direccion>
+        <localidad>AURIZBERRI/ESPINAL</localidad>
+        <municipio>ERRO</municipio>
+        <zona>Pirineos</zona>
+        <plazas>24</plazas>
+        <fecha_de_inscripcion>30/05/2008 0:00:00</fecha_de_inscripcion>
+        <latitud>42.9659003</latitud>
+        <longitud>-1.3569499</longitud>
+    </row>
+    <row id="150">
+        <cod_inscripcion>UHR00917</cod_inscripcion>
+        <nombre>Heredad Beragu</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>El Abrigo 12</direccion>
+        <localidad>GALLIPIENZO</localidad>
+        <municipio>GALLIPIENZO / GALIPENTZU</municipio>
+        <zona>Zona Media</zona>
+        <plazas>18</plazas>
+        <fecha_de_inscripcion>27/07/2016 0:00:00</fecha_de_inscripcion>
+        <latitud>42.522925</latitud>
+        <longitud>-1.409711</longitud>
+    </row>
+    <row id="151">
+        <cod_inscripcion>UPE00413</cod_inscripcion>
+        <nombre>Hernani</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P*</categoria>
+        <direccion>De la Ribera 52</direccion>
+        <localidad>ARGUEDAS</localidad>
+        <municipio>ARGUEDAS</municipio>
+        <zona>La Ribera</zona>
+        <plazas>10</plazas>
+        <fecha_de_inscripcion>23/01/1973 0:00:00</fecha_de_inscripcion>
+        <latitud>42.175983</latitud>
+        <longitud>-1.598314</longitud>
+    </row>
+    <row id="152">
+        <cod_inscripcion>UHSR0971</cod_inscripcion>
+        <nombre>Hiru Mari</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Corazón de Jesús 12</direccion>
+        <localidad>FALCES</localidad>
+        <municipio>FALCES</municipio>
+        <zona>La Ribera</zona>
+        <plazas>8</plazas>
+        <fecha_de_inscripcion>30/03/2022 0:00:00</fecha_de_inscripcion>
+        <latitud>42.387375</latitud>
+        <longitud>-1.794939</longitud>
+    </row>
+    <row id="153">
+        <cod_inscripcion>UPE00581</cod_inscripcion>
+        <nombre>Hiru-Iturri</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P*</categoria>
+        <direccion>Buru 7</direccion>
+        <localidad>LEKAROZ</localidad>
+        <municipio>BAZTAN</municipio>
+        <zona>Pirineos</zona>
+        <plazas>6</plazas>
+        <fecha_de_inscripcion>09/10/1986 0:00:00</fecha_de_inscripcion>
+        <latitud>43.1453363</latitud>
+        <longitud>-1.5396625</longitud>
+    </row>
+    <row id="154">
+        <cod_inscripcion>UH000886</cod_inscripcion>
+        <nombre>Hola Tafalla</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>4 Estrellas</categoria>
+        <direccion>Javier Osés 4</direccion>
+        <localidad>TAFALLA</localidad>
+        <municipio>TAFALLA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>114</plazas>
+        <fecha_de_inscripcion>26/06/2012 0:00:00</fecha_de_inscripcion>
+        <latitud>42.5226206</latitud>
+        <longitud>-1.6795533</longitud>
+    </row>
+    <row id="155">
+        <cod_inscripcion>UPE00963</cod_inscripcion>
+        <nombre>Horno de la Higuera</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P**</categoria>
+        <direccion>Horno de la Higuera 3</direccion>
+        <localidad>TUDELA</localidad>
+        <municipio>TUDELA</municipio>
+        <zona>La Ribera</zona>
+        <plazas>16</plazas>
+        <fecha_de_inscripcion>29/06/2021 0:00:00</fecha_de_inscripcion>
+        <latitud>42.0628704</latitud>
+        <longitud>-1.6049642</longitud>
+    </row>
+    <row id="156">
+        <cod_inscripcion>UPE00871</cod_inscripcion>
+        <nombre>Hospedaje Ntra. Sra. de Ujué</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P*</categoria>
+        <direccion>Nuestra Señora de Ujué 18</direccion>
+        <localidad>TAFALLA</localidad>
+        <municipio>TAFALLA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>21</plazas>
+        <fecha_de_inscripcion>24/03/2011 0:00:00</fecha_de_inscripcion>
+        <latitud>42.522816</latitud>
+        <longitud>-1.6704406</longitud>
+    </row>
+    <row id="157">
+        <cod_inscripcion>UH000874</cod_inscripcion>
+        <nombre>Hospedería Chapitel</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>4 Estrellas</categoria>
+        <direccion>Chapitel 1</direccion>
+        <localidad>ESTELLA-LIZARRA</localidad>
+        <municipio>ESTELLA-LIZARRA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>27</plazas>
+        <fecha_de_inscripcion>21/06/2011 0:00:00</fecha_de_inscripcion>
+        <latitud>42.670793</latitud>
+        <longitud>-2.028844</longitud>
+    </row>
+    <row id="158">
+        <cod_inscripcion>UHSR0803</cod_inscripcion>
+        <nombre>Hospedería de Alesves</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Bajo el Arco 34</direccion>
+        <localidad>VILLAFRANCA</localidad>
+        <municipio>VILLAFRANCA</municipio>
+        <zona>La Ribera</zona>
+        <plazas>21</plazas>
+        <fecha_de_inscripcion>20/11/2006 0:00:00</fecha_de_inscripcion>
+        <latitud>42.2772474</latitud>
+        <longitud>-1.749182</longitud>
+    </row>
+    <row id="160">
+        <cod_inscripcion>UHR00807</cod_inscripcion>
+        <nombre>Hospedería de Santa Fe</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>1 Estrella</categoria>
+        <direccion>Santa Fe 2</direccion>
+        <localidad>SANTA FE</localidad>
+        <municipio>URRAÚL ALTO</municipio>
+        <zona>Pirineos</zona>
+        <plazas>10</plazas>
+        <fecha_de_inscripcion>23/03/2007 0:00:00</fecha_de_inscripcion>
+        <latitud>42.775099350000005</latitud>
+        <longitud>-1.2464108249181232</longitud>
+    </row>
+    <row id="162">
+        <cod_inscripcion>UHS00769</cod_inscripcion>
+        <nombre>Hostal Bertiz</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>San Juan Bautista 16</direccion>
+        <localidad>OIEREGI</localidad>
+        <municipio>BERTIZARANA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>18</plazas>
+        <fecha_de_inscripcion>23/02/2004 0:00:00</fecha_de_inscripcion>
+        <latitud>43.137267</latitud>
+        <longitud>-1.619043</longitud>
+    </row>
+    <row id="163">
+        <cod_inscripcion>UHSR0680</cod_inscripcion>
+        <nombre>Hostería de Zubiri</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Roncesvalles 6</direccion>
+        <localidad>ZUBIRI</localidad>
+        <municipio>ESTERIBAR</municipio>
+        <zona>Pirineos</zona>
+        <plazas>20</plazas>
+        <fecha_de_inscripcion>21/05/1997 0:00:00</fecha_de_inscripcion>
+        <latitud>42.9296681</latitud>
+        <longitud>-1.5048594</longitud>
+    </row>
+    <row id="164">
+        <cod_inscripcion>UHSR0782</cod_inscripcion>
+        <nombre>Huartearena</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>San Martín 26</direccion>
+        <localidad>IZA</localidad>
+        <municipio>IZA / ITZA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>10</plazas>
+        <fecha_de_inscripcion>19/05/2005 0:00:00</fecha_de_inscripcion>
+        <latitud>42.87918</latitud>
+        <longitud>-1.815974</longitud>
+    </row>
+    <row id="166">
+        <cod_inscripcion>UHR00791</cod_inscripcion>
+        <nombre>Ibaiondo</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Irún, Km. 11 0</direccion>
+        <localidad>OLAVE</localidad>
+        <municipio>OLÁIBAR</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>0</plazas>
+        <fecha_de_inscripcion>07/12/2005 0:00:00</fecha_de_inscripcion>
+        <latitud>42.894092</latitud>
+        <longitud>-1.602533</longitud>
+    </row>
+    <row id="167">
+        <cod_inscripcion>UHS00069</cod_inscripcion>
+        <nombre>Ibaisek</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>San Antón 55</direccion>
+        <localidad>ZUDAIRE</localidad>
+        <municipio>AMÉSCOA BAJA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>45</plazas>
+        <fecha_de_inscripcion>08/02/1980 0:00:00</fecha_de_inscripcion>
+        <latitud>42.77295</latitud>
+        <longitud>-2.13363</longitud>
+    </row>
+    <row id="168">
+        <cod_inscripcion>UHS00888</cod_inscripcion>
+        <nombre>Ibesi</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Aramburu 21</direccion>
+        <localidad>LEZÁUN</localidad>
+        <municipio>LEZAUN</municipio>
+        <zona>Zona Media</zona>
+        <plazas>6</plazas>
+        <fecha_de_inscripcion>16/07/2012 0:00:00</fecha_de_inscripcion>
+        <latitud>42.77739</latitud>
+        <longitud>-1.99385</longitud>
+    </row>
+    <row id="169">
+        <cod_inscripcion>UH000788</cod_inscripcion>
+        <nombre>Ibis StylesPamplona Noain</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Real 0 S/N</direccion>
+        <localidad>NOÁIN</localidad>
+        <municipio>NOÁIN (VALLE DE ELORZ) / NOAIN (ELORTZIBAR)</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>102</plazas>
+        <fecha_de_inscripcion>19/10/2005 0:00:00</fecha_de_inscripcion>
+        <latitud>42.756477</latitud>
+        <longitud>-1.633009</longitud>
+    </row>
+    <row id="170">
+        <cod_inscripcion>UHSR0859</cod_inscripcion>
+        <nombre>Ioar</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Oriente 12</direccion>
+        <localidad>SORLADA</localidad>
+        <municipio>SORLADA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>14</plazas>
+        <fecha_de_inscripcion>18/03/2010 0:00:00</fecha_de_inscripcion>
+        <latitud>42.6151319</latitud>
+        <longitud>-2.2147856</longitud>
+    </row>
+    <row id="171">
+        <cod_inscripcion>UHSR0839</cod_inscripcion>
+        <nombre>Irantzu</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Nueva 8</direccion>
+        <localidad>ARANDIGOYEN</localidad>
+        <municipio>VALLE DE YERRI / DEIERRI</municipio>
+        <zona>Zona Media</zona>
+        <plazas>14</plazas>
+        <fecha_de_inscripcion>28/08/2008 0:00:00</fecha_de_inscripcion>
+        <latitud>42.6663934</latitud>
+        <longitud>-1.9894319</longitud>
+    </row>
+    <row id="172">
+        <cod_inscripcion>UHR00765</cod_inscripcion>
+        <nombre>Irati</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>Ezcaroz 4</direccion>
+        <localidad>JAURRIETA</localidad>
+        <municipio>JAURRIETA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>12</plazas>
+        <fecha_de_inscripcion>30/10/2003 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8953639</latitud>
+        <longitud>-1.1571345</longitud>
+    </row>
+    <row id="173">
+        <cod_inscripcion>UHS00933</cod_inscripcion>
+        <nombre>Iratibizkar</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Ibaialde 1</direccion>
+        <localidad>OCHAGAVÍA</localidad>
+        <municipio>OCHAGAVÍA / OTSAGABIA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>15</plazas>
+        <fecha_de_inscripcion>06/06/2018 0:00:00</fecha_de_inscripcion>
+        <latitud>42.9047905</latitud>
+        <longitud>-1.0912234</longitud>
+    </row>
+    <row id="174">
+        <cod_inscripcion>UHSR0938</cod_inscripcion>
+        <nombre>Iratiko Urkixokoa</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Larraun 0</direccion>
+        <localidad>ORBAIZETA</localidad>
+        <municipio>ORBAIZETA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>20</plazas>
+        <fecha_de_inscripcion>14/09/2018 0:00:00</fecha_de_inscripcion>
+        <latitud>42.9979111</latitud>
+        <longitud>-1.2212037</longitud>
+    </row>
+    <row id="175">
+        <cod_inscripcion>UHR00834</cod_inscripcion>
+        <nombre>Iribarnia</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>San José 8</direccion>
+        <localidad>LANTZ</localidad>
+        <municipio>LANTZ</municipio>
+        <zona>Pirineos</zona>
+        <plazas>22</plazas>
+        <fecha_de_inscripcion>30/06/2008 0:00:00</fecha_de_inscripcion>
+        <latitud>42.998485</latitud>
+        <longitud>-1.61828</longitud>
+    </row>
+    <row id="176">
+        <cod_inscripcion>UHSR0664</cod_inscripcion>
+        <nombre>Irigoienea</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Iribere 3</direccion>
+        <localidad>URDAZUBI/URDAX</localidad>
+        <municipio>URDAZUBI / URDAX</municipio>
+        <zona>Pirineos</zona>
+        <plazas>20</plazas>
+        <fecha_de_inscripcion>26/06/1996 0:00:00</fecha_de_inscripcion>
+        <latitud>43.2690899</latitud>
+        <longitud>-1.50145056913536</longitud>
+    </row>
+    <row id="177">
+        <cod_inscripcion>UH000741</cod_inscripcion>
+        <nombre>Iriguibel</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Intxaurdia 4</direccion>
+        <localidad>HUARTE</localidad>
+        <municipio>HUARTE / UHARTE</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>68</plazas>
+        <fecha_de_inscripcion>06/02/2002 0:00:00</fecha_de_inscripcion>
+        <latitud>42.832095</latitud>
+        <longitud>-1.5857898</longitud>
+    </row>
+    <row id="178">
+        <cod_inscripcion>UH000707</cod_inscripcion>
+        <nombre>Iru Bide</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>1 Estrella</categoria>
+        <direccion>Vitoria 3</direccion>
+        <localidad>ALTSASU/ALSASUA</localidad>
+        <municipio>ALTSASU / ALSASUA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>13</plazas>
+        <fecha_de_inscripcion>01/12/1999 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8909624</latitud>
+        <longitud>-2.1671644</longitud>
+    </row>
+    <row id="179">
+        <cod_inscripcion>UH000407</cod_inscripcion>
+        <nombre>Irubide</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>1 Estrella</categoria>
+        <direccion>Bijues 0 S/N</direccion>
+        <localidad>LUMBIER</localidad>
+        <municipio>LUMBIER</municipio>
+        <zona>Pirineos</zona>
+        <plazas>39</plazas>
+        <fecha_de_inscripcion>12/05/1972 0:00:00</fecha_de_inscripcion>
+        <latitud>42.651219</latitud>
+        <longitud>-1.310678</longitud>
+    </row>
+    <row id="181">
+        <cod_inscripcion>UHSR0804</cod_inscripcion>
+        <nombre>Iruso</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Erreka 14</direccion>
+        <localidad>LEITZA</localidad>
+        <municipio>LEITZA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>8</plazas>
+        <fecha_de_inscripcion>20/11/2006 0:00:00</fecha_de_inscripcion>
+        <latitud>43.1001852</latitud>
+        <longitud>-1.943656</longitud>
+    </row>
+    <row id="182">
+        <cod_inscripcion>UHA00820</cod_inscripcion>
+        <nombre>Isaba</nombre>
+        <modalidad>Hotel-apartamento</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Bormapea 11</direccion>
+        <localidad>ISABA</localidad>
+        <municipio>ISABA / IZABA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>61</plazas>
+        <fecha_de_inscripcion>28/01/2008 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8594008</latitud>
+        <longitud>-0.9243409</longitud>
+    </row>
+    <row id="184">
+        <cod_inscripcion>UHS00714</cod_inscripcion>
+        <nombre>Itxasoenea</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Las Eras 3</direccion>
+        <localidad>AOIZ</localidad>
+        <municipio>AOIZ / AGOITZ</municipio>
+        <zona>Pirineos</zona>
+        <plazas>18</plazas>
+        <fecha_de_inscripcion>20/12/2000 0:00:00</fecha_de_inscripcion>
+        <latitud>42.785781</latitud>
+        <longitud>-1.369644</longitud>
+    </row>
+    <row id="185">
+        <cod_inscripcion>UHSR0770</cod_inscripcion>
+        <nombre>Itzalargikoborda</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>de Berro 0 S/N</direccion>
+        <localidad>ELIZONDO</localidad>
+        <municipio>BAZTAN</municipio>
+        <zona>Pirineos</zona>
+        <plazas>6</plazas>
+        <fecha_de_inscripcion>23/02/2004 0:00:00</fecha_de_inscripcion>
+        <latitud>43.106658</latitud>
+        <longitud>-1.586206</longitud>
+    </row>
+    <row id="186">
+        <cod_inscripcion>UHSR0498</cod_inscripcion>
+        <nombre>Izar-Ondo</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Iruñeko Etorbidea, s/n 0</direccion>
+        <localidad>ARBIZU</localidad>
+        <municipio>ARBIZU</municipio>
+        <zona>Pirineos</zona>
+        <plazas>34</plazas>
+        <fecha_de_inscripcion>19/04/1978 0:00:00</fecha_de_inscripcion>
+        <latitud>42.915434</latitud>
+        <longitud>-2.039554</longitud>
+    </row>
+    <row id="187">
+        <cod_inscripcion>UPE00561</cod_inscripcion>
+        <nombre>Izarra</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P*</categoria>
+        <direccion>Calderería 20</direccion>
+        <localidad>ESTELLA-LIZARRA</localidad>
+        <municipio>ESTELLA-LIZARRA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>8</plazas>
+        <fecha_de_inscripcion>04/08/1983 0:00:00</fecha_de_inscripcion>
+        <latitud>42.6728014</latitud>
+        <longitud>-2.0324615</longitud>
+    </row>
+    <row id="188">
+        <cod_inscripcion>UHS00806</cod_inscripcion>
+        <nombre>Izelai</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Pamplona 20</direccion>
+        <localidad>ALTSASU/ALSASUA</localidad>
+        <municipio>ALTSASU / ALSASUA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>50</plazas>
+        <fecha_de_inscripcion>14/03/2007 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8910058</latitud>
+        <longitud>-2.1631155</longitud>
+    </row>
+    <row id="189">
+        <cod_inscripcion>UHS00734</cod_inscripcion>
+        <nombre>J.P.</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Padre Raimundo Lumbier 3</direccion>
+        <localidad>SANGÜESA</localidad>
+        <municipio>SANGÜESA / ZANGOZA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>13</plazas>
+        <fecha_de_inscripcion>03/10/2001 0:00:00</fecha_de_inscripcion>
+        <latitud>42.5789899</latitud>
+        <longitud>-1.2873021</longitud>
+    </row>
+    <row id="190">
+        <cod_inscripcion>UHS00870</cod_inscripcion>
+        <nombre>Jai Alai</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>II-Landa 18 L1</direccion>
+        <localidad>LEITZA</localidad>
+        <municipio>LEITZA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>31</plazas>
+        <fecha_de_inscripcion>08/02/2011 0:00:00</fecha_de_inscripcion>
+        <latitud>43.0795461</latitud>
+        <longitud>-1.9193151</longitud>
+    </row>
+    <row id="191">
+        <cod_inscripcion>UH000616</cod_inscripcion>
+        <nombre>Jakue</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Irunbidea 34</direccion>
+        <localidad>PUENTE LA REINA</localidad>
+        <municipio>PUENTE LA REINA / GARES</municipio>
+        <zona>Zona Media</zona>
+        <plazas>45</plazas>
+        <fecha_de_inscripcion>22/12/1990 0:00:00</fecha_de_inscripcion>
+        <latitud>42.676215</latitud>
+        <longitud>-1.8063932</longitud>
+    </row>
+    <row id="193">
+        <cod_inscripcion>UPE00301</cod_inscripcion>
+        <nombre>Juandeaburre</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P**</categoria>
+        <direccion>San Nicolás 28</direccion>
+        <localidad>AURITZ/BURGUETE</localidad>
+        <municipio>AURITZ / BURGUETE</municipio>
+        <zona>Pirineos</zona>
+        <plazas>6</plazas>
+        <fecha_de_inscripcion>01/01/1970 0:00:00</fecha_de_inscripcion>
+        <latitud>42.98333</latitud>
+        <longitud>-1.33333</longitud>
+    </row>
+    <row id="194">
+        <cod_inscripcion>UHR00810</cod_inscripcion>
+        <nombre>Kuko</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>Larrapil 6</direccion>
+        <localidad>ORONOZ-MUGAIRI</localidad>
+        <municipio>BAZTAN</municipio>
+        <zona>Pirineos</zona>
+        <plazas>10</plazas>
+        <fecha_de_inscripcion>25/05/2007 0:00:00</fecha_de_inscripcion>
+        <latitud>43.1232231</latitud>
+        <longitud>-1.5982251</longitud>
+    </row>
+    <row id="195">
+        <cod_inscripcion>UHR00816</cod_inscripcion>
+        <nombre>La Antigua Azucarera</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>de la Azucarera 2</direccion>
+        <localidad>MARCILLA</localidad>
+        <municipio>MARCILLA</municipio>
+        <zona>La Ribera</zona>
+        <plazas>8</plazas>
+        <fecha_de_inscripcion>21/12/2007 0:00:00</fecha_de_inscripcion>
+        <latitud>42.33658</latitud>
+        <longitud>-1.71342</longitud>
+    </row>
+    <row id="196">
+        <cod_inscripcion>UPE00951</cod_inscripcion>
+        <nombre>La Atalaya</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P**</categoria>
+        <direccion>Rua San Francisco 9</direccion>
+        <localidad>OLITE</localidad>
+        <municipio>OLITE / ERRIBERRI</municipio>
+        <zona>Zona Media</zona>
+        <plazas>19</plazas>
+        <fecha_de_inscripcion>05/02/2020 0:00:00</fecha_de_inscripcion>
+        <latitud>42.48146</latitud>
+        <longitud>-1.6506392</longitud>
+    </row>
+    <row id="197">
+        <cod_inscripcion>UPE00662</cod_inscripcion>
+        <nombre>La Basque</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P**</categoria>
+        <direccion>Irañeta 1</direccion>
+        <localidad>ETXALAR</localidad>
+        <municipio>ETXALAR</municipio>
+        <zona>Pirineos</zona>
+        <plazas>11</plazas>
+        <fecha_de_inscripcion>12/06/1996 0:00:00</fecha_de_inscripcion>
+        <latitud>43.23376</latitud>
+        <longitud>-1.63671</longitud>
+    </row>
+    <row id="198">
+        <cod_inscripcion>UHS00762</cod_inscripcion>
+        <nombre>La Casa de mi Abuela</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Primicia 35</direccion>
+        <localidad>CINTRUÉNIGO</localidad>
+        <municipio>CINTRUÉNIGO</municipio>
+        <zona>La Ribera</zona>
+        <plazas>10</plazas>
+        <fecha_de_inscripcion>01/09/2003 0:00:00</fecha_de_inscripcion>
+        <latitud>42.0831529</latitud>
+        <longitud>-1.8074055</longitud>
+    </row>
+    <row id="199">
+        <cod_inscripcion>UPE00937</cod_inscripcion>
+        <nombre>La Casa del Hilario</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P*</categoria>
+        <direccion>Dos de agosto 1</direccion>
+        <localidad>MILAGRO</localidad>
+        <municipio>MILAGRO</municipio>
+        <zona>La Ribera</zona>
+        <plazas>12</plazas>
+        <fecha_de_inscripcion>03/09/2018 0:00:00</fecha_de_inscripcion>
+        <latitud>42.242258</latitud>
+        <longitud>-1.763514</longitud>
+    </row>
+    <row id="200">
+        <cod_inscripcion>UHS00403</cod_inscripcion>
+        <nombre>La Parrilla</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Carlos III el Noble 6</direccion>
+        <localidad>TUDELA</localidad>
+        <municipio>TUDELA</municipio>
+        <zona>La Ribera</zona>
+        <plazas>40</plazas>
+        <fecha_de_inscripcion>15/12/1970 0:00:00</fecha_de_inscripcion>
+        <latitud>42.0550494</latitud>
+        <longitud>-1.5977971</longitud>
+    </row>
+    <row id="201">
+        <cod_inscripcion>UHSR0890</cod_inscripcion>
+        <nombre>La Pata de la Oca</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Mayor 5</direccion>
+        <localidad>TORRES DEL RÍO</localidad>
+        <municipio>TORRES DEL RÍO</municipio>
+        <zona>Zona Media</zona>
+        <plazas>11</plazas>
+        <fecha_de_inscripcion>01/10/2012 0:00:00</fecha_de_inscripcion>
+        <latitud>42.616931</latitud>
+        <longitud>-2.15375</longitud>
+    </row>
+    <row id="202">
+        <cod_inscripcion>UHSR0903</cod_inscripcion>
+        <nombre>La Plaza</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Don Rodrigo 39</direccion>
+        <localidad>PUENTE LA REINA</localidad>
+        <municipio>PUENTE LA REINA / GARES</municipio>
+        <zona>Zona Media</zona>
+        <plazas>16</plazas>
+        <fecha_de_inscripcion>30/05/2014 0:00:00</fecha_de_inscripcion>
+        <latitud>42.6725043</latitud>
+        <longitud>-1.8158759</longitud>
+    </row>
+    <row id="203">
+        <cod_inscripcion>UHSR0576</cod_inscripcion>
+        <nombre>La Posada</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Única, s/n 0</direccion>
+        <localidad>ORREAGA/RONCESVALLES</localidad>
+        <municipio>ORREGA / RONCESVALLES</municipio>
+        <zona>Pirineos</zona>
+        <plazas>53</plazas>
+        <fecha_de_inscripcion>30/07/1985 0:00:00</fecha_de_inscripcion>
+        <latitud>43.009925</latitud>
+        <longitud>-1.320078</longitud>
+    </row>
+    <row id="204">
+        <cod_inscripcion>UPE00889</cod_inscripcion>
+        <nombre>La Posada de San Marcial</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P*</categoria>
+        <direccion>San Marcial 13</direccion>
+        <localidad>TUDELA</localidad>
+        <municipio>TUDELA</municipio>
+        <zona>La Ribera</zona>
+        <plazas>8</plazas>
+        <fecha_de_inscripcion>03/09/2012 0:00:00</fecha_de_inscripcion>
+        <latitud>42.061905</latitud>
+        <longitud>-1.60203</longitud>
+    </row>
+    <row id="208">
+        <cod_inscripcion>UHS00953</cod_inscripcion>
+        <nombre>La Rúa</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>La Rua 21</direccion>
+        <localidad>ESTELLA-LIZARRA</localidad>
+        <municipio>ESTELLA-LIZARRA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>9</plazas>
+        <fecha_de_inscripcion>29/06/2020 0:00:00</fecha_de_inscripcion>
+        <latitud>42.6697115</latitud>
+        <longitud>-2.0283335</longitud>
+    </row>
+    <row id="210">
+        <cod_inscripcion>UH000930</cod_inscripcion>
+        <nombre>Landaben</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>Landaben, c/ L 0 s/n</direccion>
+        <localidad>PAMPLONA</localidad>
+        <municipio>PAMPLONA / IRUÑA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>25</plazas>
+        <fecha_de_inscripcion>08/01/2018 0:00:00</fecha_de_inscripcion>
+        <latitud>42.817546</latitud>
+        <longitud>-1.651163</longitud>
+    </row>
+    <row id="211">
+        <cod_inscripcion>UHS00961</cod_inscripcion>
+        <nombre>Larrión</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Urbasa 16</direccion>
+        <localidad>LARRIÓN</localidad>
+        <municipio>ALLÍN / ALLIN</municipio>
+        <zona>Zona Media</zona>
+        <plazas>12</plazas>
+        <fecha_de_inscripcion>17/03/2021 0:00:00</fecha_de_inscripcion>
+        <latitud>42.874023</latitud>
+        <longitud>-2.196153</longitud>
+    </row>
+    <row id="213">
+        <cod_inscripcion>UHS00447</cod_inscripcion>
+        <nombre>Latorre</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Pamplona-Huesca km. 40 0</direccion>
+        <localidad>LIÉDENA</localidad>
+        <municipio>LIÉDENA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>96</plazas>
+        <fecha_de_inscripcion>12/05/1975 0:00:00</fecha_de_inscripcion>
+        <latitud>42.61943</latitud>
+        <longitud>-1.27579</longitud>
+    </row>
+    <row id="214">
+        <cod_inscripcion>UHR00894</cod_inscripcion>
+        <nombre>Latorrien de Ane</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Mayor 128</direccion>
+        <localidad>MUÉS</localidad>
+        <municipio>MUES</municipio>
+        <zona>Zona Media</zona>
+        <plazas>18</plazas>
+        <fecha_de_inscripcion>04/03/2013 0:00:00</fecha_de_inscripcion>
+        <latitud>42.606017</latitud>
+        <longitud>-2.2269038</longitud>
+    </row>
+    <row id="215">
+        <cod_inscripcion>UHR00894</cod_inscripcion>
+        <nombre>Latorrien de Ane</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Mayor 128</direccion>
+        <localidad>MUÉS</localidad>
+        <municipio>MUES</municipio>
+        <zona>Zona Media</zona>
+        <plazas>18</plazas>
+        <fecha_de_inscripcion>04/03/2013 0:00:00</fecha_de_inscripcion>
+        <latitud>42.606017</latitud>
+        <longitud>-2.2269038</longitud>
+    </row>
+    <row id="216">
+        <cod_inscripcion>UHS00774</cod_inscripcion>
+        <nombre>Latxanea</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Iortia 5</direccion>
+        <localidad>ALTSASU/ALSASUA</localidad>
+        <municipio>ALTSASU / ALSASUA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>8</plazas>
+        <fecha_de_inscripcion>26/07/2004 0:00:00</fecha_de_inscripcion>
+        <latitud>42.89432335</latitud>
+        <longitud>-2.1689636521576325</longitud>
+    </row>
+    <row id="217">
+        <cod_inscripcion>UHS00935</cod_inscripcion>
+        <nombre>Legaz</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>La Roza 1</direccion>
+        <localidad>FUNES</localidad>
+        <municipio>FUNES</municipio>
+        <zona>La Ribera</zona>
+        <plazas>25</plazas>
+        <fecha_de_inscripcion>06/12/2018 0:00:00</fecha_de_inscripcion>
+        <latitud>42.3222268</latitud>
+        <longitud>-1.8025268</longitud>
+    </row>
+    <row id="218">
+        <cod_inscripcion>UH000918</cod_inscripcion>
+        <nombre>Lemik</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>de los Fueros 12</direccion>
+        <localidad>ALTSASU/ALSASUA</localidad>
+        <municipio>ALTSASU / ALSASUA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>13</plazas>
+        <fecha_de_inscripcion>11/02/2017 0:00:00</fecha_de_inscripcion>
+        <latitud>42.388266</latitud>
+        <longitud>-1.795749</longitud>
+    </row>
+    <row id="219">
+        <cod_inscripcion>UH000360</cod_inscripcion>
+        <nombre>Leyre</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Leyre 7</direccion>
+        <localidad>PAMPLONA</localidad>
+        <municipio>PAMPLONA / IRUÑA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>101</plazas>
+        <fecha_de_inscripcion>13/09/1969 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8140498</latitud>
+        <longitud>-1.6390238</longitud>
+    </row>
+    <row id="221">
+        <cod_inscripcion>UHS00900</cod_inscripcion>
+        <nombre>Leyre</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Industrial, C/ D 2</direccion>
+        <localidad>AZAGRA</localidad>
+        <municipio>AZAGRA</municipio>
+        <zona>La Ribera</zona>
+        <plazas>16</plazas>
+        <fecha_de_inscripcion>31/03/2014 0:00:00</fecha_de_inscripcion>
+        <latitud>42.068156</latitud>
+        <longitud>-1.799368</longitud>
+    </row>
+    <row id="222">
+        <cod_inscripcion>UHS00761</cod_inscripcion>
+        <nombre>Lizuniaga</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Garaitarreta Auzoa 26</direccion>
+        <localidad>BERA</localidad>
+        <municipio>BERA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>8</plazas>
+        <fecha_de_inscripcion>10/09/2003 0:00:00</fecha_de_inscripcion>
+        <latitud>43.2812907</latitud>
+        <longitud>-1.6531715</longitud>
+    </row>
+    <row id="223">
+        <cod_inscripcion>UHR00007</cod_inscripcion>
+        <nombre>Loizu</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>San Nicolás 13</direccion>
+        <localidad>AURITZ/BURGUETE</localidad>
+        <municipio>AURITZ / BURGUETE</municipio>
+        <zona>Pirineos</zona>
+        <plazas>56</plazas>
+        <fecha_de_inscripcion>13/09/1969 0:00:00</fecha_de_inscripcion>
+        <latitud>42.98333</latitud>
+        <longitud>-1.33333</longitud>
+    </row>
+    <row id="224">
+        <cod_inscripcion>UHSR0089</cod_inscripcion>
+        <nombre>Lola</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Mendigatxa 17</direccion>
+        <localidad>ISABA</localidad>
+        <municipio>ISABA / IZABA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>40</plazas>
+        <fecha_de_inscripcion>17/09/1969 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8625638</latitud>
+        <longitud>-0.921949</longitud>
+    </row>
+    <row id="226">
+        <cod_inscripcion>UPE00633</cod_inscripcion>
+        <nombre>Lorea</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P**</categoria>
+        <direccion>Txikirrin 0 S/N</direccion>
+        <localidad>GARAIOA</localidad>
+        <municipio>GARAIOA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>10</plazas>
+        <fecha_de_inscripcion>24/03/1993 0:00:00</fecha_de_inscripcion>
+        <latitud>42.929875</latitud>
+        <longitud>-1.244705</longitud>
+    </row>
+    <row id="227">
+        <cod_inscripcion>UHSR0643</cod_inscripcion>
+        <nombre>Lorentxo</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Pamplona-Irún Km 11 0</direccion>
+        <localidad>OLAVE</localidad>
+        <municipio>OLÁIBAR</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>20</plazas>
+        <fecha_de_inscripcion>26/10/1994 0:00:00</fecha_de_inscripcion>
+        <latitud>42.894092</latitud>
+        <longitud>-1.602533</longitud>
+    </row>
+    <row id="228">
+        <cod_inscripcion>UPE00912</cod_inscripcion>
+        <nombre>Los Arcos</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P**</categoria>
+        <direccion>La Carrera 8 A</direccion>
+        <localidad>LOS ARCOS</localidad>
+        <municipio>LOS ARCOS</municipio>
+        <zona>Zona Media</zona>
+        <plazas>26</plazas>
+        <fecha_de_inscripcion>12/05/2015 0:00:00</fecha_de_inscripcion>
+        <latitud>42.568188</latitud>
+        <longitud>-2.190006</longitud>
+    </row>
+    <row id="230">
+        <cod_inscripcion>UHS00418</cod_inscripcion>
+        <nombre>Machain</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Dos Hermanas 40</direccion>
+        <localidad>IRURTZUN</localidad>
+        <municipio>IRURTZUN</municipio>
+        <zona>Pirineos</zona>
+        <plazas>18</plazas>
+        <fecha_de_inscripcion>24/03/1973 0:00:00</fecha_de_inscripcion>
+        <latitud>42.92761835</latitud>
+        <longitud>-1.82727800361855</longitud>
+    </row>
+    <row id="231">
+        <cod_inscripcion>UH000395</cod_inscripcion>
+        <nombre>Maher</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Ribera 19</direccion>
+        <localidad>CINTRUÉNIGO</localidad>
+        <municipio>CINTRUÉNIGO</municipio>
+        <zona>La Ribera</zona>
+        <plazas>32</plazas>
+        <fecha_de_inscripcion>08/07/1971 0:00:00</fecha_de_inscripcion>
+        <latitud>42.0836283</latitud>
+        <longitud>-1.8051946</longitud>
+    </row>
+    <row id="232">
+        <cod_inscripcion>UH000346</cod_inscripcion>
+        <nombre>Maisonnave</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>4 Estrellas</categoria>
+        <direccion>Nueva 20</direccion>
+        <localidad>PAMPLONA</localidad>
+        <municipio>PAMPLONA / IRUÑA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>271</plazas>
+        <fecha_de_inscripcion>23/02/1966 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8173355</latitud>
+        <longitud>-1.6451733</longitud>
+    </row>
+    <row id="234">
+        <cod_inscripcion>UHSR0821</cod_inscripcion>
+        <nombre>Mamerto</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>San Lorenzo 13 B</direccion>
+        <localidad>OBANOS</localidad>
+        <municipio>OBANOS</municipio>
+        <zona>Zona Media</zona>
+        <plazas>16</plazas>
+        <fecha_de_inscripcion>20/02/2008 0:00:00</fecha_de_inscripcion>
+        <latitud>42.6931904</latitud>
+        <longitud>-1.8010941</longitud>
+    </row>
+    <row id="237">
+        <cod_inscripcion>uhs00481</cod_inscripcion>
+        <nombre>Marzo</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Ancha 24</direccion>
+        <localidad>LODOSA</localidad>
+        <municipio>LODOSA</municipio>
+        <zona>La Ribera</zona>
+        <plazas>26</plazas>
+        <fecha_de_inscripcion>26/07/1976 0:00:00</fecha_de_inscripcion>
+        <latitud>42.4234075</latitud>
+        <longitud>-2.075985</longitud>
+    </row>
+    <row id="238">
+        <cod_inscripcion>UPE00836</cod_inscripcion>
+        <nombre>Mavi</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P**</categoria>
+        <direccion>Del Medio 7</direccion>
+        <localidad>LOS ARCOS</localidad>
+        <municipio>LOS ARCOS</municipio>
+        <zona>Zona Media</zona>
+        <plazas>16</plazas>
+        <fecha_de_inscripcion>17/07/2008 0:00:00</fecha_de_inscripcion>
+        <latitud>42.5694793</latitud>
+        <longitud>-2.1926466</longitud>
+    </row>
+    <row id="241">
+        <cod_inscripcion>UHSR0942</cod_inscripcion>
+        <nombre>Mendilatz II</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Pantano Irabia 0 Km 4</direccion>
+        <localidad>ORBAIZETA</localidad>
+        <municipio>ORBAIZETA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>20</plazas>
+        <fecha_de_inscripcion>15/01/2019 0:00:00</fecha_de_inscripcion>
+        <latitud>42.990984</latitud>
+        <longitud>-1.148075</longitud>
+    </row>
+    <row id="242">
+        <cod_inscripcion>UH000674</cod_inscripcion>
+        <nombre>Merindad de Olite</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>Rua de la Judería 11</direccion>
+        <localidad>OLITE</localidad>
+        <municipio>OLITE / ERRIBERRI</municipio>
+        <zona>Zona Media</zona>
+        <plazas>20</plazas>
+        <fecha_de_inscripcion>29/01/1997 0:00:00</fecha_de_inscripcion>
+        <latitud>42.4827683</latitud>
+        <longitud>-1.6509351</longitud>
+    </row>
+    <row id="245">
+        <cod_inscripcion>UHS00385</cod_inscripcion>
+        <nombre>Mónaco</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Del Coso 1</direccion>
+        <localidad>LOS ARCOS</localidad>
+        <municipio>LOS ARCOS</municipio>
+        <zona>Zona Media</zona>
+        <plazas>13</plazas>
+        <fecha_de_inscripcion>14/08/1969 0:00:00</fecha_de_inscripcion>
+        <latitud>42.5689226</latitud>
+        <longitud>-2.1906389</longitud>
+    </row>
+    <row id="247">
+        <cod_inscripcion>UH000603</cod_inscripcion>
+        <nombre>NH Iruña Park</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>4 Estrellas</categoria>
+        <direccion>Arcadio Larraona 1</direccion>
+        <localidad>PAMPLONA</localidad>
+        <municipio>PAMPLONA / IRUÑA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>420</plazas>
+        <fecha_de_inscripcion>22/11/1989 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8117125</latitud>
+        <longitud>-1.6637969</longitud>
+    </row>
+    <row id="248">
+        <cod_inscripcion>UHR00796</cod_inscripcion>
+        <nombre>Nobles de Navarra</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Cuesta Zapata 5</direccion>
+        <localidad>AIBAR</localidad>
+        <municipio>AIBAR / OIBAR</municipio>
+        <zona>Zona Media</zona>
+        <plazas>22</plazas>
+        <fecha_de_inscripcion>21/06/2006 0:00:00</fecha_de_inscripcion>
+        <latitud>42.59264</latitud>
+        <longitud>-1.360596</longitud>
+    </row>
+    <row id="250">
+        <cod_inscripcion>UHS00548</cod_inscripcion>
+        <nombre>Ochoa</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Delicias 1</direccion>
+        <localidad>SAN ADRIÁN</localidad>
+        <municipio>SAN ADRIÁN</municipio>
+        <zona>La Ribera</zona>
+        <plazas>28</plazas>
+        <fecha_de_inscripcion>04/06/1982 0:00:00</fecha_de_inscripcion>
+        <latitud>42.3357065</latitud>
+        <longitud>-1.9340195</longitud>
+    </row>
+    <row id="253">
+        <cod_inscripcion>UHSR0725</cod_inscripcion>
+        <nombre>Onbordi</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Frain 52</direccion>
+        <localidad>LESAKA</localidad>
+        <municipio>LESAKA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>24</plazas>
+        <fecha_de_inscripcion>06/06/2001 0:00:00</fecha_de_inscripcion>
+        <latitud>43.255211</latitud>
+        <longitud>-1.7117291</longitud>
+    </row>
+    <row id="254">
+        <cod_inscripcion>UHSR0784</cod_inscripcion>
+        <nombre>Onki Xin</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Izarjentea 25 Bis</direccion>
+        <localidad>ISABA</localidad>
+        <municipio>ISABA / IZABA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>21</plazas>
+        <fecha_de_inscripcion>27/07/2005 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8613183</latitud>
+        <longitud>-0.9237595</longitud>
+    </row>
+    <row id="255">
+        <cod_inscripcion>UHSR0280</cod_inscripcion>
+        <nombre>Orialde</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Urrutia 6</direccion>
+        <localidad>OCHAGAVÍA</localidad>
+        <municipio>OCHAGAVÍA / OTSAGABIA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>19</plazas>
+        <fecha_de_inscripcion>10/10/1962 0:00:00</fecha_de_inscripcion>
+        <latitud>42.9064174</latitud>
+        <longitud>-1.0885703</longitud>
+    </row>
+    <row id="256">
+        <cod_inscripcion>UPE00621</cod_inscripcion>
+        <nombre>Oricáin</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P**</categoria>
+        <direccion>Irún km.5 0</direccion>
+        <localidad>ORICÁIN</localidad>
+        <municipio>EZCABARTE</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>32</plazas>
+        <fecha_de_inscripcion>22/05/1991 0:00:00</fecha_de_inscripcion>
+        <latitud>42.842258</latitud>
+        <longitud>-1.610722</longitud>
+    </row>
+    <row id="257">
+        <cod_inscripcion>UPE00908</cod_inscripcion>
+        <nombre>Ostadar</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P*</categoria>
+        <direccion>San Lázaro 9</direccion>
+        <localidad>LOS ARCOS</localidad>
+        <municipio>LOS ARCOS</municipio>
+        <zona>Zona Media</zona>
+        <plazas>12</plazas>
+        <fecha_de_inscripcion>23/03/2015 0:00:00</fecha_de_inscripcion>
+        <latitud>42.568318</latitud>
+        <longitud>-2.194205</longitud>
+    </row>
+    <row id="258">
+        <cod_inscripcion>UH000901</cod_inscripcion>
+        <nombre>P.N. Príncipe de Viana</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>De los Teobaldos 2</direccion>
+        <localidad>OLITE</localidad>
+        <municipio>OLITE / ERRIBERRI</municipio>
+        <zona>Zona Media</zona>
+        <plazas>85</plazas>
+        <fecha_de_inscripcion>01/01/1965 0:00:00</fecha_de_inscripcion>
+        <latitud>42.481708</latitud>
+        <longitud>-1.649368</longitud>
+    </row>
+    <row id="259">
+        <cod_inscripcion>UHS00688</cod_inscripcion>
+        <nombre>Pagocelai</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Autovia A-15 0 Km 134</direccion>
+        <localidad>GORRITI</localidad>
+        <municipio>LARRAUN</municipio>
+        <zona>Pirineos</zona>
+        <plazas>24</plazas>
+        <fecha_de_inscripcion>04/02/1998 0:00:00</fecha_de_inscripcion>
+        <latitud>43.044343</latitud>
+        <longitud>-1.954274</longitud>
+    </row>
+    <row id="260">
+        <cod_inscripcion>UH000771</cod_inscripcion>
+        <nombre>Palacio de Pujadas</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Navarro Villoslada 30</direccion>
+        <localidad>VIANA</localidad>
+        <municipio>VIANA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>54</plazas>
+        <fecha_de_inscripcion>05/03/2004 0:00:00</fecha_de_inscripcion>
+        <latitud>42.5148842</latitud>
+        <longitud>-2.3733874</longitud>
+    </row>
+    <row id="261">
+        <cod_inscripcion>UHR00904</cod_inscripcion>
+        <nombre>Palacio de Yrisarri</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Irisarri 1</direccion>
+        <localidad>IGANTZI</localidad>
+        <municipio>IGANTZI</municipio>
+        <zona>Pirineos</zona>
+        <plazas>34</plazas>
+        <fecha_de_inscripcion>30/09/2014 0:00:00</fecha_de_inscripcion>
+        <latitud>43.1999894</latitud>
+        <longitud>-1.6916812</longitud>
+    </row>
+    <row id="262">
+        <cod_inscripcion>UHR00860</cod_inscripcion>
+        <nombre>Palacio Dos Olivos</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Luis Balerdi 2</direccion>
+        <localidad>GALDEANO</localidad>
+        <municipio>ALLÍN / ALLIN</municipio>
+        <zona>Zona Media</zona>
+        <plazas>26</plazas>
+        <fecha_de_inscripcion>29/03/2010 0:00:00</fecha_de_inscripcion>
+        <latitud>42.724634</latitud>
+        <longitud>-2.092494</longitud>
+    </row>
+    <row id="263">
+        <cod_inscripcion>UHSR0929</cod_inscripcion>
+        <nombre>Palacio Jaureguía</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Mayor 19</direccion>
+        <localidad>IRURITA</localidad>
+        <municipio>BAZTAN</municipio>
+        <zona>Pirineos</zona>
+        <plazas>7</plazas>
+        <fecha_de_inscripcion>02/08/2017 0:00:00</fecha_de_inscripcion>
+        <latitud>43.1309513</latitud>
+        <longitud>-1.5462728749642571</longitud>
+    </row>
+    <row id="264">
+        <cod_inscripcion>UHS00913</cod_inscripcion>
+        <nombre>Pamplona</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Berrioplano 2</direccion>
+        <localidad>ANSOAIN</localidad>
+        <municipio>ANSOÁIN / ANTSOAIN</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>30</plazas>
+        <fecha_de_inscripcion>02/10/2015 0:00:00</fecha_de_inscripcion>
+        <latitud>42.83113265</latitud>
+        <longitud>-1.647093039866157</longitud>
+    </row>
+    <row id="266">
+        <cod_inscripcion>UH000869</cod_inscripcion>
+        <nombre>Pamplona Catedral Hotel</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>4 Estrellas</categoria>
+        <direccion>Dos de Mayo 4</direccion>
+        <localidad>PAMPLONA</localidad>
+        <municipio>PAMPLONA / IRUÑA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>104</plazas>
+        <fecha_de_inscripcion>22/10/2010 0:00:00</fecha_de_inscripcion>
+        <latitud>42.820069</latitud>
+        <longitud>-1.64367</longitud>
+    </row>
+    <row id="267">
+        <cod_inscripcion>UH000601</cod_inscripcion>
+        <nombre>Pamplona El Toro</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>4 Estrellas</categoria>
+        <direccion>Guipuzcoa km.5 0</direccion>
+        <localidad>BERRIOPLANO</localidad>
+        <municipio>BERRIOPLANO / BERRIOBEITI</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>118</plazas>
+        <fecha_de_inscripcion>25/10/1989 0:00:00</fecha_de_inscripcion>
+        <latitud>42.857018</latitud>
+        <longitud>-1.704184</longitud>
+    </row>
+    <row id="268">
+        <cod_inscripcion>UH000736</cod_inscripcion>
+        <nombre>Pamplona Plaza</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Marcelo Celayeta 35</direccion>
+        <localidad>PAMPLONA</localidad>
+        <municipio>PAMPLONA / IRUÑA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>50</plazas>
+        <fecha_de_inscripcion>26/12/2001 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8260933</latitud>
+        <longitud>-1.6552651586491434</longitud>
+    </row>
+    <row id="270">
+        <cod_inscripcion>UPE00948</cod_inscripcion>
+        <nombre>Patxikuzuria</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P*</categoria>
+        <direccion>Iturrizar 2</direccion>
+        <localidad>AURIZBERRI/ESPINAL</localidad>
+        <municipio>ERRO</municipio>
+        <zona>Pirineos</zona>
+        <plazas>6</plazas>
+        <fecha_de_inscripcion>25/07/2019 0:00:00</fecha_de_inscripcion>
+        <latitud>42.9804009</latitud>
+        <longitud>-1.369241</longitud>
+    </row>
+    <row id="273">
+        <cod_inscripcion>UHR00967</cod_inscripcion>
+        <nombre>Peruskenea</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>Peruskenea 1</direccion>
+        <localidad>BERUETE</localidad>
+        <municipio>BASABURUA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>19</plazas>
+        <fecha_de_inscripcion>30/09/2021 0:00:00</fecha_de_inscripcion>
+        <latitud>43.246953</latitud>
+        <longitud>-1.704705</longitud>
+    </row>
+    <row id="274">
+        <cod_inscripcion>UPE00946</cod_inscripcion>
+        <nombre>Petit Abay Mendavia</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P**</categoria>
+        <direccion>De la Estación 27</direccion>
+        <localidad>MENDAVIA</localidad>
+        <municipio>MENDAVIA</municipio>
+        <zona>La Ribera</zona>
+        <plazas>10</plazas>
+        <fecha_de_inscripcion>20/05/2019 0:00:00</fecha_de_inscripcion>
+        <latitud>42.224703</latitud>
+        <longitud>-2.10103</longitud>
+    </row>
+    <row id="275">
+        <cod_inscripcion>UHS00785</cod_inscripcion>
+        <nombre>Pichorradicas</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Cortadores 11</direccion>
+        <localidad>TUDELA</localidad>
+        <municipio>TUDELA</municipio>
+        <zona>La Ribera</zona>
+        <plazas>14</plazas>
+        <fecha_de_inscripcion>05/08/2005 0:00:00</fecha_de_inscripcion>
+        <latitud>42.0624888</latitud>
+        <longitud>-1.6064112</longitud>
+    </row>
+    <row id="276">
+        <cod_inscripcion>UPE00708</cod_inscripcion>
+        <nombre>Pinilla</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P*</categoria>
+        <direccion>Santa Vicenta 5</direccion>
+        <localidad>CASCANTE</localidad>
+        <municipio>CASCANTE</municipio>
+        <zona>La Ribera</zona>
+        <plazas>13</plazas>
+        <fecha_de_inscripcion>19/01/2000 0:00:00</fecha_de_inscripcion>
+        <latitud>41.99817065</latitud>
+        <longitud>-1.6782620454639738</longitud>
+    </row>
+    <row id="277">
+        <cod_inscripcion>UHS00612</cod_inscripcion>
+        <nombre>Plaza</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>San José de Calasanz 3</direccion>
+        <localidad>BUÑUEL</localidad>
+        <municipio>BUÑUEL</municipio>
+        <zona>La Ribera</zona>
+        <plazas>9</plazas>
+        <fecha_de_inscripcion>08/08/1990 0:00:00</fecha_de_inscripcion>
+        <latitud>41.9805</latitud>
+        <longitud>-1.445445</longitud>
+    </row>
+    <row id="278">
+        <cod_inscripcion>UH000812</cod_inscripcion>
+        <nombre>Plazaola</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Aralar 8</direccion>
+        <localidad>IRURTZUN</localidad>
+        <municipio>IRURTZUN</municipio>
+        <zona>Pirineos</zona>
+        <plazas>68</plazas>
+        <fecha_de_inscripcion>07/09/2007 0:00:00</fecha_de_inscripcion>
+        <latitud>42.9189584</latitud>
+        <longitud>-1.8302633</longitud>
+    </row>
+    <row id="279">
+        <cod_inscripcion>UPE00764</cod_inscripcion>
+        <nombre>Posada de Egüés</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P**</categoria>
+        <direccion>Industrial de Egüés, C/ Z 29</direccion>
+        <localidad>EGÜÉS</localidad>
+        <municipio>VALLE DE EGÜÉS / EGUESIBAR</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>38</plazas>
+        <fecha_de_inscripcion>17/10/2003 0:00:00</fecha_de_inscripcion>
+        <latitud>42.821339</latitud>
+        <longitud>-1.549453</longitud>
+    </row>
+    <row id="280">
+        <cod_inscripcion>UHSR0970</cod_inscripcion>
+        <nombre>Posada Ecuestre Mokorroko Borda</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Altxur 0</direccion>
+        <localidad>ETXALEKU</localidad>
+        <municipio>IMOTZ</municipio>
+        <zona>Pirineos</zona>
+        <plazas>0</plazas>
+        <fecha_de_inscripcion>18/11/2021 0:00:00</fecha_de_inscripcion>
+        <latitud>42.9693</latitud>
+        <longitud>-1.79094</longitud>
+    </row>
+    <row id="281">
+        <cod_inscripcion>UPE00922</cod_inscripcion>
+        <nombre>Posada el Camino</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P*</categoria>
+        <direccion>San Saturnino 46</direccion>
+        <localidad>LINTZOAIN</localidad>
+        <municipio>ERRO</municipio>
+        <zona>Pirineos</zona>
+        <plazas>0</plazas>
+        <fecha_de_inscripcion>28/06/2017 0:00:00</fecha_de_inscripcion>
+        <latitud>42.962206</latitud>
+        <longitud>-1.437884</longitud>
+    </row>
+    <row id="282">
+        <cod_inscripcion>UHSR0759</cod_inscripcion>
+        <nombre>Posada Elbete</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Mayor, s/n (plaza) 0</direccion>
+        <localidad>ELBETE</localidad>
+        <municipio>BAZTAN</municipio>
+        <zona>Pirineos</zona>
+        <plazas>13</plazas>
+        <fecha_de_inscripcion>02/07/2003 0:00:00</fecha_de_inscripcion>
+        <latitud>43.088705</latitud>
+        <longitud>-1.780353</longitud>
+    </row>
+    <row id="283">
+        <cod_inscripcion>UHSR0705</cod_inscripcion>
+        <nombre>Posada Palacio Beola</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Mayor 13</direccion>
+        <localidad>ALMANDOZ</localidad>
+        <municipio>BAZTAN</municipio>
+        <zona>Pirineos</zona>
+        <plazas>31</plazas>
+        <fecha_de_inscripcion>14/10/1999 0:00:00</fecha_de_inscripcion>
+        <latitud>43.090659</latitud>
+        <longitud>-1.605634</longitud>
+    </row>
+    <row id="284">
+        <cod_inscripcion>uhsr0641</cod_inscripcion>
+        <nombre>Posada Sarigarri</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>San Martín 6</direccion>
+        <localidad>ABAURREPEA/ABAURREA BAJA</localidad>
+        <municipio>ABAURREPEA / ABAURREA BAJA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>17</plazas>
+        <fecha_de_inscripcion>08/06/1994 0:00:00</fecha_de_inscripcion>
+        <latitud>42.910277</latitud>
+        <longitud>-1.216436</longitud>
+    </row>
+    <row id="285">
+        <cod_inscripcion>UHR00376</cod_inscripcion>
+        <nombre>Quinto Real</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>1 Estrella</categoria>
+        <direccion>Pamplona-Francia km. 27 0</direccion>
+        <localidad>EUGI</localidad>
+        <municipio>ESTERIBAR</municipio>
+        <zona>Pirineos</zona>
+        <plazas>36</plazas>
+        <fecha_de_inscripcion>28/06/1968 0:00:00</fecha_de_inscripcion>
+        <latitud>42.837893</latitud>
+        <longitud>-1.586703</longitud>
+    </row>
+    <row id="287">
+        <cod_inscripcion>UH000800</cod_inscripcion>
+        <nombre>Ríos</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Celso Muerza 18</direccion>
+        <localidad>SAN ADRIÁN</localidad>
+        <municipio>SAN ADRIÁN</municipio>
+        <zona>La Ribera</zona>
+        <plazas>46</plazas>
+        <fecha_de_inscripcion>06/09/2006 0:00:00</fecha_de_inscripcion>
+        <latitud>42.333608</latitud>
+        <longitud>-1.931426</longitud>
+    </row>
+    <row id="289">
+        <cod_inscripcion>UHR00855</cod_inscripcion>
+        <nombre>Roncesvalles</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Ntra Sra de Roncesvalles 14</direccion>
+        <localidad>ORREAGA/RONCESVALLES</localidad>
+        <municipio>ORREGA / RONCESVALLES</municipio>
+        <zona>Pirineos</zona>
+        <plazas>32</plazas>
+        <fecha_de_inscripcion>09/12/2009 0:00:00</fecha_de_inscripcion>
+        <latitud>43.009925</latitud>
+        <longitud>-1.320078</longitud>
+    </row>
+    <row id="291">
+        <cod_inscripcion>UHA00881</cod_inscripcion>
+        <nombre>Ruralsuite</nombre>
+        <modalidad>Hotel-apartamento</modalidad>
+        <categoria>4 Estrellas</categoria>
+        <direccion>N 121C Tudela-Tarazona 0 Km 7,7</direccion>
+        <localidad>CASCANTE</localidad>
+        <municipio>CASCANTE</municipio>
+        <zona>La Ribera</zona>
+        <plazas>30</plazas>
+        <fecha_de_inscripcion>10/02/2012 0:00:00</fecha_de_inscripcion>
+        <latitud>42.081648</latitud>
+        <longitud>-1.708522</longitud>
+    </row>
+    <row id="292">
+        <cod_inscripcion>UHSR0446</cod_inscripcion>
+        <nombre>Salazar</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Mayor 2</direccion>
+        <localidad>ORONZ</localidad>
+        <municipio>ORONZ / ORONTZE</municipio>
+        <zona>Pirineos</zona>
+        <plazas>24</plazas>
+        <fecha_de_inscripcion>22/03/1975 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8694385</latitud>
+        <longitud>-1.0975965</longitud>
+    </row>
+    <row id="294">
+        <cod_inscripcion>upe00756</cod_inscripcion>
+        <nombre>San Pedro</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P**</categoria>
+        <direccion>Medio de San Pedro 13</direccion>
+        <localidad>VIANA</localidad>
+        <municipio>VIANA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>11</plazas>
+        <fecha_de_inscripcion>19/02/2003 0:00:00</fecha_de_inscripcion>
+        <latitud>42.514676</latitud>
+        <longitud>-2.3733</longitud>
+    </row>
+    <row id="295">
+        <cod_inscripcion>UH000550</cod_inscripcion>
+        <nombre>Sancho Ramírez</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Sancho Ramírez, 11-13 0</direccion>
+        <localidad>PAMPLONA</localidad>
+        <municipio>PAMPLONA / IRUÑA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>153</plazas>
+        <fecha_de_inscripcion>16/07/1982 0:00:00</fecha_de_inscripcion>
+        <latitud>42.807356</latitud>
+        <longitud>-1.664229</longitud>
+    </row>
+    <row id="297">
+        <cod_inscripcion>uh000351</cod_inscripcion>
+        <nombre>Santamaría</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>San Marcial 14</direccion>
+        <localidad>TUDELA</localidad>
+        <municipio>TUDELA</municipio>
+        <zona>La Ribera</zona>
+        <plazas>70</plazas>
+        <fecha_de_inscripcion>04/08/1966 0:00:00</fecha_de_inscripcion>
+        <latitud>42.061621</latitud>
+        <longitud>-1.60126</longitud>
+    </row>
+    <row id="298">
+        <cod_inscripcion>UHSR0702</cod_inscripcion>
+        <nombre>Santamaría</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Mayor 28</direccion>
+        <localidad>DONEZTEBE/SANTESTEBAN</localidad>
+        <municipio>DONEZTEBE / SANTESTEBAN</municipio>
+        <zona>Pirineos</zona>
+        <plazas>17</plazas>
+        <fecha_de_inscripcion>05/05/1999 0:00:00</fecha_de_inscripcion>
+        <latitud>43.131528849999995</latitud>
+        <longitud>-1.6672775264023385</longitud>
+    </row>
+    <row id="299">
+        <cod_inscripcion>UHSR0867</cod_inscripcion>
+        <nombre>Santiago Ramón y Cajal</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Nueva 1</direccion>
+        <localidad>PETILLA DE ARAGÓN</localidad>
+        <municipio>PETILLA DE ARAGÓN</municipio>
+        <zona>Zona Media</zona>
+        <plazas>8</plazas>
+        <fecha_de_inscripcion>10/09/2010 0:00:00</fecha_de_inscripcion>
+        <latitud>42.461189</latitud>
+        <longitud>-1.092945</longitud>
+    </row>
+    <row id="301">
+        <cod_inscripcion>UHSR0876</cod_inscripcion>
+        <nombre>Sarbil</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Mayor 2</direccion>
+        <localidad>IZCUE</localidad>
+        <municipio>CENDEA DE OLZA / OLTZA ZENDEA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>30</plazas>
+        <fecha_de_inscripcion>06/07/2011 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8131241</latitud>
+        <longitud>-1.7799532</longitud>
+    </row>
+    <row id="303">
+        <cod_inscripcion>UH000923</cod_inscripcion>
+        <nombre>Spa Pompaelo</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>4 Estrellas</categoria>
+        <direccion>Consistorial 3</direccion>
+        <localidad>PAMPLONA</localidad>
+        <municipio>PAMPLONA / IRUÑA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>58</plazas>
+        <fecha_de_inscripcion>21/08/2017 0:00:00</fecha_de_inscripcion>
+        <latitud>42.81804</latitud>
+        <longitud>-1.6438882</longitud>
+    </row>
+    <row id="305">
+        <cod_inscripcion>UHS00073</cod_inscripcion>
+        <nombre>Tafalla</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Pamplona-Zaragoza km. 38 0</direccion>
+        <localidad>TAFALLA</localidad>
+        <municipio>TAFALLA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>38</plazas>
+        <fecha_de_inscripcion>11/08/1972 0:00:00</fecha_de_inscripcion>
+        <latitud>42.526385</latitud>
+        <longitud>-1.677316</longitud>
+    </row>
+    <row id="306">
+        <cod_inscripcion>UPE00898</cod_inscripcion>
+        <nombre>Tau</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P*</categoria>
+        <direccion>Errotabidea 18</direccion>
+        <localidad>LARRASOAÑA</localidad>
+        <municipio>ESTERIBAR</municipio>
+        <zona>Pirineos</zona>
+        <plazas>9</plazas>
+        <fecha_de_inscripcion>04/10/2013 0:00:00</fecha_de_inscripcion>
+        <latitud>42.9020284</latitud>
+        <longitud>-1.5402221</longitud>
+    </row>
+    <row id="307">
+        <cod_inscripcion>UHR00858</cod_inscripcion>
+        <nombre>Teodosio de Goñi</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>1 Estrella</categoria>
+        <direccion>San Andrés 20</direccion>
+        <localidad>AIZPÚN</localidad>
+        <municipio>GOÑI</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>17</plazas>
+        <fecha_de_inscripcion>03/03/2010 0:00:00</fecha_de_inscripcion>
+        <latitud>42.83279</latitud>
+        <longitud>-1.87492</longitud>
+    </row>
+    <row id="309">
+        <cod_inscripcion>UHS00749</cod_inscripcion>
+        <nombre>Torre Monreal</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Cuesta de Loreto 8</direccion>
+        <localidad>TUDELA</localidad>
+        <municipio>TUDELA</municipio>
+        <zona>La Ribera</zona>
+        <plazas>48</plazas>
+        <fecha_de_inscripcion>07/08/2002 0:00:00</fecha_de_inscripcion>
+        <latitud>42.059142</latitud>
+        <longitud>-1.6079174</longitud>
+    </row>
+    <row id="310">
+        <cod_inscripcion>UHSR0727</cod_inscripcion>
+        <nombre>Trinquete Antxitonea</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Braulio Iriarte 16</direccion>
+        <localidad>ELIZONDO</localidad>
+        <municipio>BAZTAN</municipio>
+        <zona>Pirineos</zona>
+        <plazas>45</plazas>
+        <fecha_de_inscripcion>20/06/2001 0:00:00</fecha_de_inscripcion>
+        <latitud>43.1455276</latitud>
+        <longitud>-1.5192074</longitud>
+    </row>
+    <row id="311">
+        <cod_inscripcion>UH000020</cod_inscripcion>
+        <nombre>Tudela Bardenas</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Zaragoza 60</direccion>
+        <localidad>TUDELA</localidad>
+        <municipio>TUDELA</municipio>
+        <zona>La Ribera</zona>
+        <plazas>94</plazas>
+        <fecha_de_inscripcion>22/07/1955 0:00:00</fecha_de_inscripcion>
+        <latitud>42.0552724</latitud>
+        <longitud>-1.5983503</longitud>
+    </row>
+    <row id="312">
+        <cod_inscripcion>UHSR0686</cod_inscripcion>
+        <nombre>Txapi-Txuri</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Santa Ursula 63 Bajo</direccion>
+        <localidad>MURILLO EL FRUTO</localidad>
+        <municipio>MURILLO EL FRUTO</municipio>
+        <zona>La Ribera</zona>
+        <plazas>11</plazas>
+        <fecha_de_inscripcion>30/07/1997 0:00:00</fecha_de_inscripcion>
+        <latitud>42.390055</latitud>
+        <longitud>-1.457064</longitud>
+    </row>
+    <row id="313">
+        <cod_inscripcion>UPE00625</cod_inscripcion>
+        <nombre>Txiki</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P*</categoria>
+        <direccion>Mendigatxa 17</direccion>
+        <localidad>ISABA</localidad>
+        <municipio>ISABA / IZABA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>32</plazas>
+        <fecha_de_inscripcion>29/10/1991 0:00:00</fecha_de_inscripcion>
+        <latitud>42.8625638</latitud>
+        <longitud>-0.921949</longitud>
+    </row>
+    <row id="314">
+        <cod_inscripcion>UH000833</cod_inscripcion>
+        <nombre>Tximista</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>4 Estrellas</categoria>
+        <direccion>Zaldu 15</direccion>
+        <localidad>ESTELLA-LIZARRA</localidad>
+        <municipio>ESTELLA-LIZARRA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>56</plazas>
+        <fecha_de_inscripcion>30/06/2008 0:00:00</fecha_de_inscripcion>
+        <latitud>42.678002</latitud>
+        <longitud>-2.066019</longitud>
+    </row>
+    <row id="315">
+        <cod_inscripcion>UPE00943</cod_inscripcion>
+        <nombre>Txomorgain</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P**</categoria>
+        <direccion>Dorrondo 10</direccion>
+        <localidad>ARLEGUI</localidad>
+        <municipio>GALAR</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>4</plazas>
+        <fecha_de_inscripcion>04/04/2019 0:00:00</fecha_de_inscripcion>
+        <latitud>42.742288</latitud>
+        <longitud>-1.677139</longitud>
+    </row>
+    <row id="316">
+        <cod_inscripcion>UH000843</cod_inscripcion>
+        <nombre>Urbasa</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>Nacional, 1, Km 396 0</direccion>
+        <localidad>OLAZTI/OLAZAGUTIA</localidad>
+        <municipio>OLAZTI / OLAZAGUTÍA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>21</plazas>
+        <fecha_de_inscripcion>31/10/2008 0:00:00</fecha_de_inscripcion>
+        <latitud>42.875116</latitud>
+        <longitud>-2.197435</longitud>
+    </row>
+    <row id="317">
+        <cod_inscripcion>UHSR0443</cod_inscripcion>
+        <nombre>Urgain</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Mugairi de Oronoz 2</direccion>
+        <localidad>ORONOZ-MUGAIRI</localidad>
+        <municipio>BAZTAN</municipio>
+        <zona>Pirineos</zona>
+        <plazas>10</plazas>
+        <fecha_de_inscripcion>05/02/1975 0:00:00</fecha_de_inscripcion>
+        <latitud>43.1373127</latitud>
+        <longitud>-1.6109985</longitud>
+    </row>
+    <row id="318">
+        <cod_inscripcion>UH000587</cod_inscripcion>
+        <nombre>Urgain II</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>Mugairi de Oronoz 4</direccion>
+        <localidad>ORONOZ-MUGAIRI</localidad>
+        <municipio>BAZTAN</municipio>
+        <zona>Pirineos</zona>
+        <plazas>52</plazas>
+        <fecha_de_inscripcion>11/03/1988 0:00:00</fecha_de_inscripcion>
+        <latitud>43.13688405</latitud>
+        <longitud>-1.6111157282785973</longitud>
+    </row>
+    <row id="320">
+        <cod_inscripcion>UHR00878</cod_inscripcion>
+        <nombre>Valdorba</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>4 Estrellas</categoria>
+        <direccion>Santa María 29</direccion>
+        <localidad>SANSOÁIN</localidad>
+        <municipio>LEOZ / LEOTZ</municipio>
+        <zona>Zona Media</zona>
+        <plazas>24</plazas>
+        <fecha_de_inscripcion>02/11/2011 0:00:00</fecha_de_inscripcion>
+        <latitud>42.64482</latitud>
+        <longitud>-1.51972</longitud>
+    </row>
+    <row id="321">
+        <cod_inscripcion>UHS00583</cod_inscripcion>
+        <nombre>Venecia</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Diputación 70</direccion>
+        <localidad>AZAGRA</localidad>
+        <municipio>AZAGRA</municipio>
+        <zona>La Ribera</zona>
+        <plazas>16</plazas>
+        <fecha_de_inscripcion>02/01/1987 0:00:00</fecha_de_inscripcion>
+        <latitud>42.3083615</latitud>
+        <longitud>-1.8977896</longitud>
+    </row>
+    <row id="322">
+        <cod_inscripcion>uh000362</cod_inscripcion>
+        <nombre>Venta de Etxalar</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Pamplona-Irún Km. 60 0</direccion>
+        <localidad>ETXALAR</localidad>
+        <municipio>ETXALAR</municipio>
+        <zona>Pirineos</zona>
+        <plazas>71</plazas>
+        <fecha_de_inscripcion>13/10/1969 0:00:00</fecha_de_inscripcion>
+        <latitud>43.338329</latitud>
+        <longitud>-1.754836</longitud>
+    </row>
+    <row id="324">
+        <cod_inscripcion>UHSR0627</cod_inscripcion>
+        <nombre>Venta Udabe</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Udabe 0</direccion>
+        <localidad>UDABE</localidad>
+        <municipio>BASABURUA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>18</plazas>
+        <fecha_de_inscripcion>28/10/1992 0:00:00</fecha_de_inscripcion>
+        <latitud>42.9857413</latitud>
+        <longitud>-1.815171</longitud>
+    </row>
+    <row id="325">
+        <cod_inscripcion>UHR00204</cod_inscripcion>
+        <nombre>Venta Ulzama</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>Pamplona-Francia, Km 31 0</direccion>
+        <localidad>ARRAITZ-ORKIN</localidad>
+        <municipio>ULTZAMA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>27</plazas>
+        <fecha_de_inscripcion>31/10/1949 0:00:00</fecha_de_inscripcion>
+        <latitud>43</latitud>
+        <longitud>-1.63333</longitud>
+    </row>
+    <row id="326">
+        <cod_inscripcion>UPE00893</cod_inscripcion>
+        <nombre>Ver Venir</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P*</categoria>
+        <direccion>Catalain 8</direccion>
+        <localidad>GARÍNOAIN</localidad>
+        <municipio>GARÍNOAIN</municipio>
+        <zona>Zona Media</zona>
+        <plazas>10</plazas>
+        <fecha_de_inscripcion>29/01/2013 0:00:00</fecha_de_inscripcion>
+        <latitud>42.6030936</latitud>
+        <longitud>-1.6435381</longitud>
+    </row>
+    <row id="327">
+        <cod_inscripcion>UH000862</cod_inscripcion>
+        <nombre>Villa de Cárcar</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>El Mallatón, C/ A 1</direccion>
+        <localidad>CÁRCAR</localidad>
+        <municipio>CÁRCAR</municipio>
+        <zona>La Ribera</zona>
+        <plazas>32</plazas>
+        <fecha_de_inscripcion>12/07/2010 0:00:00</fecha_de_inscripcion>
+        <latitud>42.395992</latitud>
+        <longitud>-1.988217</longitud>
+    </row>
+    <row id="328">
+        <cod_inscripcion>UH000781</cod_inscripcion>
+        <nombre>Villa de Larraga</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>4 Estrellas</categoria>
+        <direccion>de Berbinzana 12</direccion>
+        <localidad>LARRAGA</localidad>
+        <municipio>LARRAGA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>40</plazas>
+        <fecha_de_inscripcion>04/05/2005 0:00:00</fecha_de_inscripcion>
+        <latitud>42.557176</latitud>
+        <longitud>-1.849069</longitud>
+    </row>
+    <row id="330">
+        <cod_inscripcion>UHSR0945</cod_inscripcion>
+        <nombre>Villa de Mendavia</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Ayuntamiento 7</direccion>
+        <localidad>MENDAVIA</localidad>
+        <municipio>MENDAVIA</municipio>
+        <zona>La Ribera</zona>
+        <plazas>20</plazas>
+        <fecha_de_inscripcion>02/05/2019 0:00:00</fecha_de_inscripcion>
+        <latitud>42.4420419</latitud>
+        <longitud>-2.2004834</longitud>
+    </row>
+    <row id="331">
+        <cod_inscripcion>UHSR0837</cod_inscripcion>
+        <nombre>Villa Vieja</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsRural</categoria>
+        <direccion>Villavieja 11</direccion>
+        <localidad>OLITE</localidad>
+        <municipio>OLITE / ERRIBERRI</municipio>
+        <zona>Zona Media</zona>
+        <plazas>22</plazas>
+        <fecha_de_inscripcion>28/08/2008 0:00:00</fecha_de_inscripcion>
+        <latitud>42.4809974</latitud>
+        <longitud>-1.6489385</longitud>
+    </row>
+    <row id="332">
+        <cod_inscripcion>UHR00842</cod_inscripcion>
+        <nombre>Villamarcilla</nombre>
+        <modalidad>Hotel rural</modalidad>
+        <categoria>4 Estrellas</categoria>
+        <direccion>Estación, s/n 0</direccion>
+        <localidad>MARCILLA</localidad>
+        <municipio>MARCILLA</municipio>
+        <zona>La Ribera</zona>
+        <plazas>47</plazas>
+        <fecha_de_inscripcion>20/10/2008 0:00:00</fecha_de_inscripcion>
+        <latitud>42.334262</latitud>
+        <longitud>-1.720183</longitud>
+    </row>
+    <row id="333">
+        <cod_inscripcion>UH000783</cod_inscripcion>
+        <nombre>Villava</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>Pamplona 0 S/N</direccion>
+        <localidad>VILLAVA</localidad>
+        <municipio>VILLAVA / ATARRABIA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>115</plazas>
+        <fecha_de_inscripcion>16/06/2005 0:00:00</fecha_de_inscripcion>
+        <latitud>42.831145</latitud>
+        <longitud>-1.619518</longitud>
+    </row>
+    <row id="335">
+        <cod_inscripcion>UH000379</cod_inscripcion>
+        <nombre>Yamaguchi</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>Javier 0 S/N</direccion>
+        <localidad>SANGÜESA</localidad>
+        <municipio>SANGÜESA / ZANGOZA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>74</plazas>
+        <fecha_de_inscripcion>12/11/1968 0:00:00</fecha_de_inscripcion>
+        <latitud>42.376279</latitud>
+        <longitud>-1.437864</longitud>
+    </row>
+    <row id="336">
+        <cod_inscripcion>UH000648</cod_inscripcion>
+        <nombre>Yerri</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>2 Estrellas</categoria>
+        <direccion>Yerri 35</direccion>
+        <localidad>ESTELLA-LIZARRA</localidad>
+        <municipio>ESTELLA-LIZARRA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>52</plazas>
+        <fecha_de_inscripcion>14/06/1995 0:00:00</fecha_de_inscripcion>
+        <latitud>42.6736909</latitud>
+        <longitud>-2.0354179</longitud>
+    </row>
+    <row id="337">
+        <cod_inscripcion>UH000005</cod_inscripcion>
+        <nombre>Yoldi</nombre>
+        <modalidad>Hotel</modalidad>
+        <categoria>3 Estrellas</categoria>
+        <direccion>San Ignacio 11</direccion>
+        <localidad>PAMPLONA</localidad>
+        <municipio>PAMPLONA / IRUÑA</municipio>
+        <zona>Cuenca de Pamplona</zona>
+        <plazas>72</plazas>
+        <fecha_de_inscripcion>11/07/1945 0:00:00</fecha_de_inscripcion>
+        <latitud>42.81536</latitud>
+        <longitud>-1.643352</longitud>
+    </row>
+    <row id="341">
+        <cod_inscripcion>UHS00887</cod_inscripcion>
+        <nombre>Zubi XXI</nombre>
+        <modalidad>Hostal</modalidad>
+        <categoria>HsG</categoria>
+        <direccion>Irunbidea 28</direccion>
+        <localidad>PUENTE LA REINA</localidad>
+        <municipio>PUENTE LA REINA / GARES</municipio>
+        <zona>Zona Media</zona>
+        <plazas>21</plazas>
+        <fecha_de_inscripcion>26/06/2012 0:00:00</fecha_de_inscripcion>
+        <latitud>42.6734653</latitud>
+        <longitud>-1.8120548</longitud>
+    </row>
+    <row id="342">
+        <cod_inscripcion>UPE00844</cod_inscripcion>
+        <nombre>Zubiaren Etxea</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P*</categoria>
+        <direccion>Camino de Santiago 2</direccion>
+        <localidad>ZUBIRI</localidad>
+        <municipio>ESTERIBAR</municipio>
+        <zona>Pirineos</zona>
+        <plazas>7</plazas>
+        <fecha_de_inscripcion>06/11/2008 0:00:00</fecha_de_inscripcion>
+        <latitud>42.9268051</latitud>
+        <longitud>-1.503968</longitud>
+    </row>
+    <row id="343">
+        <cod_inscripcion>UPE00630</cod_inscripcion>
+        <nombre>Zubietako Herriko Ostatua</nombre>
+        <modalidad>Pensión</modalidad>
+        <categoria>P**</categoria>
+        <direccion>Herriko Plaza 1</direccion>
+        <localidad>ZUBIETA</localidad>
+        <municipio>ZUBIETA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>10</plazas>
+        <fecha_de_inscripcion>23/12/1992 0:00:00</fecha_de_inscripcion>
+        <latitud>43.2715078</latitud>
+        <longitud>-2.033048</longitud>
+    </row>
+</data>

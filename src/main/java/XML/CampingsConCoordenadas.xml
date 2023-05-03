@@ -1,0 +1,311 @@
+<?xml version="1.0" ?>
+<data>
+    <row id="1">
+        <cod_inscripcion>UCT00021</cod_inscripcion>
+        <nombre>Acedo</nombre>
+        <modalidad>Camping</modalidad>
+        <categoria>4 estrellas</categoria>
+        <direccion>Acedo-Los Arcos 0</direccion>
+        <localidad>ACEDO</localidad>
+        <municipio>MENDAZA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>1400</plazas>
+        <fecha_de_inscripcion>03/07/1996 0:00:00</fecha_de_inscripcion>
+        <latitud>42.66634</latitud>
+        <longitud>-2.24988</longitud>
+    </row>
+    <row id="2">
+        <cod_inscripcion>UCT00005</cod_inscripcion>
+        <nombre>Aralar</nombre>
+        <modalidad>Camping</modalidad>
+        <categoria>3 estrellas</categoria>
+        <direccion>Plazaola 9</direccion>
+        <localidad>LEKUNBERRI</localidad>
+        <municipio>LEKUNBERRI</municipio>
+        <zona>Pirineos</zona>
+        <plazas>310</plazas>
+        <fecha_de_inscripcion>23/12/1992 0:00:00</fecha_de_inscripcion>
+        <latitud>43.001257</latitud>
+        <longitud>-1.8896699</longitud>
+    </row>
+    <row id="3">
+        <cod_inscripcion>UCT00029</cod_inscripcion>
+        <nombre>Arbizu Eko Kanpina</nombre>
+        <modalidad>Camping</modalidad>
+        <categoria>4 estrellas</categoria>
+        <direccion>Utzu 0 s/n</direccion>
+        <localidad>ARBIZU</localidad>
+        <municipio>ARBIZU</municipio>
+        <zona>Pirineos</zona>
+        <plazas>570</plazas>
+        <fecha_de_inscripcion>11/08/2011 0:00:00</fecha_de_inscripcion>
+        <latitud>42.910061</latitud>
+        <longitud>-2.059084</longitud>
+    </row>
+    <row id="4">
+        <cod_inscripcion>UCT00024</cod_inscripcion>
+        <nombre>Aritzaleku</nombre>
+        <modalidad>Camping</modalidad>
+        <categoria>4 estrellas</categoria>
+        <direccion>San Pedro 0 S/N</direccion>
+        <localidad>LERATE</localidad>
+        <municipio>GUESÁLAZ / GESALATZ</municipio>
+        <zona>Zona Media</zona>
+        <plazas>1251</plazas>
+        <fecha_de_inscripcion>09/02/2000 0:00:00</fecha_de_inscripcion>
+        <latitud>42.752498</latitud>
+        <longitud>-1.933581</longitud>
+    </row>
+    <row id="5">
+        <cod_inscripcion>UCT00019</cod_inscripcion>
+        <nombre>Ariztigain</nombre>
+        <modalidad>Camping</modalidad>
+        <categoria>3 estrellas</categoria>
+        <direccion>Añerdi 11</direccion>
+        <localidad>SUNBILLA</localidad>
+        <municipio>SUNBILLA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>464</plazas>
+        <fecha_de_inscripcion>23/08/1995 0:00:00</fecha_de_inscripcion>
+        <latitud>43.171772</latitud>
+        <longitud>-1.672221</longitud>
+    </row>
+    <row id="6">
+        <cod_inscripcion>UCT00028</cod_inscripcion>
+        <nombre>Artaza Urederra</nombre>
+        <modalidad>Camping</modalidad>
+        <categoria>2 estrellas</categoria>
+        <direccion>de Artaza Km1 0</direccion>
+        <localidad>ARTAZA</localidad>
+        <municipio>AMÉSCOA BAJA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>230</plazas>
+        <fecha_de_inscripcion>20/07/2009 0:00:00</fecha_de_inscripcion>
+        <latitud>42.771544</latitud>
+        <longitud>-2.099694</longitud>
+    </row>
+    <row id="7">
+        <cod_inscripcion>UCT00008</cod_inscripcion>
+        <nombre>Asolaze</nombre>
+        <modalidad>Camping</modalidad>
+        <categoria>3 estrellas</categoria>
+        <direccion>Francia, km. 39,5 0</direccion>
+        <localidad>ISABA</localidad>
+        <municipio>ISABA / IZABA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>381</plazas>
+        <fecha_de_inscripcion>20/07/1984 0:00:00</fecha_de_inscripcion>
+        <latitud>42.861803</latitud>
+        <longitud>-0.922503</longitud>
+    </row>
+    <row id="8">
+        <cod_inscripcion>UCT00027</cod_inscripcion>
+        <nombre>Bardenas</nombre>
+        <modalidad>Camping</modalidad>
+        <categoria>3 estrellas</categoria>
+        <direccion>NA-660 P.K. 13,4 0</direccion>
+        <localidad>VILLAFRANCA</localidad>
+        <municipio>VILLAFRANCA</municipio>
+        <zona>La Ribera</zona>
+        <plazas>391</plazas>
+        <fecha_de_inscripcion>25/02/2009 0:00:00</fecha_de_inscripcion>
+        <latitud>42.269911</latitud>
+        <longitud>-1.742797</longitud>
+    </row>
+    <row id="9">
+        <cod_inscripcion>UCT00018</cod_inscripcion>
+        <nombre>Baztán</nombre>
+        <modalidad>Camping</modalidad>
+        <categoria>4 estrellas</categoria>
+        <direccion>Crta. Francia 0 S/N</direccion>
+        <localidad>ERRATZU</localidad>
+        <municipio>BAZTAN</municipio>
+        <zona>Pirineos</zona>
+        <plazas>500</plazas>
+        <fecha_de_inscripcion>26/07/1995 0:00:00</fecha_de_inscripcion>
+        <latitud>43.148313</latitud>
+        <longitud>-1.513419</longitud>
+    </row>
+    <row id="11">
+        <cod_inscripcion>UCT00011</cod_inscripcion>
+        <nombre>Cantolagua</nombre>
+        <modalidad>Camping</modalidad>
+        <categoria>3 estrellas</categoria>
+        <direccion>de Cantolagua 0</direccion>
+        <localidad>SANGÜESA</localidad>
+        <municipio>SANGÜESA / ZANGOZA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>220</plazas>
+        <fecha_de_inscripcion>22/10/1991 0:00:00</fecha_de_inscripcion>
+        <latitud>42.570533</latitud>
+        <longitud>-1.284186</longitud>
+    </row>
+    <row id="12">
+        <cod_inscripcion>UCT00006</cod_inscripcion>
+        <nombre>El Molino</nombre>
+        <modalidad>Camping</modalidad>
+        <categoria>4 estrellas</categoria>
+        <direccion>Puente La Reina-Larraga k 5</direccion>
+        <localidad>MENDIGORRÍA</localidad>
+        <municipio>MENDIGORRIA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>1363</plazas>
+        <fecha_de_inscripcion>30/07/1983 0:00:00</fecha_de_inscripcion>
+        <latitud>42.627132</latitud>
+        <longitud>-1.834792</longitud>
+    </row>
+    <row id="13">
+        <cod_inscripcion>UCT00026</cod_inscripcion>
+        <nombre>El Real</nombre>
+        <modalidad>Camping</modalidad>
+        <categoria>4 estrellas</categoria>
+        <direccion>El Real 0</direccion>
+        <localidad>PUENTE LA REINA</localidad>
+        <municipio>PUENTE LA REINA / GARES</municipio>
+        <zona>Zona Media</zona>
+        <plazas>163</plazas>
+        <fecha_de_inscripcion>26/05/2005 0:00:00</fecha_de_inscripcion>
+        <latitud>42.6696528</latitud>
+        <longitud>-1.8256608</longitud>
+    </row>
+    <row id="14">
+        <cod_inscripcion>UCT00022</cod_inscripcion>
+        <nombre>Etxarri</nombre>
+        <modalidad>Camping</modalidad>
+        <categoria>4 estrellas</categoria>
+        <direccion>Danbolintxulo 0</direccion>
+        <localidad>ETXARRI-ARANATZ</localidad>
+        <municipio>ETXARRI ARANATZ</municipio>
+        <zona>Pirineos</zona>
+        <plazas>517</plazas>
+        <fecha_de_inscripcion>02/02/2000 0:00:00</fecha_de_inscripcion>
+        <latitud>42.9126955</latitud>
+        <longitud>-2.0726764</longitud>
+    </row>
+    <row id="16">
+        <cod_inscripcion>UCT00025</cod_inscripcion>
+        <nombre>Iratxe</nombre>
+        <modalidad>Camping</modalidad>
+        <categoria>4 estrellas</categoria>
+        <direccion>Prado de Irache 14</direccion>
+        <localidad>AYEGUI</localidad>
+        <municipio>AYEGUI / AIEGI</municipio>
+        <zona>Zona Media</zona>
+        <plazas>982</plazas>
+        <fecha_de_inscripcion>06/08/2004 0:00:00</fecha_de_inscripcion>
+        <latitud>42.6468581</latitud>
+        <longitud>-2.059371</longitud>
+    </row>
+    <row id="17">
+        <cod_inscripcion>UCT00016</cod_inscripcion>
+        <nombre>Iturbero</nombre>
+        <modalidad>Camping</modalidad>
+        <categoria>3 estrellas</categoria>
+        <direccion>Iturbero 0 s/n</direccion>
+        <localidad>LUMBIER</localidad>
+        <municipio>LUMBIER</municipio>
+        <zona>Pirineos</zona>
+        <plazas>336</plazas>
+        <fecha_de_inscripcion>30/09/1992 0:00:00</fecha_de_inscripcion>
+        <latitud>42.651351</latitud>
+        <longitud>-1.302379</longitud>
+    </row>
+    <row id="18">
+        <cod_inscripcion>UCT00030</cod_inscripcion>
+        <nombre>Izarpe</nombre>
+        <modalidad>Camping</modalidad>
+        <categoria>4 estrellas</categoria>
+        <direccion>Gulina Aroztegi Km12,8 0</direccion>
+        <localidad>ARÓSTEGUI</localidad>
+        <municipio>ATETZ / ATEZ</municipio>
+        <zona>Pirineos</zona>
+        <plazas>326</plazas>
+        <fecha_de_inscripcion>09/03/2018 0:00:00</fecha_de_inscripcion>
+        <latitud>42.935999</latitud>
+        <longitud>-1.68505</longitud>
+    </row>
+    <row id="19">
+        <cod_inscripcion>UCT00009</cod_inscripcion>
+        <nombre>Lizarra</nombre>
+        <modalidad>Camping</modalidad>
+        <categoria>4 estrellas</categoria>
+        <direccion>Ordoiz 0</direccion>
+        <localidad>ESTELLA-LIZARRA</localidad>
+        <municipio>ESTELLA-LIZARRA</municipio>
+        <zona>Zona Media</zona>
+        <plazas>1000</plazas>
+        <fecha_de_inscripcion>07/02/1990 0:00:00</fecha_de_inscripcion>
+        <latitud>42.6578413</latitud>
+        <longitud>-2.0230542</longitud>
+    </row>
+    <row id="20">
+        <cod_inscripcion>UCT00015</cod_inscripcion>
+        <nombre>Murkuzuria</nombre>
+        <modalidad>Camping</modalidad>
+        <categoria>3 estrellas</categoria>
+        <direccion>Santa María, s/n 0</direccion>
+        <localidad>ESPARZA DE SALAZAR</localidad>
+        <municipio>ESPARZA DE SALAZAR / ESPARTZA ZARAITZU</municipio>
+        <zona>Pirineos</zona>
+        <plazas>191</plazas>
+        <fecha_de_inscripcion>30/12/1992 0:00:00</fecha_de_inscripcion>
+        <latitud>42.942837</latitud>
+        <longitud>-1.262194</longitud>
+    </row>
+    <row id="21">
+        <cod_inscripcion>UCT00012</cod_inscripcion>
+        <nombre>Osate</nombre>
+        <modalidad>Camping</modalidad>
+        <categoria>3 estrellas</categoria>
+        <direccion>Salazar 0</direccion>
+        <localidad>OCHAGAVÍA</localidad>
+        <municipio>OCHAGAVÍA / OTSAGABIA</municipio>
+        <zona>Pirineos</zona>
+        <plazas>284</plazas>
+        <fecha_de_inscripcion>28/08/1991 0:00:00</fecha_de_inscripcion>
+        <latitud>42.9666505</latitud>
+        <longitud>-1.0073944</longitud>
+    </row>
+    <row id="22">
+        <cod_inscripcion>UCT00013</cod_inscripcion>
+        <nombre>Riezu</nombre>
+        <modalidad>Camping</modalidad>
+        <categoria>3 estrellas</categoria>
+        <direccion>PNA-Estella (por Etxauri) 0</direccion>
+        <localidad>RIEZU</localidad>
+        <municipio>VALLE DE YERRI / DEIERRI</municipio>
+        <zona>Zona Media</zona>
+        <plazas>400</plazas>
+        <fecha_de_inscripcion>27/05/1992 0:00:00</fecha_de_inscripcion>
+        <latitud>42.70161</latitud>
+        <longitud>-1.93806</longitud>
+    </row>
+    <row id="24">
+        <cod_inscripcion>UCT00007</cod_inscripcion>
+        <nombre>Urrobi</nombre>
+        <modalidad>Camping</modalidad>
+        <categoria>3 estrellas</categoria>
+        <direccion>Pamplona-Valcarlos, km 42 0</direccion>
+        <localidad>AURIZBERRI/ESPINAL</localidad>
+        <municipio>ERRO</municipio>
+        <zona>Pirineos</zona>
+        <plazas>1243</plazas>
+        <fecha_de_inscripcion>20/07/1982 0:00:00</fecha_de_inscripcion>
+        <latitud>43.022864</latitud>
+        <longitud>-1.330238</longitud>
+    </row>
+    <row id="25">
+        <cod_inscripcion>UCT00010</cod_inscripcion>
+        <nombre>Urrutea</nombre>
+        <modalidad>Camping</modalidad>
+        <categoria>2 estrellas</categoria>
+        <direccion>Ansó 0</direccion>
+        <localidad>GARDE</localidad>
+        <municipio>GARDE</municipio>
+        <zona>Pirineos</zona>
+        <plazas>150</plazas>
+        <fecha_de_inscripcion>20/07/1990 0:00:00</fecha_de_inscripcion>
+        <latitud>42.7733901</latitud>
+        <longitud>-0.8827525</longitud>
+    </row>
+</data>
