@@ -22,7 +22,7 @@
     </municipio>
     <municipio id="5">
         <nombre>ABLITAS</nombre>
-        <habitantes>2.520</habitantes>
+        <habitantes>2520</habitantes>
     </municipio>
     <municipio id="6">
         <nombre>ADIÓS</nombre>
@@ -38,7 +38,7 @@
     </municipio>
     <municipio id="9">
         <nombre>ALTSASU/ALSASUA</nombre>
-        <habitantes>7.490</habitantes>
+        <habitantes>7490</habitantes>
     </municipio>
     <municipio id="10">
         <nombre>ALLÍN</nombre>
@@ -86,7 +86,7 @@
     </municipio>
     <municipio id="21">
         <nombre>ALLO</nombre>
-        <habitantes>1.012</habitantes>
+        <habitantes>1012</habitantes>
     </municipio>
     <municipio id="22">
         <nombre>AMÉSCOA BAJA</nombre>
@@ -138,11 +138,11 @@
     </municipio>
     <municipio id="34">
         <nombre>ANDOSILLA</nombre>
-        <habitantes>2.753</habitantes>
+        <habitantes>2753</habitantes>
     </municipio>
     <municipio id="35">
         <nombre>ANSOÁIN</nombre>
-        <habitantes>10.830</habitantes>
+        <habitantes>10830</habitantes>
     </municipio>
     <municipio id="36">
         <nombre>ANUE</nombre>
@@ -186,7 +186,7 @@
     </municipio>
     <municipio id="46">
         <nombre>AOIZ</nombre>
-        <habitantes>2.601</habitantes>
+        <habitantes>2601</habitantes>
     </municipio>
     <municipio id="47">
         <nombre>ARAITZ</nombre>
@@ -222,7 +222,7 @@
     </municipio>
     <municipio id="55">
         <nombre>ARANGUREN</nombre>
-        <habitantes>9.398</habitantes>
+        <habitantes>9398</habitantes>
     </municipio>
     <municipio id="56">
         <nombre>Aranguren</nombre>
@@ -242,7 +242,7 @@
     </municipio>
     <municipio id="60">
         <nombre>Otras entidades</nombre>
-        <habitantes>8.820</habitantes>
+        <habitantes>8820</habitantes>
     </municipio>
     <municipio id="61">
         <nombre>ARANO</nombre>
@@ -306,7 +306,7 @@
     </municipio>
     <municipio id="76">
         <nombre>ARBIZU</nombre>
-        <habitantes>1.111</habitantes>
+        <habitantes>1111</habitantes>
     </municipio>
     <municipio id="77">
         <nombre>ARCE</nombre>
@@ -346,7 +346,7 @@
     </municipio>
     <municipio id="86">
         <nombre>LOS ARCOS</nombre>
-        <habitantes>1.136</habitantes>
+        <habitantes>1136</habitantes>
     </municipio>
     <municipio id="87">
         <nombre>ARELLANO</nombre>
@@ -358,7 +358,7 @@
     </municipio>
     <municipio id="89">
         <nombre>ARGUEDAS</nombre>
-        <habitantes>2.295</habitantes>
+        <habitantes>2295</habitantes>
     </municipio>
     <municipio id="90">
         <nombre>ARIA</nombre>
@@ -374,7 +374,7 @@
     </municipio>
     <municipio id="93">
         <nombre>ARRÓNIZ</nombre>
-        <habitantes>1.068</habitantes>
+        <habitantes>1068</habitantes>
     </municipio>
     <municipio id="94">
         <nombre>ARRUAZU</nombre>
@@ -382,7 +382,7 @@
     </municipio>
     <municipio id="95">
         <nombre>ARTAJONA</nombre>
-        <habitantes>1.680</habitantes>
+        <habitantes>1680</habitantes>
     </municipio>
     <municipio id="96">
         <nombre>ARTAZU</nombre>
@@ -418,11 +418,11 @@
     </municipio>
     <municipio id="104">
         <nombre>AYEGUI</nombre>
-        <habitantes>2.217</habitantes>
+        <habitantes>2217</habitantes>
     </municipio>
     <municipio id="105">
         <nombre>AZAGRA</nombre>
-        <habitantes>3.804</habitantes>
+        <habitantes>3804</habitantes>
     </municipio>
     <municipio id="106">
         <nombre>AZUELO</nombre>
@@ -494,7 +494,7 @@
     </municipio>
     <municipio id="123">
         <nombre>BAZTAN</nombre>
-        <habitantes>7.792</habitantes>
+        <habitantes>7792</habitantes>
     </municipio>
     <municipio id="124">
         <nombre>BEIRE</nombre>
@@ -542,7 +542,7 @@
     </municipio>
     <municipio id="135">
         <nombre>BUÑUEL</nombre>
-        <habitantes>2.271</habitantes>
+        <habitantes>2271</habitantes>
     </municipio>
     <municipio id="136">
         <nombre>AURITZ/BURGUETE</nombre>
@@ -554,7 +554,7 @@
     </municipio>
     <municipio id="138">
         <nombre>BURLADA</nombre>
-        <habitantes>18.336</habitantes>
+        <habitantes>18336</habitantes>
     </municipio>
     <municipio id="139">
         <nombre>EL BUSTO</nombre>
@@ -562,7 +562,7 @@
     </municipio>
     <municipio id="140">
         <nombre>CABANILLAS</nombre>
-        <habitantes>1.414</habitantes>
+        <habitantes>1414</habitantes>
     </municipio>
     <municipio id="141">
         <nombre>CABREDO</nombre>
@@ -570,19 +570,19 @@
     </municipio>
     <municipio id="142">
         <nombre>CADREITA</nombre>
-        <habitantes>2.082</habitantes>
+        <habitantes>2082</habitantes>
     </municipio>
     <municipio id="143">
         <nombre>CAPARROSO</nombre>
-        <habitantes>2.773</habitantes>
+        <habitantes>2773</habitantes>
     </municipio>
     <municipio id="144">
         <nombre>CÁRCAR</nombre>
-        <habitantes>1.054</habitantes>
+        <habitantes>1054</habitantes>
     </municipio>
     <municipio id="145">
         <nombre>CARCASTILLO</nombre>
-        <habitantes>2.466</habitantes>
+        <habitantes>2466</habitantes>
     </municipio>
     <municipio id="146">
         <nombre>Figarol</nombre>
@@ -590,11 +590,11 @@
     </municipio>
     <municipio id="147">
         <nombre>Otras entidades</nombre>
-        <habitantes>2.114</habitantes>
+        <habitantes>2114</habitantes>
     </municipio>
     <municipio id="148">
         <nombre>CASCANTE</nombre>
-        <habitantes>3.787</habitantes>
+        <habitantes>3787</habitantes>
     </municipio>
     <municipio id="149">
         <nombre>CÁSEDA</nombre>
@@ -602,7 +602,7 @@
     </municipio>
     <municipio id="150">
         <nombre>CASTEJÓN</nombre>
-        <habitantes>4.062</habitantes>
+        <habitantes>4062</habitantes>
     </municipio>
     <municipio id="151">
         <nombre>CASTILLONUEVO</nombre>
@@ -610,7 +610,7 @@
     </municipio>
     <municipio id="152">
         <nombre>CINTRUÉNIGO</nombre>
-        <habitantes>7.779</habitantes>
+        <habitantes>7779</habitantes>
     </municipio>
     <municipio id="153">
         <nombre>ZIORDIA</nombre>
@@ -626,7 +626,7 @@
     </municipio>
     <municipio id="156">
         <nombre>CIZUR</nombre>
-        <habitantes>3.751</habitantes>
+        <habitantes>3751</habitantes>
     </municipio>
     <municipio id="157">
         <nombre>Astráin</nombre>
@@ -634,7 +634,7 @@
     </municipio>
     <municipio id="158">
         <nombre>Cizur Menor</nombre>
-        <habitantes>2.364</habitantes>
+        <habitantes>2364</habitantes>
     </municipio>
     <municipio id="159">
         <nombre>Gazólaz</nombre>
@@ -666,11 +666,11 @@
     </municipio>
     <municipio id="166">
         <nombre>CORELLA</nombre>
-        <habitantes>7.740</habitantes>
+        <habitantes>7740</habitantes>
     </municipio>
     <municipio id="167">
         <nombre>CORTES</nombre>
-        <habitantes>3.192</habitantes>
+        <habitantes>3192</habitantes>
     </municipio>
     <municipio id="168">
         <nombre>DESOJO</nombre>
@@ -694,7 +694,7 @@
     </municipio>
     <municipio id="173">
         <nombre>ETXARRI ARANATZ</nombre>
-        <habitantes>2.466</habitantes>
+        <habitantes>2466</habitantes>
     </municipio>
     <municipio id="174">
         <nombre>Lizarragabengoa</nombre>
@@ -702,7 +702,7 @@
     </municipio>
     <municipio id="175">
         <nombre>Otras entidades</nombre>
-        <habitantes>2.426</habitantes>
+        <habitantes>2426</habitantes>
     </municipio>
     <municipio id="176">
         <nombre>ETXAURI</nombre>
@@ -710,7 +710,7 @@
     </municipio>
     <municipio id="177">
         <nombre>VALLE DE EGÜÉS</nombre>
-        <habitantes>19.603</habitantes>
+        <habitantes>19603</habitantes>
     </municipio>
     <municipio id="178">
         <nombre>Alzuza</nombre>
@@ -754,7 +754,7 @@
     </municipio>
     <municipio id="188">
         <nombre>Otras entidades</nombre>
-        <habitantes>17.480</habitantes>
+        <habitantes>17480</habitantes>
     </municipio>
     <municipio id="189">
         <nombre>ELGORRIAGA</nombre>
@@ -762,7 +762,7 @@
     </municipio>
     <municipio id="190">
         <nombre>NOÁIN (VALLE DE ELORZ)</nombre>
-        <habitantes>7.892</habitantes>
+        <habitantes>7892</habitantes>
     </municipio>
     <municipio id="191">
         <nombre>Elorz</nombre>
@@ -786,7 +786,7 @@
     </municipio>
     <municipio id="196">
         <nombre>Otras entidades</nombre>
-        <habitantes>6.918</habitantes>
+        <habitantes>6918</habitantes>
     </municipio>
     <municipio id="197">
         <nombre>ENÉRIZ</nombre>
@@ -874,11 +874,11 @@
     </municipio>
     <municipio id="218">
         <nombre>ESTELLA/LIZARRA</nombre>
-        <habitantes>13.702</habitantes>
+        <habitantes>13702</habitantes>
     </municipio>
     <municipio id="219">
         <nombre>ESTERIBAR</nombre>
-        <habitantes>2.598</habitantes>
+        <habitantes>2598</habitantes>
     </municipio>
     <municipio id="220">
         <nombre>Antxoritz</nombre>
@@ -922,7 +922,7 @@
     </municipio>
     <municipio id="230">
         <nombre>Otras entidades</nombre>
-        <habitantes>1.319</habitantes>
+        <habitantes>1319</habitantes>
     </municipio>
     <municipio id="231">
         <nombre>ETAYO</nombre>
@@ -934,11 +934,11 @@
     </municipio>
     <municipio id="233">
         <nombre>EZCABARTE</nombre>
-        <habitantes>1.834</habitantes>
+        <habitantes>1834</habitantes>
     </municipio>
     <municipio id="234">
         <nombre>Arre</nombre>
-        <habitantes>1.079</habitantes>
+        <habitantes>1079</habitantes>
     </municipio>
     <municipio id="235">
         <nombre>Azoz</nombre>
@@ -990,11 +990,11 @@
     </municipio>
     <municipio id="247">
         <nombre>FALCES</nombre>
-        <habitantes>2.390</habitantes>
+        <habitantes>2390</habitantes>
     </municipio>
     <municipio id="248">
         <nombre>FITERO</nombre>
-        <habitantes>2.022</habitantes>
+        <habitantes>2022</habitantes>
     </municipio>
     <municipio id="249">
         <nombre>FONTELLAS</nombre>
@@ -1002,15 +1002,15 @@
     </municipio>
     <municipio id="250">
         <nombre>FUNES</nombre>
-        <habitantes>2.471</habitantes>
+        <habitantes>2471</habitantes>
     </municipio>
     <municipio id="251">
         <nombre>FUSTIÑANA</nombre>
-        <habitantes>2.511</habitantes>
+        <habitantes>2511</habitantes>
     </municipio>
     <municipio id="252">
         <nombre>GALAR</nombre>
-        <habitantes>2.074</habitantes>
+        <habitantes>2074</habitantes>
     </municipio>
     <municipio id="253">
         <nombre>Arlegui</nombre>
@@ -1206,7 +1206,7 @@
     </municipio>
     <municipio id="301">
         <nombre>HUARTE</nombre>
-        <habitantes>6.776</habitantes>
+        <habitantes>6776</habitantes>
     </municipio>
     <municipio id="302">
         <nombre>UHARTE ARAKIL</nombre>
@@ -1310,7 +1310,7 @@
     </municipio>
     <municipio id="327">
         <nombre>IZA</nombre>
-        <habitantes>1.171</habitantes>
+        <habitantes>1171</habitantes>
     </municipio>
     <municipio id="328">
         <nombre>Aguinaga de Iza</nombre>
@@ -1446,7 +1446,7 @@
     </municipio>
     <municipio id="361">
         <nombre>LAKUNTZA</nombre>
-        <habitantes>1.257</habitantes>
+        <habitantes>1257</habitantes>
     </municipio>
     <municipio id="362">
         <nombre>LANA</nombre>
@@ -1490,7 +1490,7 @@
     </municipio>
     <municipio id="372">
         <nombre>LARRAGA</nombre>
-        <habitantes>2.034</habitantes>
+        <habitantes>2034</habitantes>
     </municipio>
     <municipio id="373">
         <nombre>LARRAONA</nombre>
@@ -1578,7 +1578,7 @@
     </municipio>
     <municipio id="394">
         <nombre>LEITZA</nombre>
-        <habitantes>2.888</habitantes>
+        <habitantes>2888</habitantes>
     </municipio>
     <municipio id="395">
         <nombre>LEOZ</nombre>
@@ -1606,11 +1606,11 @@
     </municipio>
     <municipio id="401">
         <nombre>LERÍN</nombre>
-        <habitantes>1.665</habitantes>
+        <habitantes>1665</habitantes>
     </municipio>
     <municipio id="402">
         <nombre>LESAKA</nombre>
-        <habitantes>2.742</habitantes>
+        <habitantes>2742</habitantes>
     </municipio>
     <municipio id="403">
         <nombre>LEZAUN</nombre>
@@ -1626,7 +1626,7 @@
     </municipio>
     <municipio id="406">
         <nombre>LODOSA</nombre>
-        <habitantes>4.741</habitantes>
+        <habitantes>4741</habitantes>
     </municipio>
     <municipio id="407">
         <nombre>LÓNGUIDA</nombre>
@@ -1658,7 +1658,7 @@
     </municipio>
     <municipio id="414">
         <nombre>LUMBIER</nombre>
-        <habitantes>1.349</habitantes>
+        <habitantes>1349</habitantes>
     </municipio>
     <municipio id="415">
         <nombre>LUQUIN</nombre>
@@ -1674,7 +1674,7 @@
     </municipio>
     <municipio id="418">
         <nombre>MARCILLA</nombre>
-        <habitantes>2.800</habitantes>
+        <habitantes>2800</habitantes>
     </municipio>
     <municipio id="419">
         <nombre>MÉLIDA</nombre>
@@ -1682,7 +1682,7 @@
     </municipio>
     <municipio id="420">
         <nombre>MENDAVIA</nombre>
-        <habitantes>3.597</habitantes>
+        <habitantes>3597</habitantes>
     </municipio>
     <municipio id="421">
         <nombre>MENDAZA</nombre>
@@ -1706,7 +1706,7 @@
     </municipio>
     <municipio id="426">
         <nombre>MENDIGORRÍA</nombre>
-        <habitantes>1.055</habitantes>
+        <habitantes>1055</habitantes>
     </municipio>
     <municipio id="427">
         <nombre>METAUTEN</nombre>
@@ -1738,7 +1738,7 @@
     </municipio>
     <municipio id="434">
         <nombre>MILAGRO</nombre>
-        <habitantes>3.290</habitantes>
+        <habitantes>3290</habitantes>
     </municipio>
     <municipio id="435">
         <nombre>MIRAFUENTES</nombre>
@@ -1754,7 +1754,7 @@
     </municipio>
     <municipio id="438">
         <nombre>MONTEAGUDO</nombre>
-        <habitantes>1.097</habitantes>
+        <habitantes>1097</habitantes>
     </municipio>
     <municipio id="439">
         <nombre>MORENTIN</nombre>
@@ -1766,7 +1766,7 @@
     </municipio>
     <municipio id="441">
         <nombre>MURCHANTE</nombre>
-        <habitantes>3.842</habitantes>
+        <habitantes>3842</habitantes>
     </municipio>
     <municipio id="442">
         <nombre>MURIETA</nombre>
@@ -1894,7 +1894,7 @@
     </municipio>
     <municipio id="473">
         <nombre>OLAZTI/OLAZAGUTÍA</nombre>
-        <habitantes>1.520</habitantes>
+        <habitantes>1520</habitantes>
     </municipio>
     <municipio id="474">
         <nombre>OLEJUA</nombre>
@@ -1902,7 +1902,7 @@
     </municipio>
     <municipio id="475">
         <nombre>OLITE</nombre>
-        <habitantes>3.907</habitantes>
+        <habitantes>3907</habitantes>
     </municipio>
     <municipio id="476">
         <nombre>OLÓRIZ</nombre>
@@ -1930,7 +1930,7 @@
     </municipio>
     <municipio id="482">
         <nombre>CENDEA DE OLZA</nombre>
-        <habitantes>1.822</habitantes>
+        <habitantes>1822</habitantes>
     </municipio>
     <municipio id="483">
         <nombre>Arazuri</nombre>
@@ -2030,11 +2030,11 @@
     </municipio>
     <municipio id="507">
         <nombre>PAMPLONA</nombre>
-        <habitantes>195.853</habitantes>
+        <habitantes>195853</habitantes>
     </municipio>
     <municipio id="508">
         <nombre>PERALTA</nombre>
-        <habitantes>5.863</habitantes>
+        <habitantes>5863</habitantes>
     </municipio>
     <municipio id="509">
         <nombre>PETILLA DE ARAGÓN</nombre>
@@ -2050,7 +2050,7 @@
     </municipio>
     <municipio id="512">
         <nombre>PUENTE LA REINA</nombre>
-        <habitantes>2.818</habitantes>
+        <habitantes>2818</habitantes>
     </municipio>
     <municipio id="513">
         <nombre>PUEYO</nombre>
@@ -2058,7 +2058,7 @@
     </municipio>
     <municipio id="514">
         <nombre>RIBAFORADA</nombre>
-        <habitantes>3.692</habitantes>
+        <habitantes>3692</habitantes>
     </municipio>
     <municipio id="515">
         <nombre>ROMANZADO</nombre>
@@ -2102,11 +2102,11 @@
     </municipio>
     <municipio id="525">
         <nombre>SAN ADRIÁN</nombre>
-        <habitantes>6.196</habitantes>
+        <habitantes>6196</habitantes>
     </municipio>
     <municipio id="526">
         <nombre>SANGÜESA</nombre>
-        <habitantes>5.020</habitantes>
+        <habitantes>5020</habitantes>
     </municipio>
     <municipio id="527">
         <nombre>Gabarderal</nombre>
@@ -2118,7 +2118,7 @@
     </municipio>
     <municipio id="529">
         <nombre>Otras entidades</nombre>
-        <habitantes>4.850</habitantes>
+        <habitantes>4850</habitantes>
     </municipio>
     <municipio id="530">
         <nombre>SAN MARTÍN DE UNX</nombre>
@@ -2134,7 +2134,7 @@
     </municipio>
     <municipio id="533">
         <nombre>DONEZTEBE/SANTESTEBAN</nombre>
-        <habitantes>1.658</habitantes>
+        <habitantes>1658</habitantes>
     </municipio>
     <municipio id="534">
         <nombre>SARRIÉS</nombre>
@@ -2150,11 +2150,11 @@
     </municipio>
     <municipio id="537">
         <nombre>SARTAGUDA</nombre>
-        <habitantes>1.372</habitantes>
+        <habitantes>1372</habitantes>
     </municipio>
     <municipio id="538">
         <nombre>SESMA</nombre>
-        <habitantes>1.183</habitantes>
+        <habitantes>1183</habitantes>
     </municipio>
     <municipio id="539">
         <nombre>SORLADA</nombre>
@@ -2166,7 +2166,7 @@
     </municipio>
     <municipio id="541">
         <nombre>TAFALLA</nombre>
-        <habitantes>10.809</habitantes>
+        <habitantes>10809</habitantes>
     </municipio>
     <municipio id="542">
         <nombre>TIEBAS-MURUARTE DE RETA</nombre>
@@ -2202,7 +2202,7 @@
     </municipio>
     <municipio id="550">
         <nombre>TUDELA</nombre>
-        <habitantes>35.388</habitantes>
+        <habitantes>35388</habitantes>
     </municipio>
     <municipio id="551">
         <nombre>TULEBRAS</nombre>
@@ -2218,7 +2218,7 @@
     </municipio>
     <municipio id="554">
         <nombre>ULTZAMA</nombre>
-        <habitantes>1.666</habitantes>
+        <habitantes>1666</habitantes>
     </municipio>
     <municipio id="555">
         <nombre>Alkotz</nombre>
@@ -2394,15 +2394,15 @@
     </municipio>
     <municipio id="598">
         <nombre>VALTIERRA</nombre>
-        <habitantes>2.443</habitantes>
+        <habitantes>2443</habitantes>
     </municipio>
     <municipio id="599">
         <nombre>BERA</nombre>
-        <habitantes>3.768</habitantes>
+        <habitantes>3768</habitantes>
     </municipio>
     <municipio id="600">
         <nombre>VIANA</nombre>
-        <habitantes>4.048</habitantes>
+        <habitantes>4048</habitantes>
     </municipio>
     <municipio id="601">
         <nombre>VIDÁNGOZ</nombre>
@@ -2414,7 +2414,7 @@
     </municipio>
     <municipio id="603">
         <nombre>VILLAFRANCA</nombre>
-        <habitantes>2.805</habitantes>
+        <habitantes>2805</habitantes>
     </municipio>
     <municipio id="604">
         <nombre>VILLAMAYOR DE MONJARDÍN</nombre>
@@ -2426,11 +2426,11 @@
     </municipio>
     <municipio id="606">
         <nombre>VILLATUERTA</nombre>
-        <habitantes>1.137</habitantes>
+        <habitantes>1137</habitantes>
     </municipio>
     <municipio id="607">
         <nombre>VILLAVA</nombre>
-        <habitantes>10.265</habitantes>
+        <habitantes>10265</habitantes>
     </municipio>
     <municipio id="608">
         <nombre>IGANTZI</nombre>
@@ -2438,7 +2438,7 @@
     </municipio>
     <municipio id="609">
         <nombre>VALLE DE YERRI</nombre>
-        <habitantes>1.497</habitantes>
+        <habitantes>1497</habitantes>
     </municipio>
     <municipio id="610">
         <nombre>Alloz</nombre>
@@ -2554,11 +2554,11 @@
     </municipio>
     <municipio id="638">
         <nombre>BARAÑÁIN</nombre>
-        <habitantes>20.475</habitantes>
+        <habitantes>20475</habitantes>
     </municipio>
     <municipio id="639">
         <nombre>BERRIOPLANO</nombre>
-        <habitantes>6.527</habitantes>
+        <habitantes>6527</habitantes>
     </municipio>
     <municipio id="640">
         <nombre>Aizoáin</nombre>
@@ -2570,7 +2570,7 @@
     </municipio>
     <municipio id="642">
         <nombre>Artica</nombre>
-        <habitantes>4.140</habitantes>
+        <habitantes>4140</habitantes>
     </municipio>
     <municipio id="643">
         <nombre>Ballariáin</nombre>
@@ -2602,26 +2602,26 @@
     </municipio>
     <municipio id="650">
         <nombre>BERRIOZAR</nombre>
-        <habitantes>9.625</habitantes>
+        <habitantes>9625</habitantes>
     </municipio>
     <municipio id="651">
         <nombre>IRURTZUN</nombre>
-        <habitantes>2.194</habitantes>
+        <habitantes>2194</habitantes>
     </municipio>
     <municipio id="652">
         <nombre>BERIÁIN</nombre>
-        <habitantes>3.889</habitantes>
+        <habitantes>3889</habitantes>
     </municipio>
     <municipio id="653">
         <nombre>ORKOIEN</nombre>
-        <habitantes>3.770</habitantes>
+        <habitantes>3770</habitantes>
     </municipio>
     <municipio id="654">
         <nombre>ZIZUR MAYOR</nombre>
-        <habitantes>14.493</habitantes>
+        <habitantes>14493</habitantes>
     </municipio>
     <municipio id="655">
         <nombre>LEKUNBERRI</nombre>
-        <habitantes>1.483</habitantes>
+        <habitantes>1483</habitantes>
     </municipio>
 </municipios>
