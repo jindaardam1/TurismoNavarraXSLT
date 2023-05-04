@@ -1,0 +1,2627 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<municipios>
+    <municipio id="0">
+        <nombre>ABÁIGAR</nombre>
+        <habitantes>97</habitantes>
+    </municipio>
+    <municipio id="1">
+        <nombre>ABÁRZUZA</nombre>
+        <habitantes>556</habitantes>
+    </municipio>
+    <municipio id="2">
+        <nombre>ABAURREGAINA/ABAURREA ALTA</nombre>
+        <habitantes>127</habitantes>
+    </municipio>
+    <municipio id="3">
+        <nombre>ABAURREPEA/ABAURREA BAJA</nombre>
+        <habitantes>35</habitantes>
+    </municipio>
+    <municipio id="4">
+        <nombre>ABERIN</nombre>
+        <habitantes>376</habitantes>
+    </municipio>
+    <municipio id="5">
+        <nombre>ABLITAS</nombre>
+        <habitantes>2.520</habitantes>
+    </municipio>
+    <municipio id="6">
+        <nombre>ADIÓS</nombre>
+        <habitantes>170</habitantes>
+    </municipio>
+    <municipio id="7">
+        <nombre>AGUILAR DE CODÉS</nombre>
+        <habitantes>83</habitantes>
+    </municipio>
+    <municipio id="8">
+        <nombre>AIBAR</nombre>
+        <habitantes>832</habitantes>
+    </municipio>
+    <municipio id="9">
+        <nombre>ALTSASU/ALSASUA</nombre>
+        <habitantes>7.490</habitantes>
+    </municipio>
+    <municipio id="10">
+        <nombre>ALLÍN</nombre>
+        <habitantes>848</habitantes>
+    </municipio>
+    <municipio id="11">
+        <nombre>Amillano</nombre>
+        <habitantes>27</habitantes>
+    </municipio>
+    <municipio id="12">
+        <nombre>Aramendía</nombre>
+        <habitantes>56</habitantes>
+    </municipio>
+    <municipio id="13">
+        <nombre>Arbeiza</nombre>
+        <habitantes>174</habitantes>
+    </municipio>
+    <municipio id="14">
+        <nombre>Artavia</nombre>
+        <habitantes>111</habitantes>
+    </municipio>
+    <municipio id="15">
+        <nombre>Echávarri</nombre>
+        <habitantes>62</habitantes>
+    </municipio>
+    <municipio id="16">
+        <nombre>Eulz</nombre>
+        <habitantes>57</habitantes>
+    </municipio>
+    <municipio id="17">
+        <nombre>Galdeano</nombre>
+        <habitantes>63</habitantes>
+    </municipio>
+    <municipio id="18">
+        <nombre>Larrión</nombre>
+        <habitantes>150</habitantes>
+    </municipio>
+    <municipio id="19">
+        <nombre>Muneta</nombre>
+        <habitantes>41</habitantes>
+    </municipio>
+    <municipio id="20">
+        <nombre>Zubielqui</nombre>
+        <habitantes>107</habitantes>
+    </municipio>
+    <municipio id="21">
+        <nombre>ALLO</nombre>
+        <habitantes>1.012</habitantes>
+    </municipio>
+    <municipio id="22">
+        <nombre>AMÉSCOA BAJA</nombre>
+        <habitantes>774</habitantes>
+    </municipio>
+    <municipio id="23">
+        <nombre>Artaza</nombre>
+        <habitantes>160</habitantes>
+    </municipio>
+    <municipio id="24">
+        <nombre>Baquedano</nombre>
+        <habitantes>136</habitantes>
+    </municipio>
+    <municipio id="25">
+        <nombre>Baríndano</nombre>
+        <habitantes>93</habitantes>
+    </municipio>
+    <municipio id="26">
+        <nombre>Ecala</nombre>
+        <habitantes>43</habitantes>
+    </municipio>
+    <municipio id="27">
+        <nombre>Gollano</nombre>
+        <habitantes>32</habitantes>
+    </municipio>
+    <municipio id="28">
+        <nombre>San Martín de Améscoa</nombre>
+        <habitantes>75</habitantes>
+    </municipio>
+    <municipio id="29">
+        <nombre>Zudaire</nombre>
+        <habitantes>234</habitantes>
+    </municipio>
+    <municipio id="30">
+        <nombre>Otras entidades</nombre>
+        <habitantes>1</habitantes>
+    </municipio>
+    <municipio id="31">
+        <nombre>ANCÍN</nombre>
+        <habitantes>376</habitantes>
+    </municipio>
+    <municipio id="32">
+        <nombre>Ancín</nombre>
+        <habitantes>355</habitantes>
+    </municipio>
+    <municipio id="33">
+        <nombre>Mendilibarri</nombre>
+        <habitantes>21</habitantes>
+    </municipio>
+    <municipio id="34">
+        <nombre>ANDOSILLA</nombre>
+        <habitantes>2.753</habitantes>
+    </municipio>
+    <municipio id="35">
+        <nombre>ANSOÁIN</nombre>
+        <habitantes>10.830</habitantes>
+    </municipio>
+    <municipio id="36">
+        <nombre>ANUE</nombre>
+        <habitantes>464</habitantes>
+    </municipio>
+    <municipio id="37">
+        <nombre>Aritzu</nombre>
+        <habitantes>46</habitantes>
+    </municipio>
+    <municipio id="38">
+        <nombre>Burutain</nombre>
+        <habitantes>92</habitantes>
+    </municipio>
+    <municipio id="39">
+        <nombre>Egozkue</nombre>
+        <habitantes>26</habitantes>
+    </municipio>
+    <municipio id="40">
+        <nombre>Etsain</nombre>
+        <habitantes>37</habitantes>
+    </municipio>
+    <municipio id="41">
+        <nombre>Etulain</nombre>
+        <habitantes>31</habitantes>
+    </municipio>
+    <municipio id="42">
+        <nombre>Leazkue</nombre>
+        <habitantes>15</habitantes>
+    </municipio>
+    <municipio id="43">
+        <nombre>Olague</nombre>
+        <habitantes>215</habitantes>
+    </municipio>
+    <municipio id="44">
+        <nombre>Otras entidades</nombre>
+        <habitantes>2</habitantes>
+    </municipio>
+    <municipio id="45">
+        <nombre>AÑORBE</nombre>
+        <habitantes>539</habitantes>
+    </municipio>
+    <municipio id="46">
+        <nombre>AOIZ</nombre>
+        <habitantes>2.601</habitantes>
+    </municipio>
+    <municipio id="47">
+        <nombre>ARAITZ</nombre>
+        <habitantes>522</habitantes>
+    </municipio>
+    <municipio id="48">
+        <nombre>Arribe-Atallu</nombre>
+        <habitantes>241</habitantes>
+    </municipio>
+    <municipio id="49">
+        <nombre>Azkarate</nombre>
+        <habitantes>92</habitantes>
+    </municipio>
+    <municipio id="50">
+        <nombre>Gaintza</nombre>
+        <habitantes>66</habitantes>
+    </municipio>
+    <municipio id="51">
+        <nombre>Intza</nombre>
+        <habitantes>66</habitantes>
+    </municipio>
+    <municipio id="52">
+        <nombre>Uztegi</nombre>
+        <habitantes>57</habitantes>
+    </municipio>
+    <municipio id="53">
+        <nombre>ARANARACHE</nombre>
+        <habitantes>73</habitantes>
+    </municipio>
+    <municipio id="54">
+        <nombre>ARANTZA</nombre>
+        <habitantes>638</habitantes>
+    </municipio>
+    <municipio id="55">
+        <nombre>ARANGUREN</nombre>
+        <habitantes>9.398</habitantes>
+    </municipio>
+    <municipio id="56">
+        <nombre>Aranguren</nombre>
+        <habitantes>83</habitantes>
+    </municipio>
+    <municipio id="57">
+        <nombre>Labiano</nombre>
+        <habitantes>142</habitantes>
+    </municipio>
+    <municipio id="58">
+        <nombre>Tajonar</nombre>
+        <habitantes>317</habitantes>
+    </municipio>
+    <municipio id="59">
+        <nombre>Zolina</nombre>
+        <habitantes>36</habitantes>
+    </municipio>
+    <municipio id="60">
+        <nombre>Otras entidades</nombre>
+        <habitantes>8.820</habitantes>
+    </municipio>
+    <municipio id="61">
+        <nombre>ARANO</nombre>
+        <habitantes>108</habitantes>
+    </municipio>
+    <municipio id="62">
+        <nombre>ARAKIL</nombre>
+        <habitantes>955</habitantes>
+    </municipio>
+    <municipio id="63">
+        <nombre>Egiarreta</nombre>
+        <habitantes>72</habitantes>
+    </municipio>
+    <municipio id="64">
+        <nombre>Ekai</nombre>
+        <habitantes>37</habitantes>
+    </municipio>
+    <municipio id="65">
+        <nombre>Errotz</nombre>
+        <habitantes>80</habitantes>
+    </municipio>
+    <municipio id="66">
+        <nombre>Etxarren</nombre>
+        <habitantes>154</habitantes>
+    </municipio>
+    <municipio id="67">
+        <nombre>Etxeberri</nombre>
+        <habitantes>55</habitantes>
+    </municipio>
+    <municipio id="68">
+        <nombre>Hiriberri/Villanueva</nombre>
+        <habitantes>135</habitantes>
+    </municipio>
+    <municipio id="69">
+        <nombre>Ihabar</nombre>
+        <habitantes>126</habitantes>
+    </municipio>
+    <municipio id="70">
+        <nombre>Izurdiaga</nombre>
+        <habitantes>163</habitantes>
+    </municipio>
+    <municipio id="71">
+        <nombre>Satrustegi</nombre>
+        <habitantes>50</habitantes>
+    </municipio>
+    <municipio id="72">
+        <nombre>Urritzola</nombre>
+        <habitantes>20</habitantes>
+    </municipio>
+    <municipio id="73">
+        <nombre>Zuhatzu</nombre>
+        <habitantes>41</habitantes>
+    </municipio>
+    <municipio id="74">
+        <nombre>Otras entidades</nombre>
+        <habitantes>22</habitantes>
+    </municipio>
+    <municipio id="75">
+        <nombre>ARAS</nombre>
+        <habitantes>172</habitantes>
+    </municipio>
+    <municipio id="76">
+        <nombre>ARBIZU</nombre>
+        <habitantes>1.111</habitantes>
+    </municipio>
+    <municipio id="77">
+        <nombre>ARCE</nombre>
+        <habitantes>264</habitantes>
+    </municipio>
+    <municipio id="78">
+        <nombre>Arrieta</nombre>
+        <habitantes>32</habitantes>
+    </municipio>
+    <municipio id="79">
+        <nombre>Azparren</nombre>
+        <habitantes>26</habitantes>
+    </municipio>
+    <municipio id="80">
+        <nombre>Lacabe</nombre>
+        <habitantes>49</habitantes>
+    </municipio>
+    <municipio id="81">
+        <nombre>Nagore</nombre>
+        <habitantes>42</habitantes>
+    </municipio>
+    <municipio id="82">
+        <nombre>Saragüeta</nombre>
+        <habitantes>17</habitantes>
+    </municipio>
+    <municipio id="83">
+        <nombre>Úriz</nombre>
+        <habitantes>17</habitantes>
+    </municipio>
+    <municipio id="84">
+        <nombre>Villanueva de Arce</nombre>
+        <habitantes>27</habitantes>
+    </municipio>
+    <municipio id="85">
+        <nombre>Otras entidades</nombre>
+        <habitantes>54</habitantes>
+    </municipio>
+    <municipio id="86">
+        <nombre>LOS ARCOS</nombre>
+        <habitantes>1.136</habitantes>
+    </municipio>
+    <municipio id="87">
+        <nombre>ARELLANO</nombre>
+        <habitantes>164</habitantes>
+    </municipio>
+    <municipio id="88">
+        <nombre>ARESO</nombre>
+        <habitantes>260</habitantes>
+    </municipio>
+    <municipio id="89">
+        <nombre>ARGUEDAS</nombre>
+        <habitantes>2.295</habitantes>
+    </municipio>
+    <municipio id="90">
+        <nombre>ARIA</nombre>
+        <habitantes>52</habitantes>
+    </municipio>
+    <municipio id="91">
+        <nombre>ARIBE</nombre>
+        <habitantes>44</habitantes>
+    </municipio>
+    <municipio id="92">
+        <nombre>ARMAÑANZAS</nombre>
+        <habitantes>68</habitantes>
+    </municipio>
+    <municipio id="93">
+        <nombre>ARRÓNIZ</nombre>
+        <habitantes>1.068</habitantes>
+    </municipio>
+    <municipio id="94">
+        <nombre>ARRUAZU</nombre>
+        <habitantes>108</habitantes>
+    </municipio>
+    <municipio id="95">
+        <nombre>ARTAJONA</nombre>
+        <habitantes>1.680</habitantes>
+    </municipio>
+    <municipio id="96">
+        <nombre>ARTAZU</nombre>
+        <habitantes>112</habitantes>
+    </municipio>
+    <municipio id="97">
+        <nombre>ATEZ</nombre>
+        <habitantes>232</habitantes>
+    </municipio>
+    <municipio id="98">
+        <nombre>Aróstegui</nombre>
+        <habitantes>46</habitantes>
+    </municipio>
+    <municipio id="99">
+        <nombre>Berasáin</nombre>
+        <habitantes>30</habitantes>
+    </municipio>
+    <municipio id="100">
+        <nombre>Beunza</nombre>
+        <habitantes>61</habitantes>
+    </municipio>
+    <municipio id="101">
+        <nombre>Ciganda</nombre>
+        <habitantes>26</habitantes>
+    </municipio>
+    <municipio id="102">
+        <nombre>Erice</nombre>
+        <habitantes>35</habitantes>
+    </municipio>
+    <municipio id="103">
+        <nombre>Otras entidades</nombre>
+        <habitantes>34</habitantes>
+    </municipio>
+    <municipio id="104">
+        <nombre>AYEGUI</nombre>
+        <habitantes>2.217</habitantes>
+    </municipio>
+    <municipio id="105">
+        <nombre>AZAGRA</nombre>
+        <habitantes>3.804</habitantes>
+    </municipio>
+    <municipio id="106">
+        <nombre>AZUELO</nombre>
+        <habitantes>37</habitantes>
+    </municipio>
+    <municipio id="107">
+        <nombre>BAKAIKU</nombre>
+        <habitantes>339</habitantes>
+    </municipio>
+    <municipio id="108">
+        <nombre>BARÁSOAIN</nombre>
+        <habitantes>665</habitantes>
+    </municipio>
+    <municipio id="109">
+        <nombre>BARBARIN</nombre>
+        <habitantes>67</habitantes>
+    </municipio>
+    <municipio id="110">
+        <nombre>BARGOTA</nombre>
+        <habitantes>292</habitantes>
+    </municipio>
+    <municipio id="111">
+        <nombre>BARILLAS</nombre>
+        <habitantes>203</habitantes>
+    </municipio>
+    <municipio id="112">
+        <nombre>BASABURUA</nombre>
+        <habitantes>859</habitantes>
+    </municipio>
+    <municipio id="113">
+        <nombre>Arrarats</nombre>
+        <habitantes>56</habitantes>
+    </municipio>
+    <municipio id="114">
+        <nombre>Beruete</nombre>
+        <habitantes>145</habitantes>
+    </municipio>
+    <municipio id="115">
+        <nombre>Gartzaron</nombre>
+        <habitantes>80</habitantes>
+    </municipio>
+    <municipio id="116">
+        <nombre>Igoa</nombre>
+        <habitantes>80</habitantes>
+    </municipio>
+    <municipio id="117">
+        <nombre>Ihaben</nombre>
+        <habitantes>48</habitantes>
+    </municipio>
+    <municipio id="118">
+        <nombre>Itsaso</nombre>
+        <habitantes>60</habitantes>
+    </municipio>
+    <municipio id="119">
+        <nombre>Jauntsarats</nombre>
+        <habitantes>48</habitantes>
+    </municipio>
+    <municipio id="120">
+        <nombre>Orokieta-Erbiti</nombre>
+        <habitantes>77</habitantes>
+    </municipio>
+    <municipio id="121">
+        <nombre>Udabe-Beramendi</nombre>
+        <habitantes>78</habitantes>
+    </municipio>
+    <municipio id="122">
+        <nombre>Otras entidades</nombre>
+        <habitantes>187</habitantes>
+    </municipio>
+    <municipio id="123">
+        <nombre>BAZTAN</nombre>
+        <habitantes>7.792</habitantes>
+    </municipio>
+    <municipio id="124">
+        <nombre>BEIRE</nombre>
+        <habitantes>296</habitantes>
+    </municipio>
+    <municipio id="125">
+        <nombre>BELASCOÁIN</nombre>
+        <habitantes>117</habitantes>
+    </municipio>
+    <municipio id="126">
+        <nombre>BERBINZANA</nombre>
+        <habitantes>633</habitantes>
+    </municipio>
+    <municipio id="127">
+        <nombre>BERTIZARANA</nombre>
+        <habitantes>590</habitantes>
+    </municipio>
+    <municipio id="128">
+        <nombre>Legasa</nombre>
+        <habitantes>250</habitantes>
+    </municipio>
+    <municipio id="129">
+        <nombre>Narbarte</nombre>
+        <habitantes>283</habitantes>
+    </municipio>
+    <municipio id="130">
+        <nombre>Oieregi</nombre>
+        <habitantes>57</habitantes>
+    </municipio>
+    <municipio id="131">
+        <nombre>BETELU</nombre>
+        <habitantes>347</habitantes>
+    </municipio>
+    <municipio id="132">
+        <nombre>BIURRUN-OLCOZ</nombre>
+        <habitantes>219</habitantes>
+    </municipio>
+    <municipio id="133">
+        <nombre>Biurrun</nombre>
+        <habitantes>178</habitantes>
+    </municipio>
+    <municipio id="134">
+        <nombre>Olcoz</nombre>
+        <habitantes>41</habitantes>
+    </municipio>
+    <municipio id="135">
+        <nombre>BUÑUEL</nombre>
+        <habitantes>2.271</habitantes>
+    </municipio>
+    <municipio id="136">
+        <nombre>AURITZ/BURGUETE</nombre>
+        <habitantes>262</habitantes>
+    </municipio>
+    <municipio id="137">
+        <nombre>BURGUI</nombre>
+        <habitantes>223</habitantes>
+    </municipio>
+    <municipio id="138">
+        <nombre>BURLADA</nombre>
+        <habitantes>18.336</habitantes>
+    </municipio>
+    <municipio id="139">
+        <nombre>EL BUSTO</nombre>
+        <habitantes>71</habitantes>
+    </municipio>
+    <municipio id="140">
+        <nombre>CABANILLAS</nombre>
+        <habitantes>1.414</habitantes>
+    </municipio>
+    <municipio id="141">
+        <nombre>CABREDO</nombre>
+        <habitantes>104</habitantes>
+    </municipio>
+    <municipio id="142">
+        <nombre>CADREITA</nombre>
+        <habitantes>2.082</habitantes>
+    </municipio>
+    <municipio id="143">
+        <nombre>CAPARROSO</nombre>
+        <habitantes>2.773</habitantes>
+    </municipio>
+    <municipio id="144">
+        <nombre>CÁRCAR</nombre>
+        <habitantes>1.054</habitantes>
+    </municipio>
+    <municipio id="145">
+        <nombre>CARCASTILLO</nombre>
+        <habitantes>2.466</habitantes>
+    </municipio>
+    <municipio id="146">
+        <nombre>Figarol</nombre>
+        <habitantes>352</habitantes>
+    </municipio>
+    <municipio id="147">
+        <nombre>Otras entidades</nombre>
+        <habitantes>2.114</habitantes>
+    </municipio>
+    <municipio id="148">
+        <nombre>CASCANTE</nombre>
+        <habitantes>3.787</habitantes>
+    </municipio>
+    <municipio id="149">
+        <nombre>CÁSEDA</nombre>
+        <habitantes>989</habitantes>
+    </municipio>
+    <municipio id="150">
+        <nombre>CASTEJÓN</nombre>
+        <habitantes>4.062</habitantes>
+    </municipio>
+    <municipio id="151">
+        <nombre>CASTILLONUEVO</nombre>
+        <habitantes>16</habitantes>
+    </municipio>
+    <municipio id="152">
+        <nombre>CINTRUÉNIGO</nombre>
+        <habitantes>7.779</habitantes>
+    </municipio>
+    <municipio id="153">
+        <nombre>ZIORDIA</nombre>
+        <habitantes>389</habitantes>
+    </municipio>
+    <municipio id="154">
+        <nombre>CIRAUQUI</nombre>
+        <habitantes>483</habitantes>
+    </municipio>
+    <municipio id="155">
+        <nombre>CIRIZA</nombre>
+        <habitantes>131</habitantes>
+    </municipio>
+    <municipio id="156">
+        <nombre>CIZUR</nombre>
+        <habitantes>3.751</habitantes>
+    </municipio>
+    <municipio id="157">
+        <nombre>Astráin</nombre>
+        <habitantes>350</habitantes>
+    </municipio>
+    <municipio id="158">
+        <nombre>Cizur Menor</nombre>
+        <habitantes>2.364</habitantes>
+    </municipio>
+    <municipio id="159">
+        <nombre>Gazólaz</nombre>
+        <habitantes>135</habitantes>
+    </municipio>
+    <municipio id="160">
+        <nombre>Larraya</nombre>
+        <habitantes>64</habitantes>
+    </municipio>
+    <municipio id="161">
+        <nombre>Muru-Astráin</nombre>
+        <habitantes>60</habitantes>
+    </municipio>
+    <municipio id="162">
+        <nombre>Paternáin</nombre>
+        <habitantes>357</habitantes>
+    </municipio>
+    <municipio id="163">
+        <nombre>Undiano</nombre>
+        <habitantes>202</habitantes>
+    </municipio>
+    <municipio id="164">
+        <nombre>Zariquiegui</nombre>
+        <habitantes>178</habitantes>
+    </municipio>
+    <municipio id="165">
+        <nombre>Otras entidades</nombre>
+        <habitantes>41</habitantes>
+    </municipio>
+    <municipio id="166">
+        <nombre>CORELLA</nombre>
+        <habitantes>7.740</habitantes>
+    </municipio>
+    <municipio id="167">
+        <nombre>CORTES</nombre>
+        <habitantes>3.192</habitantes>
+    </municipio>
+    <municipio id="168">
+        <nombre>DESOJO</nombre>
+        <habitantes>81</habitantes>
+    </municipio>
+    <municipio id="169">
+        <nombre>DICASTILLO</nombre>
+        <habitantes>637</habitantes>
+    </municipio>
+    <municipio id="170">
+        <nombre>DONAMARIA</nombre>
+        <habitantes>443</habitantes>
+    </municipio>
+    <municipio id="171">
+        <nombre>ETXALAR</nombre>
+        <habitantes>801</habitantes>
+    </municipio>
+    <municipio id="172">
+        <nombre>ECHARRI</nombre>
+        <habitantes>78</habitantes>
+    </municipio>
+    <municipio id="173">
+        <nombre>ETXARRI ARANATZ</nombre>
+        <habitantes>2.466</habitantes>
+    </municipio>
+    <municipio id="174">
+        <nombre>Lizarragabengoa</nombre>
+        <habitantes>40</habitantes>
+    </municipio>
+    <municipio id="175">
+        <nombre>Otras entidades</nombre>
+        <habitantes>2.426</habitantes>
+    </municipio>
+    <municipio id="176">
+        <nombre>ETXAURI</nombre>
+        <habitantes>586</habitantes>
+    </municipio>
+    <municipio id="177">
+        <nombre>VALLE DE EGÜÉS</nombre>
+        <habitantes>19.603</habitantes>
+    </municipio>
+    <municipio id="178">
+        <nombre>Alzuza</nombre>
+        <habitantes>273</habitantes>
+    </municipio>
+    <municipio id="179">
+        <nombre>Ardanaz de Egüés</nombre>
+        <habitantes>69</habitantes>
+    </municipio>
+    <municipio id="180">
+        <nombre>Azpa</nombre>
+        <habitantes>31</habitantes>
+    </municipio>
+    <municipio id="181">
+        <nombre>Badostáin</nombre>
+        <habitantes>336</habitantes>
+    </municipio>
+    <municipio id="182">
+        <nombre>Egüés</nombre>
+        <habitantes>374</habitantes>
+    </municipio>
+    <municipio id="183">
+        <nombre>Elcano</nombre>
+        <habitantes>199</habitantes>
+    </municipio>
+    <municipio id="184">
+        <nombre>Elía</nombre>
+        <habitantes>23</habitantes>
+    </municipio>
+    <municipio id="185">
+        <nombre>Ibiricu</nombre>
+        <habitantes>69</habitantes>
+    </municipio>
+    <municipio id="186">
+        <nombre>Olaz</nombre>
+        <habitantes>709</habitantes>
+    </municipio>
+    <municipio id="187">
+        <nombre>Sagaseta</nombre>
+        <habitantes>40</habitantes>
+    </municipio>
+    <municipio id="188">
+        <nombre>Otras entidades</nombre>
+        <habitantes>17.480</habitantes>
+    </municipio>
+    <municipio id="189">
+        <nombre>ELGORRIAGA</nombre>
+        <habitantes>219</habitantes>
+    </municipio>
+    <municipio id="190">
+        <nombre>NOÁIN (VALLE DE ELORZ)</nombre>
+        <habitantes>7.892</habitantes>
+    </municipio>
+    <municipio id="191">
+        <nombre>Elorz</nombre>
+        <habitantes>280</habitantes>
+    </municipio>
+    <municipio id="192">
+        <nombre>Guerendiáin</nombre>
+        <habitantes>27</habitantes>
+    </municipio>
+    <municipio id="193">
+        <nombre>Imárcoain</nombre>
+        <habitantes>369</habitantes>
+    </municipio>
+    <municipio id="194">
+        <nombre>Torres</nombre>
+        <habitantes>262</habitantes>
+    </municipio>
+    <municipio id="195">
+        <nombre>Zabalegui</nombre>
+        <habitantes>36</habitantes>
+    </municipio>
+    <municipio id="196">
+        <nombre>Otras entidades</nombre>
+        <habitantes>6.918</habitantes>
+    </municipio>
+    <municipio id="197">
+        <nombre>ENÉRIZ</nombre>
+        <habitantes>322</habitantes>
+    </municipio>
+    <municipio id="198">
+        <nombre>ERATSUN</nombre>
+        <habitantes>150</habitantes>
+    </municipio>
+    <municipio id="199">
+        <nombre>ERGOIENA</nombre>
+        <habitantes>397</habitantes>
+    </municipio>
+    <municipio id="200">
+        <nombre>Dorrao/Torrano</nombre>
+        <habitantes>111</habitantes>
+    </municipio>
+    <municipio id="201">
+        <nombre>Lizarraga</nombre>
+        <habitantes>187</habitantes>
+    </municipio>
+    <municipio id="202">
+        <nombre>Unanu</nombre>
+        <habitantes>99</habitantes>
+    </municipio>
+    <municipio id="203">
+        <nombre>ERRO</nombre>
+        <habitantes>792</habitantes>
+    </municipio>
+    <municipio id="204">
+        <nombre>Aintzioa</nombre>
+        <habitantes>21</habitantes>
+    </municipio>
+    <municipio id="205">
+        <nombre>Aurizberri/Espinal</nombre>
+        <habitantes>245</habitantes>
+    </municipio>
+    <municipio id="206">
+        <nombre>Bizkarreta-Gerendiain</nombre>
+        <habitantes>96</habitantes>
+    </municipio>
+    <municipio id="207">
+        <nombre>Erro</nombre>
+        <habitantes>136</habitantes>
+    </municipio>
+    <municipio id="208">
+        <nombre>Esnotz</nombre>
+        <habitantes>35</habitantes>
+    </municipio>
+    <municipio id="209">
+        <nombre>Lintzoain</nombre>
+        <habitantes>63</habitantes>
+    </municipio>
+    <municipio id="210">
+        <nombre>Mezkiritz</nombre>
+        <habitantes>75</habitantes>
+    </municipio>
+    <municipio id="211">
+        <nombre>Orondritz</nombre>
+        <habitantes>42</habitantes>
+    </municipio>
+    <municipio id="212">
+        <nombre>Zilbeti</nombre>
+        <habitantes>61</habitantes>
+    </municipio>
+    <municipio id="213">
+        <nombre>Otras entidades</nombre>
+        <habitantes>18</habitantes>
+    </municipio>
+    <municipio id="214">
+        <nombre>EZCÁROZ</nombre>
+        <habitantes>323</habitantes>
+    </municipio>
+    <municipio id="215">
+        <nombre>ESLAVA</nombre>
+        <habitantes>123</habitantes>
+    </municipio>
+    <municipio id="216">
+        <nombre>ESPARZA DE SALAZAR</nombre>
+        <habitantes>87</habitantes>
+    </municipio>
+    <municipio id="217">
+        <nombre>ESPRONCEDA</nombre>
+        <habitantes>114</habitantes>
+    </municipio>
+    <municipio id="218">
+        <nombre>ESTELLA/LIZARRA</nombre>
+        <habitantes>13.702</habitantes>
+    </municipio>
+    <municipio id="219">
+        <nombre>ESTERIBAR</nombre>
+        <habitantes>2.598</habitantes>
+    </municipio>
+    <municipio id="220">
+        <nombre>Antxoritz</nombre>
+        <habitantes>34</habitantes>
+    </municipio>
+    <municipio id="221">
+        <nombre>Eugi</nombre>
+        <habitantes>370</habitantes>
+    </municipio>
+    <municipio id="222">
+        <nombre>Inbuluzketa</nombre>
+        <habitantes>40</habitantes>
+    </municipio>
+    <municipio id="223">
+        <nombre>Iragi</nombre>
+        <habitantes>23</habitantes>
+    </municipio>
+    <municipio id="224">
+        <nombre>Larrasoaña</nombre>
+        <habitantes>134</habitantes>
+    </municipio>
+    <municipio id="225">
+        <nombre>Saigots</nombre>
+        <habitantes>81</habitantes>
+    </municipio>
+    <municipio id="226">
+        <nombre>Sarasibar</nombre>
+        <habitantes>37</habitantes>
+    </municipio>
+    <municipio id="227">
+        <nombre>Urdaitz/Urdániz</nombre>
+        <habitantes>101</habitantes>
+    </municipio>
+    <municipio id="228">
+        <nombre>Zabaldika</nombre>
+        <habitantes>32</habitantes>
+    </municipio>
+    <municipio id="229">
+        <nombre>Zubiri</nombre>
+        <habitantes>427</habitantes>
+    </municipio>
+    <municipio id="230">
+        <nombre>Otras entidades</nombre>
+        <habitantes>1.319</habitantes>
+    </municipio>
+    <municipio id="231">
+        <nombre>ETAYO</nombre>
+        <habitantes>72</habitantes>
+    </municipio>
+    <municipio id="232">
+        <nombre>EULATE</nombre>
+        <habitantes>303</habitantes>
+    </municipio>
+    <municipio id="233">
+        <nombre>EZCABARTE</nombre>
+        <habitantes>1.834</habitantes>
+    </municipio>
+    <municipio id="234">
+        <nombre>Arre</nombre>
+        <habitantes>1.079</habitantes>
+    </municipio>
+    <municipio id="235">
+        <nombre>Azoz</nombre>
+        <habitantes>153</habitantes>
+    </municipio>
+    <municipio id="236">
+        <nombre>Cildoz</nombre>
+        <habitantes>61</habitantes>
+    </municipio>
+    <municipio id="237">
+        <nombre>Eusa</nombre>
+        <habitantes>56</habitantes>
+    </municipio>
+    <municipio id="238">
+        <nombre>Maquirriain</nombre>
+        <habitantes>79</habitantes>
+    </municipio>
+    <municipio id="239">
+        <nombre>Oricáin</nombre>
+        <habitantes>118</habitantes>
+    </municipio>
+    <municipio id="240">
+        <nombre>Orrio</nombre>
+        <habitantes>57</habitantes>
+    </municipio>
+    <municipio id="241">
+        <nombre>Sorauren</nombre>
+        <habitantes>205</habitantes>
+    </municipio>
+    <municipio id="242">
+        <nombre>Otras entidades</nombre>
+        <habitantes>26</habitantes>
+    </municipio>
+    <municipio id="243">
+        <nombre>EZKURRA</nombre>
+        <habitantes>154</habitantes>
+    </municipio>
+    <municipio id="244">
+        <nombre>EZPROGUI</nombre>
+        <habitantes>47</habitantes>
+    </municipio>
+    <municipio id="245">
+        <nombre>Ayesa</nombre>
+        <habitantes>39</habitantes>
+    </municipio>
+    <municipio id="246">
+        <nombre>Otras entidades</nombre>
+        <habitantes>8</habitantes>
+    </municipio>
+    <municipio id="247">
+        <nombre>FALCES</nombre>
+        <habitantes>2.390</habitantes>
+    </municipio>
+    <municipio id="248">
+        <nombre>FITERO</nombre>
+        <habitantes>2.022</habitantes>
+    </municipio>
+    <municipio id="249">
+        <nombre>FONTELLAS</nombre>
+        <habitantes>961</habitantes>
+    </municipio>
+    <municipio id="250">
+        <nombre>FUNES</nombre>
+        <habitantes>2.471</habitantes>
+    </municipio>
+    <municipio id="251">
+        <nombre>FUSTIÑANA</nombre>
+        <habitantes>2.511</habitantes>
+    </municipio>
+    <municipio id="252">
+        <nombre>GALAR</nombre>
+        <habitantes>2.074</habitantes>
+    </municipio>
+    <municipio id="253">
+        <nombre>Arlegui</nombre>
+        <habitantes>69</habitantes>
+    </municipio>
+    <municipio id="254">
+        <nombre>Cordovilla</nombre>
+        <habitantes>652</habitantes>
+    </municipio>
+    <municipio id="255">
+        <nombre>Esparza de Galar</nombre>
+        <habitantes>326</habitantes>
+    </municipio>
+    <municipio id="256">
+        <nombre>Esquíroz</nombre>
+        <habitantes>381</habitantes>
+    </municipio>
+    <municipio id="257">
+        <nombre>Galar</nombre>
+        <habitantes>126</habitantes>
+    </municipio>
+    <municipio id="258">
+        <nombre>Olaz-Subiza</nombre>
+        <habitantes>27</habitantes>
+    </municipio>
+    <municipio id="259">
+        <nombre>Salinas de Pamplona</nombre>
+        <habitantes>287</habitantes>
+    </municipio>
+    <municipio id="260">
+        <nombre>Subiza</nombre>
+        <habitantes>188</habitantes>
+    </municipio>
+    <municipio id="261">
+        <nombre>Otras entidades</nombre>
+        <habitantes>18</habitantes>
+    </municipio>
+    <municipio id="262">
+        <nombre>GALLIPIENZO</nombre>
+        <habitantes>106</habitantes>
+    </municipio>
+    <municipio id="263">
+        <nombre>GALLUÉS</nombre>
+        <habitantes>103</habitantes>
+    </municipio>
+    <municipio id="264">
+        <nombre>Iciz</nombre>
+        <habitantes>15</habitantes>
+    </municipio>
+    <municipio id="265">
+        <nombre>Izal</nombre>
+        <habitantes>42</habitantes>
+    </municipio>
+    <municipio id="266">
+        <nombre>Uscarrés</nombre>
+        <habitantes>40</habitantes>
+    </municipio>
+    <municipio id="267">
+        <nombre>Otras entidades</nombre>
+        <habitantes>6</habitantes>
+    </municipio>
+    <municipio id="268">
+        <nombre>GARAIOA</nombre>
+        <habitantes>97</habitantes>
+    </municipio>
+    <municipio id="269">
+        <nombre>GARDE</nombre>
+        <habitantes>157</habitantes>
+    </municipio>
+    <municipio id="270">
+        <nombre>GARÍNOAIN</nombre>
+        <habitantes>490</habitantes>
+    </municipio>
+    <municipio id="271">
+        <nombre>GARRALDA</nombre>
+        <habitantes>185</habitantes>
+    </municipio>
+    <municipio id="272">
+        <nombre>GENEVILLA</nombre>
+        <habitantes>75</habitantes>
+    </municipio>
+    <municipio id="273">
+        <nombre>GOIZUETA</nombre>
+        <habitantes>736</habitantes>
+    </municipio>
+    <municipio id="274">
+        <nombre>GOÑI</nombre>
+        <habitantes>170</habitantes>
+    </municipio>
+    <municipio id="275">
+        <nombre>Aizpún</nombre>
+        <habitantes>22</habitantes>
+    </municipio>
+    <municipio id="276">
+        <nombre>Azanza</nombre>
+        <habitantes>41</habitantes>
+    </municipio>
+    <municipio id="277">
+        <nombre>Goñi</nombre>
+        <habitantes>35</habitantes>
+    </municipio>
+    <municipio id="278">
+        <nombre>Munárriz</nombre>
+        <habitantes>50</habitantes>
+    </municipio>
+    <municipio id="279">
+        <nombre>Urdánoz</nombre>
+        <habitantes>22</habitantes>
+    </municipio>
+    <municipio id="280">
+        <nombre>GÜESA</nombre>
+        <habitantes>43</habitantes>
+    </municipio>
+    <municipio id="281">
+        <nombre>Güesa</nombre>
+        <habitantes>24</habitantes>
+    </municipio>
+    <municipio id="282">
+        <nombre>Igal</nombre>
+        <habitantes>16</habitantes>
+    </municipio>
+    <municipio id="283">
+        <nombre>Otras entidades</nombre>
+        <habitantes>3</habitantes>
+    </municipio>
+    <municipio id="284">
+        <nombre>GUESÁLAZ</nombre>
+        <habitantes>450</habitantes>
+    </municipio>
+    <municipio id="285">
+        <nombre>Arguiñano</nombre>
+        <habitantes>34</habitantes>
+    </municipio>
+    <municipio id="286">
+        <nombre>Esténoz</nombre>
+        <habitantes>22</habitantes>
+    </municipio>
+    <municipio id="287">
+        <nombre>Garísoain</nombre>
+        <habitantes>28</habitantes>
+    </municipio>
+    <municipio id="288">
+        <nombre>Guembe</nombre>
+        <habitantes>34</habitantes>
+    </municipio>
+    <municipio id="289">
+        <nombre>Irurre</nombre>
+        <habitantes>41</habitantes>
+    </municipio>
+    <municipio id="290">
+        <nombre>Iturgoyen</nombre>
+        <habitantes>100</habitantes>
+    </municipio>
+    <municipio id="291">
+        <nombre>Izurzu</nombre>
+        <habitantes>25</habitantes>
+    </municipio>
+    <municipio id="292">
+        <nombre>Lerate</nombre>
+        <habitantes>24</habitantes>
+    </municipio>
+    <municipio id="293">
+        <nombre>Muez</nombre>
+        <habitantes>44</habitantes>
+    </municipio>
+    <municipio id="294">
+        <nombre>Muniáin de Guesálaz</nombre>
+        <habitantes>21</habitantes>
+    </municipio>
+    <municipio id="295">
+        <nombre>Vidaurre</nombre>
+        <habitantes>36</habitantes>
+    </municipio>
+    <municipio id="296">
+        <nombre>Otras entidades</nombre>
+        <habitantes>41</habitantes>
+    </municipio>
+    <municipio id="297">
+        <nombre>GUIRGUILLANO</nombre>
+        <habitantes>81</habitantes>
+    </municipio>
+    <municipio id="298">
+        <nombre>Echarren de Guirguillano</nombre>
+        <habitantes>33</habitantes>
+    </municipio>
+    <municipio id="299">
+        <nombre>Guirguillano</nombre>
+        <habitantes>36</habitantes>
+    </municipio>
+    <municipio id="300">
+        <nombre>Otras entidades</nombre>
+        <habitantes>12</habitantes>
+    </municipio>
+    <municipio id="301">
+        <nombre>HUARTE</nombre>
+        <habitantes>6.776</habitantes>
+    </municipio>
+    <municipio id="302">
+        <nombre>UHARTE ARAKIL</nombre>
+        <habitantes>840</habitantes>
+    </municipio>
+    <municipio id="303">
+        <nombre>IBARGOITI</nombre>
+        <habitantes>249</habitantes>
+    </municipio>
+    <municipio id="304">
+        <nombre>Abínzano</nombre>
+        <habitantes>15</habitantes>
+    </municipio>
+    <municipio id="305">
+        <nombre>Idocin</nombre>
+        <habitantes>45</habitantes>
+    </municipio>
+    <municipio id="306">
+        <nombre>Izco</nombre>
+        <habitantes>43</habitantes>
+    </municipio>
+    <municipio id="307">
+        <nombre>Salinas de Ibargoiti</nombre>
+        <habitantes>137</habitantes>
+    </municipio>
+    <municipio id="308">
+        <nombre>Otras entidades</nombre>
+        <habitantes>9</habitantes>
+    </municipio>
+    <municipio id="309">
+        <nombre>IGÚZQUIZA</nombre>
+        <habitantes>332</habitantes>
+    </municipio>
+    <municipio id="310">
+        <nombre>Ázqueta</nombre>
+        <habitantes>54</habitantes>
+    </municipio>
+    <municipio id="311">
+        <nombre>Igúzquiza</nombre>
+        <habitantes>199</habitantes>
+    </municipio>
+    <municipio id="312">
+        <nombre>Labeaga</nombre>
+        <habitantes>32</habitantes>
+    </municipio>
+    <municipio id="313">
+        <nombre>Urbiola</nombre>
+        <habitantes>47</habitantes>
+    </municipio>
+    <municipio id="314">
+        <nombre>IMOTZ</nombre>
+        <habitantes>432</habitantes>
+    </municipio>
+    <municipio id="315">
+        <nombre>Eraso</nombre>
+        <habitantes>43</habitantes>
+    </municipio>
+    <municipio id="316">
+        <nombre>Etxaleku</nombre>
+        <habitantes>110</habitantes>
+    </municipio>
+    <municipio id="317">
+        <nombre>Goldaratz</nombre>
+        <habitantes>33</habitantes>
+    </municipio>
+    <municipio id="318">
+        <nombre>Latasa</nombre>
+        <habitantes>90</habitantes>
+    </municipio>
+    <municipio id="319">
+        <nombre>Muskitz</nombre>
+        <habitantes>35</habitantes>
+    </municipio>
+    <municipio id="320">
+        <nombre>Oskotz</nombre>
+        <habitantes>69</habitantes>
+    </municipio>
+    <municipio id="321">
+        <nombre>Urritza</nombre>
+        <habitantes>38</habitantes>
+    </municipio>
+    <municipio id="322">
+        <nombre>Zarrantz</nombre>
+        <habitantes>14</habitantes>
+    </municipio>
+    <municipio id="323">
+        <nombre>IRAÑETA</nombre>
+        <habitantes>172</habitantes>
+    </municipio>
+    <municipio id="324">
+        <nombre>ISABA</nombre>
+        <habitantes>473</habitantes>
+    </municipio>
+    <municipio id="325">
+        <nombre>ITUREN</nombre>
+        <habitantes>515</habitantes>
+    </municipio>
+    <municipio id="326">
+        <nombre>ITURMENDI</nombre>
+        <habitantes>388</habitantes>
+    </municipio>
+    <municipio id="327">
+        <nombre>IZA</nombre>
+        <habitantes>1.171</habitantes>
+    </municipio>
+    <municipio id="328">
+        <nombre>Aguinaga de Iza</nombre>
+        <habitantes>16</habitantes>
+    </municipio>
+    <municipio id="329">
+        <nombre>Aldaba</nombre>
+        <habitantes>67</habitantes>
+    </municipio>
+    <municipio id="330">
+        <nombre>Áriz</nombre>
+        <habitantes>24</habitantes>
+    </municipio>
+    <municipio id="331">
+        <nombre>Atondo</nombre>
+        <habitantes>33</habitantes>
+    </municipio>
+    <municipio id="332">
+        <nombre>Erice</nombre>
+        <habitantes>54</habitantes>
+    </municipio>
+    <municipio id="333">
+        <nombre>Gulina</nombre>
+        <habitantes>46</habitantes>
+    </municipio>
+    <municipio id="334">
+        <nombre>Iza</nombre>
+        <habitantes>146</habitantes>
+    </municipio>
+    <municipio id="335">
+        <nombre>Larumbe</nombre>
+        <habitantes>71</habitantes>
+    </municipio>
+    <municipio id="336">
+        <nombre>Lete</nombre>
+        <habitantes>32</habitantes>
+    </municipio>
+    <municipio id="337">
+        <nombre>Ochovi</nombre>
+        <habitantes>55</habitantes>
+    </municipio>
+    <municipio id="338">
+        <nombre>Sarasa</nombre>
+        <habitantes>133</habitantes>
+    </municipio>
+    <municipio id="339">
+        <nombre>Sarasate</nombre>
+        <habitantes>32</habitantes>
+    </municipio>
+    <municipio id="340">
+        <nombre>Zia</nombre>
+        <habitantes>38</habitantes>
+    </municipio>
+    <municipio id="341">
+        <nombre>Otras entidades</nombre>
+        <habitantes>424</habitantes>
+    </municipio>
+    <municipio id="342">
+        <nombre>IZAGAONDOA</nombre>
+        <habitantes>177</habitantes>
+    </municipio>
+    <municipio id="343">
+        <nombre>Ardanaz de Izagaondoa</nombre>
+        <habitantes>42</habitantes>
+    </municipio>
+    <municipio id="344">
+        <nombre>Otras entidades</nombre>
+        <habitantes>135</habitantes>
+    </municipio>
+    <municipio id="345">
+        <nombre>IZALZU</nombre>
+        <habitantes>51</habitantes>
+    </municipio>
+    <municipio id="346">
+        <nombre>JAURRIETA</nombre>
+        <habitantes>202</habitantes>
+    </municipio>
+    <municipio id="347">
+        <nombre>JAVIER</nombre>
+        <habitantes>103</habitantes>
+    </municipio>
+    <municipio id="348">
+        <nombre>JUSLAPEÑA</nombre>
+        <habitantes>553</habitantes>
+    </municipio>
+    <municipio id="349">
+        <nombre>Beorburu</nombre>
+        <habitantes>34</habitantes>
+    </municipio>
+    <municipio id="350">
+        <nombre>Garciriáin</nombre>
+        <habitantes>33</habitantes>
+    </municipio>
+    <municipio id="351">
+        <nombre>Larráyoz</nombre>
+        <habitantes>21</habitantes>
+    </municipio>
+    <municipio id="352">
+        <nombre>Marcaláin</nombre>
+        <habitantes>50</habitantes>
+    </municipio>
+    <municipio id="353">
+        <nombre>Navaz</nombre>
+        <habitantes>33</habitantes>
+    </municipio>
+    <municipio id="354">
+        <nombre>Nuin</nombre>
+        <habitantes>52</habitantes>
+    </municipio>
+    <municipio id="355">
+        <nombre>Ollacarizqueta</nombre>
+        <habitantes>99</habitantes>
+    </municipio>
+    <municipio id="356">
+        <nombre>Osácar</nombre>
+        <habitantes>31</habitantes>
+    </municipio>
+    <municipio id="357">
+        <nombre>Osinaga</nombre>
+        <habitantes>31</habitantes>
+    </municipio>
+    <municipio id="358">
+        <nombre>Unzu</nombre>
+        <habitantes>34</habitantes>
+    </municipio>
+    <municipio id="359">
+        <nombre>Otras entidades</nombre>
+        <habitantes>135</habitantes>
+    </municipio>
+    <municipio id="360">
+        <nombre>BEINTZA-LABAIEN</nombre>
+        <habitantes>231</habitantes>
+    </municipio>
+    <municipio id="361">
+        <nombre>LAKUNTZA</nombre>
+        <habitantes>1.257</habitantes>
+    </municipio>
+    <municipio id="362">
+        <nombre>LANA</nombre>
+        <habitantes>176</habitantes>
+    </municipio>
+    <municipio id="363">
+        <nombre>Galbarra</nombre>
+        <habitantes>43</habitantes>
+    </municipio>
+    <municipio id="364">
+        <nombre>Gastiáin</nombre>
+        <habitantes>59</habitantes>
+    </municipio>
+    <municipio id="365">
+        <nombre>Narcué</nombre>
+        <habitantes>18</habitantes>
+    </municipio>
+    <municipio id="366">
+        <nombre>Ulibarri</nombre>
+        <habitantes>22</habitantes>
+    </municipio>
+    <municipio id="367">
+        <nombre>Viloria</nombre>
+        <habitantes>34</habitantes>
+    </municipio>
+    <municipio id="368">
+        <nombre>LANTZ</nombre>
+        <habitantes>151</habitantes>
+    </municipio>
+    <municipio id="369">
+        <nombre>LAPOBLACIÓN</nombre>
+        <habitantes>127</habitantes>
+    </municipio>
+    <municipio id="370">
+        <nombre>Lapoblación</nombre>
+        <habitantes>29</habitantes>
+    </municipio>
+    <municipio id="371">
+        <nombre>Meano</nombre>
+        <habitantes>98</habitantes>
+    </municipio>
+    <municipio id="372">
+        <nombre>LARRAGA</nombre>
+        <habitantes>2.034</habitantes>
+    </municipio>
+    <municipio id="373">
+        <nombre>LARRAONA</nombre>
+        <habitantes>112</habitantes>
+    </municipio>
+    <municipio id="374">
+        <nombre>LARRAUN</nombre>
+        <habitantes>985</habitantes>
+    </municipio>
+    <municipio id="375">
+        <nombre>Albiasu</nombre>
+        <habitantes>19</habitantes>
+    </municipio>
+    <municipio id="376">
+        <nombre>Aldatz</nombre>
+        <habitantes>128</habitantes>
+    </municipio>
+    <municipio id="377">
+        <nombre>Alli</nombre>
+        <habitantes>36</habitantes>
+    </municipio>
+    <municipio id="378">
+        <nombre>Arruitz</nombre>
+        <habitantes>99</habitantes>
+    </municipio>
+    <municipio id="379">
+        <nombre>Astitz</nombre>
+        <habitantes>36</habitantes>
+    </municipio>
+    <municipio id="380">
+        <nombre>Azpirotz-Lezaeta</nombre>
+        <habitantes>62</habitantes>
+    </municipio>
+    <municipio id="381">
+        <nombre>Baraibar</nombre>
+        <habitantes>78</habitantes>
+    </municipio>
+    <municipio id="382">
+        <nombre>Errazkin</nombre>
+        <habitantes>72</habitantes>
+    </municipio>
+    <municipio id="383">
+        <nombre>Etxarri</nombre>
+        <habitantes>72</habitantes>
+    </municipio>
+    <municipio id="384">
+        <nombre>Gorriti</nombre>
+        <habitantes>93</habitantes>
+    </municipio>
+    <municipio id="385">
+        <nombre>Iribas</nombre>
+        <habitantes>40</habitantes>
+    </municipio>
+    <municipio id="386">
+        <nombre>Madotz</nombre>
+        <habitantes>16</habitantes>
+    </municipio>
+    <municipio id="387">
+        <nombre>Mugiro</nombre>
+        <habitantes>67</habitantes>
+    </municipio>
+    <municipio id="388">
+        <nombre>Oderitz</nombre>
+        <habitantes>47</habitantes>
+    </municipio>
+    <municipio id="389">
+        <nombre>Uitzi</nombre>
+        <habitantes>120</habitantes>
+    </municipio>
+    <municipio id="390">
+        <nombre>LAZAGURRÍA</nombre>
+        <habitantes>206</habitantes>
+    </municipio>
+    <municipio id="391">
+        <nombre>LEACHE</nombre>
+        <habitantes>44</habitantes>
+    </municipio>
+    <municipio id="392">
+        <nombre>LEGARDA</nombre>
+        <habitantes>110</habitantes>
+    </municipio>
+    <municipio id="393">
+        <nombre>LEGARIA</nombre>
+        <habitantes>98</habitantes>
+    </municipio>
+    <municipio id="394">
+        <nombre>LEITZA</nombre>
+        <habitantes>2.888</habitantes>
+    </municipio>
+    <municipio id="395">
+        <nombre>LEOZ</nombre>
+        <habitantes>241</habitantes>
+    </municipio>
+    <municipio id="396">
+        <nombre>Iracheta</nombre>
+        <habitantes>61</habitantes>
+    </municipio>
+    <municipio id="397">
+        <nombre>Leoz</nombre>
+        <habitantes>24</habitantes>
+    </municipio>
+    <municipio id="398">
+        <nombre>Olleta</nombre>
+        <habitantes>29</habitantes>
+    </municipio>
+    <municipio id="399">
+        <nombre>Otras entidades</nombre>
+        <habitantes>127</habitantes>
+    </municipio>
+    <municipio id="400">
+        <nombre>LERGA</nombre>
+        <habitantes>73</habitantes>
+    </municipio>
+    <municipio id="401">
+        <nombre>LERÍN</nombre>
+        <habitantes>1.665</habitantes>
+    </municipio>
+    <municipio id="402">
+        <nombre>LESAKA</nombre>
+        <habitantes>2.742</habitantes>
+    </municipio>
+    <municipio id="403">
+        <nombre>LEZAUN</nombre>
+        <habitantes>261</habitantes>
+    </municipio>
+    <municipio id="404">
+        <nombre>LIÉDENA</nombre>
+        <habitantes>303</habitantes>
+    </municipio>
+    <municipio id="405">
+        <nombre>LIZOAIN-ARRIASGOITI</nombre>
+        <habitantes>318</habitantes>
+    </municipio>
+    <municipio id="406">
+        <nombre>LODOSA</nombre>
+        <habitantes>4.741</habitantes>
+    </municipio>
+    <municipio id="407">
+        <nombre>LÓNGUIDA</nombre>
+        <habitantes>306</habitantes>
+    </municipio>
+    <municipio id="408">
+        <nombre>Aos</nombre>
+        <habitantes>53</habitantes>
+    </municipio>
+    <municipio id="409">
+        <nombre>Artajo</nombre>
+        <habitantes>34</habitantes>
+    </municipio>
+    <municipio id="410">
+        <nombre>Ekai de Lónguida</nombre>
+        <habitantes>78</habitantes>
+    </municipio>
+    <municipio id="411">
+        <nombre>Murillo de Lónguida</nombre>
+        <habitantes>34</habitantes>
+    </municipio>
+    <municipio id="412">
+        <nombre>Villaveta</nombre>
+        <habitantes>36</habitantes>
+    </municipio>
+    <municipio id="413">
+        <nombre>Otras entidades</nombre>
+        <habitantes>71</habitantes>
+    </municipio>
+    <municipio id="414">
+        <nombre>LUMBIER</nombre>
+        <habitantes>1.349</habitantes>
+    </municipio>
+    <municipio id="415">
+        <nombre>LUQUIN</nombre>
+        <habitantes>135</habitantes>
+    </municipio>
+    <municipio id="416">
+        <nombre>MAÑERU</nombre>
+        <habitantes>432</habitantes>
+    </municipio>
+    <municipio id="417">
+        <nombre>MARAÑÓN</nombre>
+        <habitantes>53</habitantes>
+    </municipio>
+    <municipio id="418">
+        <nombre>MARCILLA</nombre>
+        <habitantes>2.800</habitantes>
+    </municipio>
+    <municipio id="419">
+        <nombre>MÉLIDA</nombre>
+        <habitantes>729</habitantes>
+    </municipio>
+    <municipio id="420">
+        <nombre>MENDAVIA</nombre>
+        <habitantes>3.597</habitantes>
+    </municipio>
+    <municipio id="421">
+        <nombre>MENDAZA</nombre>
+        <habitantes>311</habitantes>
+    </municipio>
+    <municipio id="422">
+        <nombre>Acedo</nombre>
+        <habitantes>131</habitantes>
+    </municipio>
+    <municipio id="423">
+        <nombre>Asarta</nombre>
+        <habitantes>50</habitantes>
+    </municipio>
+    <municipio id="424">
+        <nombre>Mendaza</nombre>
+        <habitantes>97</habitantes>
+    </municipio>
+    <municipio id="425">
+        <nombre>Ubago</nombre>
+        <habitantes>33</habitantes>
+    </municipio>
+    <municipio id="426">
+        <nombre>MENDIGORRÍA</nombre>
+        <habitantes>1.055</habitantes>
+    </municipio>
+    <municipio id="427">
+        <nombre>METAUTEN</nombre>
+        <habitantes>291</habitantes>
+    </municipio>
+    <municipio id="428">
+        <nombre>Arteaga</nombre>
+        <habitantes>37</habitantes>
+    </municipio>
+    <municipio id="429">
+        <nombre>Ganuza</nombre>
+        <habitantes>58</habitantes>
+    </municipio>
+    <municipio id="430">
+        <nombre>Metauten</nombre>
+        <habitantes>46</habitantes>
+    </municipio>
+    <municipio id="431">
+        <nombre>Ollobarren</nombre>
+        <habitantes>46</habitantes>
+    </municipio>
+    <municipio id="432">
+        <nombre>Ollogoyen</nombre>
+        <habitantes>23</habitantes>
+    </municipio>
+    <municipio id="433">
+        <nombre>Zufía</nombre>
+        <habitantes>81</habitantes>
+    </municipio>
+    <municipio id="434">
+        <nombre>MILAGRO</nombre>
+        <habitantes>3.290</habitantes>
+    </municipio>
+    <municipio id="435">
+        <nombre>MIRAFUENTES</nombre>
+        <habitantes>56</habitantes>
+    </municipio>
+    <municipio id="436">
+        <nombre>MIRANDA DE ARGA</nombre>
+        <habitantes>847</habitantes>
+    </municipio>
+    <municipio id="437">
+        <nombre>MONREAL</nombre>
+        <habitantes>470</habitantes>
+    </municipio>
+    <municipio id="438">
+        <nombre>MONTEAGUDO</nombre>
+        <habitantes>1.097</habitantes>
+    </municipio>
+    <municipio id="439">
+        <nombre>MORENTIN</nombre>
+        <habitantes>129</habitantes>
+    </municipio>
+    <municipio id="440">
+        <nombre>MUÉS</nombre>
+        <habitantes>88</habitantes>
+    </municipio>
+    <municipio id="441">
+        <nombre>MURCHANTE</nombre>
+        <habitantes>3.842</habitantes>
+    </municipio>
+    <municipio id="442">
+        <nombre>MURIETA</nombre>
+        <habitantes>353</habitantes>
+    </municipio>
+    <municipio id="443">
+        <nombre>MURILLO EL CUENDE</nombre>
+        <habitantes>654</habitantes>
+    </municipio>
+    <municipio id="444">
+        <nombre>Murillo el Cuende</nombre>
+        <habitantes>41</habitantes>
+    </municipio>
+    <municipio id="445">
+        <nombre>Rada</nombre>
+        <habitantes>562</habitantes>
+    </municipio>
+    <municipio id="446">
+        <nombre>Traibuenas</nombre>
+        <habitantes>51</habitantes>
+    </municipio>
+    <municipio id="447">
+        <nombre>MURILLO EL FRUTO</nombre>
+        <habitantes>634</habitantes>
+    </municipio>
+    <municipio id="448">
+        <nombre>MURUZÁBAL</nombre>
+        <habitantes>266</habitantes>
+    </municipio>
+    <municipio id="449">
+        <nombre>NAVASCUÉS</nombre>
+        <habitantes>151</habitantes>
+    </municipio>
+    <municipio id="450">
+        <nombre>Aspurz</nombre>
+        <habitantes>24</habitantes>
+    </municipio>
+    <municipio id="451">
+        <nombre>Navascués</nombre>
+        <habitantes>111</habitantes>
+    </municipio>
+    <municipio id="452">
+        <nombre>Ustés</nombre>
+        <habitantes>16</habitantes>
+    </municipio>
+    <municipio id="453">
+        <nombre>NAZAR</nombre>
+        <habitantes>45</habitantes>
+    </municipio>
+    <municipio id="454">
+        <nombre>OBANOS</nombre>
+        <habitantes>904</habitantes>
+    </municipio>
+    <municipio id="455">
+        <nombre>OCO</nombre>
+        <habitantes>64</habitantes>
+    </municipio>
+    <municipio id="456">
+        <nombre>OCHAGAVÍA</nombre>
+        <habitantes>560</habitantes>
+    </municipio>
+    <municipio id="457">
+        <nombre>ODIETA</nombre>
+        <habitantes>370</habitantes>
+    </municipio>
+    <municipio id="458">
+        <nombre>Anocíbar</nombre>
+        <habitantes>37</habitantes>
+    </municipio>
+    <municipio id="459">
+        <nombre>Ciáurriz</nombre>
+        <habitantes>69</habitantes>
+    </municipio>
+    <municipio id="460">
+        <nombre>Gascue</nombre>
+        <habitantes>51</habitantes>
+    </municipio>
+    <municipio id="461">
+        <nombre>Guelbenzu</nombre>
+        <habitantes>35</habitantes>
+    </municipio>
+    <municipio id="462">
+        <nombre>Guenduláin</nombre>
+        <habitantes>16</habitantes>
+    </municipio>
+    <municipio id="463">
+        <nombre>Latasa</nombre>
+        <habitantes>24</habitantes>
+    </municipio>
+    <municipio id="464">
+        <nombre>Ostiz</nombre>
+        <habitantes>87</habitantes>
+    </municipio>
+    <municipio id="465">
+        <nombre>Ripa</nombre>
+        <habitantes>51</habitantes>
+    </municipio>
+    <municipio id="466">
+        <nombre>OIZ</nombre>
+        <habitantes>141</habitantes>
+    </municipio>
+    <municipio id="467">
+        <nombre>OLÁIBAR</nombre>
+        <habitantes>316</habitantes>
+    </municipio>
+    <municipio id="468">
+        <nombre>Endériz</nombre>
+        <habitantes>113</habitantes>
+    </municipio>
+    <municipio id="469">
+        <nombre>Olaiz</nombre>
+        <habitantes>27</habitantes>
+    </municipio>
+    <municipio id="470">
+        <nombre>Olave</nombre>
+        <habitantes>82</habitantes>
+    </municipio>
+    <municipio id="471">
+        <nombre>Osacáin</nombre>
+        <habitantes>55</habitantes>
+    </municipio>
+    <municipio id="472">
+        <nombre>Otras entidades</nombre>
+        <habitantes>39</habitantes>
+    </municipio>
+    <municipio id="473">
+        <nombre>OLAZTI/OLAZAGUTÍA</nombre>
+        <habitantes>1.520</habitantes>
+    </municipio>
+    <municipio id="474">
+        <nombre>OLEJUA</nombre>
+        <habitantes>49</habitantes>
+    </municipio>
+    <municipio id="475">
+        <nombre>OLITE</nombre>
+        <habitantes>3.907</habitantes>
+    </municipio>
+    <municipio id="476">
+        <nombre>OLÓRIZ</nombre>
+        <habitantes>195</habitantes>
+    </municipio>
+    <municipio id="477">
+        <nombre>Echagüe</nombre>
+        <habitantes>20</habitantes>
+    </municipio>
+    <municipio id="478">
+        <nombre>Mendívil</nombre>
+        <habitantes>62</habitantes>
+    </municipio>
+    <municipio id="479">
+        <nombre>Olóriz</nombre>
+        <habitantes>60</habitantes>
+    </municipio>
+    <municipio id="480">
+        <nombre>Solchaga</nombre>
+        <habitantes>31</habitantes>
+    </municipio>
+    <municipio id="481">
+        <nombre>Otras entidades</nombre>
+        <habitantes>22</habitantes>
+    </municipio>
+    <municipio id="482">
+        <nombre>CENDEA DE OLZA</nombre>
+        <habitantes>1.822</habitantes>
+    </municipio>
+    <municipio id="483">
+        <nombre>Arazuri</nombre>
+        <habitantes>398</habitantes>
+    </municipio>
+    <municipio id="484">
+        <nombre>Artázcoz</nombre>
+        <habitantes>23</habitantes>
+    </municipio>
+    <municipio id="485">
+        <nombre>Asiáin</nombre>
+        <habitantes>161</habitantes>
+    </municipio>
+    <municipio id="486">
+        <nombre>Ibero</nombre>
+        <habitantes>206</habitantes>
+    </municipio>
+    <municipio id="487">
+        <nombre>Izcue</nombre>
+        <habitantes>69</habitantes>
+    </municipio>
+    <municipio id="488">
+        <nombre>Izu</nombre>
+        <habitantes>49</habitantes>
+    </municipio>
+    <municipio id="489">
+        <nombre>Lizasoáin</nombre>
+        <habitantes>82</habitantes>
+    </municipio>
+    <municipio id="490">
+        <nombre>Olza</nombre>
+        <habitantes>68</habitantes>
+    </municipio>
+    <municipio id="491">
+        <nombre>Ororbia</nombre>
+        <habitantes>766</habitantes>
+    </municipio>
+    <municipio id="492">
+        <nombre>OLLO</nombre>
+        <habitantes>409</habitantes>
+    </municipio>
+    <municipio id="493">
+        <nombre>Anotz</nombre>
+        <habitantes>27</habitantes>
+    </municipio>
+    <municipio id="494">
+        <nombre>Arteta</nombre>
+        <habitantes>30</habitantes>
+    </municipio>
+    <municipio id="495">
+        <nombre>Beasoain-Egillor</nombre>
+        <habitantes>111</habitantes>
+    </municipio>
+    <municipio id="496">
+        <nombre>Iltzarbe</nombre>
+        <habitantes>44</habitantes>
+    </municipio>
+    <municipio id="497">
+        <nombre>Ollo</nombre>
+        <habitantes>51</habitantes>
+    </municipio>
+    <municipio id="498">
+        <nombre>Saldise</nombre>
+        <habitantes>26</habitantes>
+    </municipio>
+    <municipio id="499">
+        <nombre>Senosiain</nombre>
+        <habitantes>42</habitantes>
+    </municipio>
+    <municipio id="500">
+        <nombre>Ultzurrun</nombre>
+        <habitantes>78</habitantes>
+    </municipio>
+    <municipio id="501">
+        <nombre>ORBAIZETA</nombre>
+        <habitantes>202</habitantes>
+    </municipio>
+    <municipio id="502">
+        <nombre>ORBARA</nombre>
+        <habitantes>42</habitantes>
+    </municipio>
+    <municipio id="503">
+        <nombre>ORÍSOAIN</nombre>
+        <habitantes>92</habitantes>
+    </municipio>
+    <municipio id="504">
+        <nombre>ORONZ</nombre>
+        <habitantes>46</habitantes>
+    </municipio>
+    <municipio id="505">
+        <nombre>OROZ-BETELU</nombre>
+        <habitantes>153</habitantes>
+    </municipio>
+    <municipio id="506">
+        <nombre>OTEIZA</nombre>
+        <habitantes>928</habitantes>
+    </municipio>
+    <municipio id="507">
+        <nombre>PAMPLONA</nombre>
+        <habitantes>195.853</habitantes>
+    </municipio>
+    <municipio id="508">
+        <nombre>PERALTA</nombre>
+        <habitantes>5.863</habitantes>
+    </municipio>
+    <municipio id="509">
+        <nombre>PETILLA DE ARAGÓN</nombre>
+        <habitantes>34</habitantes>
+    </municipio>
+    <municipio id="510">
+        <nombre>PIEDRAMILLERA</nombre>
+        <habitantes>39</habitantes>
+    </municipio>
+    <municipio id="511">
+        <nombre>PITILLAS</nombre>
+        <habitantes>511</habitantes>
+    </municipio>
+    <municipio id="512">
+        <nombre>PUENTE LA REINA</nombre>
+        <habitantes>2.818</habitantes>
+    </municipio>
+    <municipio id="513">
+        <nombre>PUEYO</nombre>
+        <habitantes>340</habitantes>
+    </municipio>
+    <municipio id="514">
+        <nombre>RIBAFORADA</nombre>
+        <habitantes>3.692</habitantes>
+    </municipio>
+    <municipio id="515">
+        <nombre>ROMANZADO</nombre>
+        <habitantes>173</habitantes>
+    </municipio>
+    <municipio id="516">
+        <nombre>Arboniés</nombre>
+        <habitantes>44</habitantes>
+    </municipio>
+    <municipio id="517">
+        <nombre>Bigüézal</nombre>
+        <habitantes>55</habitantes>
+    </municipio>
+    <municipio id="518">
+        <nombre>Domeño</nombre>
+        <habitantes>40</habitantes>
+    </municipio>
+    <municipio id="519">
+        <nombre>Otras entidades</nombre>
+        <habitantes>34</habitantes>
+    </municipio>
+    <municipio id="520">
+        <nombre>RONCAL</nombre>
+        <habitantes>227</habitantes>
+    </municipio>
+    <municipio id="521">
+        <nombre>ORREAGA/RONCESVALLES</nombre>
+        <habitantes>32</habitantes>
+    </municipio>
+    <municipio id="522">
+        <nombre>SADA</nombre>
+        <habitantes>163</habitantes>
+    </municipio>
+    <municipio id="523">
+        <nombre>SALDIAS</nombre>
+        <habitantes>116</habitantes>
+    </municipio>
+    <municipio id="524">
+        <nombre>SALINAS DE ORO</nombre>
+        <habitantes>117</habitantes>
+    </municipio>
+    <municipio id="525">
+        <nombre>SAN ADRIÁN</nombre>
+        <habitantes>6.196</habitantes>
+    </municipio>
+    <municipio id="526">
+        <nombre>SANGÜESA</nombre>
+        <habitantes>5.020</habitantes>
+    </municipio>
+    <municipio id="527">
+        <nombre>Gabarderal</nombre>
+        <habitantes>131</habitantes>
+    </municipio>
+    <municipio id="528">
+        <nombre>Rocaforte</nombre>
+        <habitantes>39</habitantes>
+    </municipio>
+    <municipio id="529">
+        <nombre>Otras entidades</nombre>
+        <habitantes>4.850</habitantes>
+    </municipio>
+    <municipio id="530">
+        <nombre>SAN MARTÍN DE UNX</nombre>
+        <habitantes>372</habitantes>
+    </municipio>
+    <municipio id="531">
+        <nombre>SANSOL</nombre>
+        <habitantes>100</habitantes>
+    </municipio>
+    <municipio id="532">
+        <nombre>SANTACARA</nombre>
+        <habitantes>891</habitantes>
+    </municipio>
+    <municipio id="533">
+        <nombre>DONEZTEBE/SANTESTEBAN</nombre>
+        <habitantes>1.658</habitantes>
+    </municipio>
+    <municipio id="534">
+        <nombre>SARRIÉS</nombre>
+        <habitantes>63</habitantes>
+    </municipio>
+    <municipio id="535">
+        <nombre>Ibilcieta</nombre>
+        <habitantes>30</habitantes>
+    </municipio>
+    <municipio id="536">
+        <nombre>Sarriés</nombre>
+        <habitantes>33</habitantes>
+    </municipio>
+    <municipio id="537">
+        <nombre>SARTAGUDA</nombre>
+        <habitantes>1.372</habitantes>
+    </municipio>
+    <municipio id="538">
+        <nombre>SESMA</nombre>
+        <habitantes>1.183</habitantes>
+    </municipio>
+    <municipio id="539">
+        <nombre>SORLADA</nombre>
+        <habitantes>61</habitantes>
+    </municipio>
+    <municipio id="540">
+        <nombre>SUNBILLA</nombre>
+        <habitantes>648</habitantes>
+    </municipio>
+    <municipio id="541">
+        <nombre>TAFALLA</nombre>
+        <habitantes>10.809</habitantes>
+    </municipio>
+    <municipio id="542">
+        <nombre>TIEBAS-MURUARTE DE RETA</nombre>
+        <habitantes>617</habitantes>
+    </municipio>
+    <municipio id="543">
+        <nombre>Muruarte de Reta</nombre>
+        <habitantes>206</habitantes>
+    </municipio>
+    <municipio id="544">
+        <nombre>Tiebas</nombre>
+        <habitantes>411</habitantes>
+    </municipio>
+    <municipio id="545">
+        <nombre>TIRAPU</nombre>
+        <habitantes>51</habitantes>
+    </municipio>
+    <municipio id="546">
+        <nombre>TORRALBA DEL RÍO</nombre>
+        <habitantes>118</habitantes>
+    </municipio>
+    <municipio id="547">
+        <nombre>Otiñano</nombre>
+        <habitantes>22</habitantes>
+    </municipio>
+    <municipio id="548">
+        <nombre>Otras entidades</nombre>
+        <habitantes>96</habitantes>
+    </municipio>
+    <municipio id="549">
+        <nombre>TORRES DEL RÍO</nombre>
+        <habitantes>129</habitantes>
+    </municipio>
+    <municipio id="550">
+        <nombre>TUDELA</nombre>
+        <habitantes>35.388</habitantes>
+    </municipio>
+    <municipio id="551">
+        <nombre>TULEBRAS</nombre>
+        <habitantes>118</habitantes>
+    </municipio>
+    <municipio id="552">
+        <nombre>ÚCAR</nombre>
+        <habitantes>182</habitantes>
+    </municipio>
+    <municipio id="553">
+        <nombre>UJUÉ</nombre>
+        <habitantes>187</habitantes>
+    </municipio>
+    <municipio id="554">
+        <nombre>ULTZAMA</nombre>
+        <habitantes>1.666</habitantes>
+    </municipio>
+    <municipio id="555">
+        <nombre>Alkotz</nombre>
+        <habitantes>194</habitantes>
+    </municipio>
+    <municipio id="556">
+        <nombre>Arraitz-Orkin</nombre>
+        <habitantes>201</habitantes>
+    </municipio>
+    <municipio id="557">
+        <nombre>Auza</nombre>
+        <habitantes>163</habitantes>
+    </municipio>
+    <municipio id="558">
+        <nombre>Eltso</nombre>
+        <habitantes>63</habitantes>
+    </municipio>
+    <municipio id="559">
+        <nombre>Eltzaburu</nombre>
+        <habitantes>151</habitantes>
+    </municipio>
+    <municipio id="560">
+        <nombre>Gerendiain</nombre>
+        <habitantes>105</habitantes>
+    </municipio>
+    <municipio id="561">
+        <nombre>Gorrontz-Olano</nombre>
+        <habitantes>30</habitantes>
+    </municipio>
+    <municipio id="562">
+        <nombre>Ilarregi</nombre>
+        <habitantes>55</habitantes>
+    </municipio>
+    <municipio id="563">
+        <nombre>Iraizotz</nombre>
+        <habitantes>250</habitantes>
+    </municipio>
+    <municipio id="564">
+        <nombre>Larraintzar</nombre>
+        <habitantes>126</habitantes>
+    </municipio>
+    <municipio id="565">
+        <nombre>Lizaso</nombre>
+        <habitantes>164</habitantes>
+    </municipio>
+    <municipio id="566">
+        <nombre>Suarbe</nombre>
+        <habitantes>46</habitantes>
+    </municipio>
+    <municipio id="567">
+        <nombre>Urritzola-Galain</nombre>
+        <habitantes>63</habitantes>
+    </municipio>
+    <municipio id="568">
+        <nombre>Zenotz</nombre>
+        <habitantes>46</habitantes>
+    </municipio>
+    <municipio id="569">
+        <nombre>Otras entidades</nombre>
+        <habitantes>9</habitantes>
+    </municipio>
+    <municipio id="570">
+        <nombre>UNCITI</nombre>
+        <habitantes>219</habitantes>
+    </municipio>
+    <municipio id="571">
+        <nombre>Alzórriz</nombre>
+        <habitantes>36</habitantes>
+    </municipio>
+    <municipio id="572">
+        <nombre>Artaiz</nombre>
+        <habitantes>43</habitantes>
+    </municipio>
+    <municipio id="573">
+        <nombre>Cemboráin</nombre>
+        <habitantes>30</habitantes>
+    </municipio>
+    <municipio id="574">
+        <nombre>Unciti</nombre>
+        <habitantes>74</habitantes>
+    </municipio>
+    <municipio id="575">
+        <nombre>Zabalceta</nombre>
+        <habitantes>16</habitantes>
+    </municipio>
+    <municipio id="576">
+        <nombre>Otras entidades</nombre>
+        <habitantes>20</habitantes>
+    </municipio>
+    <municipio id="577">
+        <nombre>UNZUÉ</nombre>
+        <habitantes>124</habitantes>
+    </municipio>
+    <municipio id="578">
+        <nombre>URDAZUBI/URDAX</nombre>
+        <habitantes>402</habitantes>
+    </municipio>
+    <municipio id="579">
+        <nombre>URDIAIN</nombre>
+        <habitantes>681</habitantes>
+    </municipio>
+    <municipio id="580">
+        <nombre>URRAÚL ALTO</nombre>
+        <habitantes>152</habitantes>
+    </municipio>
+    <municipio id="581">
+        <nombre>Ayechu</nombre>
+        <habitantes>13</habitantes>
+    </municipio>
+    <municipio id="582">
+        <nombre>Imirizaldu</nombre>
+        <habitantes>26</habitantes>
+    </municipio>
+    <municipio id="583">
+        <nombre>Irurozqui</nombre>
+        <habitantes>44</habitantes>
+    </municipio>
+    <municipio id="584">
+        <nombre>Ongoz</nombre>
+        <habitantes>17</habitantes>
+    </municipio>
+    <municipio id="585">
+        <nombre>Otras entidades</nombre>
+        <habitantes>52</habitantes>
+    </municipio>
+    <municipio id="586">
+        <nombre>URRAÚL BAJO</nombre>
+        <habitantes>294</habitantes>
+    </municipio>
+    <municipio id="587">
+        <nombre>Artieda</nombre>
+        <habitantes>123</habitantes>
+    </municipio>
+    <municipio id="588">
+        <nombre>Rípodas</nombre>
+        <habitantes>17</habitantes>
+    </municipio>
+    <municipio id="589">
+        <nombre>San Vicente</nombre>
+        <habitantes>29</habitantes>
+    </municipio>
+    <municipio id="590">
+        <nombre>Tabar</nombre>
+        <habitantes>61</habitantes>
+    </municipio>
+    <municipio id="591">
+        <nombre>Otras entidades</nombre>
+        <habitantes>64</habitantes>
+    </municipio>
+    <municipio id="592">
+        <nombre>URROZ-VILLA</nombre>
+        <habitantes>408</habitantes>
+    </municipio>
+    <municipio id="593">
+        <nombre>URROZ</nombre>
+        <habitantes>186</habitantes>
+    </municipio>
+    <municipio id="594">
+        <nombre>URZAINQUI</nombre>
+        <habitantes>95</habitantes>
+    </municipio>
+    <municipio id="595">
+        <nombre>UTERGA</nombre>
+        <habitantes>174</habitantes>
+    </municipio>
+    <municipio id="596">
+        <nombre>UZTÁRROZ</nombre>
+        <habitantes>154</habitantes>
+    </municipio>
+    <municipio id="597">
+        <nombre>LUZAIDE/VALCARLOS</nombre>
+        <habitantes>377</habitantes>
+    </municipio>
+    <municipio id="598">
+        <nombre>VALTIERRA</nombre>
+        <habitantes>2.443</habitantes>
+    </municipio>
+    <municipio id="599">
+        <nombre>BERA</nombre>
+        <habitantes>3.768</habitantes>
+    </municipio>
+    <municipio id="600">
+        <nombre>VIANA</nombre>
+        <habitantes>4.048</habitantes>
+    </municipio>
+    <municipio id="601">
+        <nombre>VIDÁNGOZ</nombre>
+        <habitantes>94</habitantes>
+    </municipio>
+    <municipio id="602">
+        <nombre>BIDAURRETA</nombre>
+        <habitantes>160</habitantes>
+    </municipio>
+    <municipio id="603">
+        <nombre>VILLAFRANCA</nombre>
+        <habitantes>2.805</habitantes>
+    </municipio>
+    <municipio id="604">
+        <nombre>VILLAMAYOR DE MONJARDÍN</nombre>
+        <habitantes>128</habitantes>
+    </municipio>
+    <municipio id="605">
+        <nombre>HIRIBERRI/VILLANUEVA DE AEZKOA</nombre>
+        <habitantes>119</habitantes>
+    </municipio>
+    <municipio id="606">
+        <nombre>VILLATUERTA</nombre>
+        <habitantes>1.137</habitantes>
+    </municipio>
+    <municipio id="607">
+        <nombre>VILLAVA</nombre>
+        <habitantes>10.265</habitantes>
+    </municipio>
+    <municipio id="608">
+        <nombre>IGANTZI</nombre>
+        <habitantes>618</habitantes>
+    </municipio>
+    <municipio id="609">
+        <nombre>VALLE DE YERRI</nombre>
+        <habitantes>1.497</habitantes>
+    </municipio>
+    <municipio id="610">
+        <nombre>Alloz</nombre>
+        <habitantes>104</habitantes>
+    </municipio>
+    <municipio id="611">
+        <nombre>Arandigoyen</nombre>
+        <habitantes>80</habitantes>
+    </municipio>
+    <municipio id="612">
+        <nombre>Arizala</nombre>
+        <habitantes>87</habitantes>
+    </municipio>
+    <municipio id="613">
+        <nombre>Arizaleta</nombre>
+        <habitantes>39</habitantes>
+    </municipio>
+    <municipio id="614">
+        <nombre>Azcona</nombre>
+        <habitantes>81</habitantes>
+    </municipio>
+    <municipio id="615">
+        <nombre>Bearin</nombre>
+        <habitantes>178</habitantes>
+    </municipio>
+    <municipio id="616">
+        <nombre>Eraul</nombre>
+        <habitantes>75</habitantes>
+    </municipio>
+    <municipio id="617">
+        <nombre>Grocin</nombre>
+        <habitantes>30</habitantes>
+    </municipio>
+    <municipio id="618">
+        <nombre>Ibiricu de Yerri</nombre>
+        <habitantes>56</habitantes>
+    </municipio>
+    <municipio id="619">
+        <nombre>Iruñela</nombre>
+        <habitantes>53</habitantes>
+    </municipio>
+    <municipio id="620">
+        <nombre>Lácar</nombre>
+        <habitantes>63</habitantes>
+    </municipio>
+    <municipio id="621">
+        <nombre>Lorca</nombre>
+        <habitantes>138</habitantes>
+    </municipio>
+    <municipio id="622">
+        <nombre>Murillo de Yerri</nombre>
+        <habitantes>34</habitantes>
+    </municipio>
+    <municipio id="623">
+        <nombre>Murugarren</nombre>
+        <habitantes>69</habitantes>
+    </municipio>
+    <municipio id="624">
+        <nombre>Riezu</nombre>
+        <habitantes>117</habitantes>
+    </municipio>
+    <municipio id="625">
+        <nombre>Ugar</nombre>
+        <habitantes>55</habitantes>
+    </municipio>
+    <municipio id="626">
+        <nombre>Villanueva de Yerri</nombre>
+        <habitantes>57</habitantes>
+    </municipio>
+    <municipio id="627">
+        <nombre>Zábal</nombre>
+        <habitantes>76</habitantes>
+    </municipio>
+    <municipio id="628">
+        <nombre>Zurucuáin</nombre>
+        <habitantes>102</habitantes>
+    </municipio>
+    <municipio id="629">
+        <nombre>Otras entidades</nombre>
+        <habitantes>3</habitantes>
+    </municipio>
+    <municipio id="630">
+        <nombre>YESA</nombre>
+        <habitantes>285</habitantes>
+    </municipio>
+    <municipio id="631">
+        <nombre>ZABALZA</nombre>
+        <habitantes>276</habitantes>
+    </municipio>
+    <municipio id="632">
+        <nombre>Arraiza</nombre>
+        <habitantes>89</habitantes>
+    </municipio>
+    <municipio id="633">
+        <nombre>Ubani</nombre>
+        <habitantes>133</habitantes>
+    </municipio>
+    <municipio id="634">
+        <nombre>Zabalza</nombre>
+        <habitantes>54</habitantes>
+    </municipio>
+    <municipio id="635">
+        <nombre>ZUBIETA</nombre>
+        <habitantes>323</habitantes>
+    </municipio>
+    <municipio id="636">
+        <nombre>ZUGARRAMURDI</nombre>
+        <habitantes>227</habitantes>
+    </municipio>
+    <municipio id="637">
+        <nombre>ZÚÑIGA</nombre>
+        <habitantes>116</habitantes>
+    </municipio>
+    <municipio id="638">
+        <nombre>BARAÑÁIN</nombre>
+        <habitantes>20.475</habitantes>
+    </municipio>
+    <municipio id="639">
+        <nombre>BERRIOPLANO</nombre>
+        <habitantes>6.527</habitantes>
+    </municipio>
+    <municipio id="640">
+        <nombre>Aizoáin</nombre>
+        <habitantes>468</habitantes>
+    </municipio>
+    <municipio id="641">
+        <nombre>Añézcar</nombre>
+        <habitantes>210</habitantes>
+    </municipio>
+    <municipio id="642">
+        <nombre>Artica</nombre>
+        <habitantes>4.140</habitantes>
+    </municipio>
+    <municipio id="643">
+        <nombre>Ballariáin</nombre>
+        <habitantes>25</habitantes>
+    </municipio>
+    <municipio id="644">
+        <nombre>Berrioplano</nombre>
+        <habitantes>641</habitantes>
+    </municipio>
+    <municipio id="645">
+        <nombre>Berriosuso</nombre>
+        <habitantes>828</habitantes>
+    </municipio>
+    <municipio id="646">
+        <nombre>Elcarte</nombre>
+        <habitantes>19</habitantes>
+    </municipio>
+    <municipio id="647">
+        <nombre>Larragueta</nombre>
+        <habitantes>83</habitantes>
+    </municipio>
+    <municipio id="648">
+        <nombre>Loza</nombre>
+        <habitantes>59</habitantes>
+    </municipio>
+    <municipio id="649">
+        <nombre>Oteiza</nombre>
+        <habitantes>54</habitantes>
+    </municipio>
+    <municipio id="650">
+        <nombre>BERRIOZAR</nombre>
+        <habitantes>9.625</habitantes>
+    </municipio>
+    <municipio id="651">
+        <nombre>IRURTZUN</nombre>
+        <habitantes>2.194</habitantes>
+    </municipio>
+    <municipio id="652">
+        <nombre>BERIÁIN</nombre>
+        <habitantes>3.889</habitantes>
+    </municipio>
+    <municipio id="653">
+        <nombre>ORKOIEN</nombre>
+        <habitantes>3.770</habitantes>
+    </municipio>
+    <municipio id="654">
+        <nombre>ZIZUR MAYOR</nombre>
+        <habitantes>14.493</habitantes>
+    </municipio>
+    <municipio id="655">
+        <nombre>LEKUNBERRI</nombre>
+        <habitantes>1.483</habitantes>
+    </municipio>
+</municipios>

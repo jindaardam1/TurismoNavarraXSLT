@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><svg width="1500" height="900" xmlns="http://www.w3.org/2000/svg">
+    <rect y="10" x="10" height="80" width="5220" fill="green"/>
+    <text x="30" y="55" font-size="24px" fill="white">522</text>
+    <rect y="100" x="10" height="80" width="760" fill="green"/>
+    <text x="30" y="145" font-size="24px" fill="white">76</text>
+    <rect y="190" x="10" height="80" width="260" fill="green"/>
+    <text x="190" y="275">{concat($poblacion-rango2+1, '-', $poblacion-rango3)}</text>
+    <rect y="280" x="10" height="80" width="180" fill="green"/>
+    <text x="280" y="195">{concat($poblacion-rango3+1, '-', $poblacion-rango4)}</text>
+    <rect y="370" x="10" height="80" width="140" fill="green"/>
+    <text x="370" y="155">{concat($poblacion-rango4+1, '-', $poblacion-rango5)}</text>
+    <rect y="460" x="10" height="80" width="0" fill="green"/>
+    <text x="460" y="15">más de {concat($poblacion-rango5)}</text>
+</svg>
