@@ -23,8 +23,8 @@
         <svg>
 
             <image xlink:href="../Resources/one.svg" width="{($pisosPrimera div 2)}" height="{($pisosPrimera div 2)}" x="0"/>
-            <image xlink:href="../Resources/two.svg" width="{($pisosSegunda div 2)}" height="{($pisosSegunda div 2)}" x="{($pisosPrimera div 2)}"/>
-            <image xlink:href="../Resources/three.svg" width="{($pisosTercera div 2)}" height="{($pisosTercera div 2)}" x="{($pisosPrimera div 2) + ($pisosSegunda div 2)}"/>
+            <image xlink:href="../Resources/two.svg" width="{($pisosSegunda div 2)}" height="{($pisosSegunda div 2)}" x="{($pisosPrimera div 2)}" y="-11" />
+            <image xlink:href="../Resources/three.svg" width="{($pisosTercera div 2)}" height="{($pisosTercera div 2)}" x="{($pisosPrimera div 2) + ($pisosSegunda div 2)}" y="+3.5"/>
             <image xlink:href="../Resources/s.svg" width="{(($pisosLujo * 10) div 2)}" height="{$pisosLujo * 10}" x="{($pisosPrimera div 2) + ($pisosSegunda div 2) + ($pisosTercera div 2)}"/>
 
 
