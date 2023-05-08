@@ -4,6 +4,7 @@
         <svg xmlns="http://www.w3.org/2000/svg">
             <image xlink:href="../Resources/MapaNavarra.svg" width="500" height="500" />
             <xsl:for-each select="//row">
+                <xsl:sort select="./plazas" data-type="number" order="descending" />
                 <xsl:variable name="plazas" select="./plazas"/>
                 <xsl:variable name="latitud" select="./latitud"/>
                 <xsl:variable name="longitud" select="./longitud"/>
@@ -15,7 +16,8 @@
                       rx="3"
                       ry="3"
                       stroke="black"
-                      stroke-width="2">
+                      stroke-width="2"
+                      opacity="0.8">
                     <xsl:choose>
                         <xsl:when test="$plazas &lt; 400">
                             <xsl:attribute name="fill">red</xsl:attribute>
