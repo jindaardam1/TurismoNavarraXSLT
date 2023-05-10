@@ -6,7 +6,7 @@
             <xsl:value-of
                     select="count(row[substring(FECHA_DE_INSCRIPCION, 1, 4) &gt;= 1990 and substring(FECHA_DE_INSCRIPCION, 1, 4) &lt;= 1994])"/>
         </xsl:variable>
-        <svg>
+        <svg width="500" height="500">
             <xsl:variable name="intervalos">
             <xsl:variable name="intervalo1990_1994">
                 <xsl:apply-templates
@@ -41,11 +41,11 @@
                         <xsl:variable name="max" select="current()"/>
                         <xsl:sort select="." data-type="number" order="descending"/>
                         <xsl:variable name="n" select="."/>
-                        <circle cx="{20 + 100}" cy="{20+100}" r="{100 * $n div $max}" stroke="black" stroke-width="1"
-                                fill="rgb({255 * $n div $max},0,0)"/>
-                        <text x="{20 + 100 + 100 + 20}" y="{position()} * 30}" fill="rgb({255 * $n div $max},0,0)">
-                            <xsl:value-of select="."/>
-                        </text>
+                        <xsl:if test="position() = 1">
+                            <xsl:variable name="current-count" select="count($intervalos[. = current()])"/>
+                            <xsl:variable name="radius" select="100 * $current-count div $max"/>
+                            <circle cx="250" cy="250" r="{$radius}" stroke="black" stroke-width="1" fill="rgb({255 * $current-count div $max}, 0, 0)"/>
+                        </xsl:if>
                     </xsl:for-each>
                 </xsl:if>
             </xsl:for-each>
