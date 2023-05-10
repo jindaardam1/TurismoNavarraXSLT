@@ -476,34 +476,6 @@
         <latitud>43.0028812</latitud>
         <longitud>-1.8935636</longitud>
     </row>
-    <row id="50">
-        <cod_inscripcion>UH000008</cod_inscripcion>
-        <nombre>Balneario Gustavo Adolfo Bécquer</nombre>
-        <modalidad>Hotel</modalidad>
-        <categoria>3 Estrellas</categoria>
-        <direccion>Extramuros 0 s/n</direccion>
-        <localidad>FITERO</localidad>
-        <municipio>FITERO</municipio>
-        <zona>La Ribera</zona>
-        <plazas>322</plazas>
-        <fecha_de_inscripcion>02/11/1948 0:00:00</fecha_de_inscripcion>
-        <latitud>41.778856</latitud>
-        <longitud>-1.72311</longitud>
-    </row>
-    <row id="51">
-        <cod_inscripcion>UH000079</cod_inscripcion>
-        <nombre>Balneario Virrey Palafox</nombre>
-        <modalidad>Hotel</modalidad>
-        <categoria>3 Estrellas</categoria>
-        <direccion>Extramuros 0 s/n</direccion>
-        <localidad>FITERO</localidad>
-        <municipio>FITERO</municipio>
-        <zona>La Ribera</zona>
-        <plazas>119</plazas>
-        <fecha_de_inscripcion>02/11/1948 0:00:00</fecha_de_inscripcion>
-        <latitud>41.778856</latitud>
-        <longitud>-1.72311</longitud>
-    </row>
     <row id="52">
         <cod_inscripcion>UHR00975</cod_inscripcion>
         <nombre>Basque Irati</nombre>
@@ -2953,20 +2925,6 @@
         <fecha_de_inscripcion>30/09/2021 0:00:00</fecha_de_inscripcion>
         <latitud>43.246953</latitud>
         <longitud>-1.704705</longitud>
-    </row>
-    <row id="274">
-        <cod_inscripcion>UPE00946</cod_inscripcion>
-        <nombre>Petit Abay Mendavia</nombre>
-        <modalidad>Pensión</modalidad>
-        <categoria>P**</categoria>
-        <direccion>De la Estación 27</direccion>
-        <localidad>MENDAVIA</localidad>
-        <municipio>MENDAVIA</municipio>
-        <zona>La Ribera</zona>
-        <plazas>10</plazas>
-        <fecha_de_inscripcion>20/05/2019 0:00:00</fecha_de_inscripcion>
-        <latitud>42.224703</latitud>
-        <longitud>-2.10103</longitud>
     </row>
     <row id="275">
         <cod_inscripcion>UHS00785</cod_inscripcion>
