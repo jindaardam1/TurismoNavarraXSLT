@@ -27,11 +27,11 @@
                         <tr>
                             <td class="columna1">
                                 <p class="rojo">Menos de 400 plazas</p>
-                                <p class="amarillo">Entre 401 y 800</p>
-                                <p class="verde">Más de 800</p>
+                                <p class="amarillo">Entre 401 y 800 plazas</p>
+                                <p class="verde">Más de 800 plazas</p>
                             </td>
                             <td class="columna2">
-                                <svg xmlns="http://www.w3.org/2000/svg">
+                                <svg xmlns="http://www.w3.org/2000/svg" height="500" width="500">
                                     <image xlink:href="../Resources/MapaNavarra.svg" height="500" />
                                     <xsl:for-each select="//row">
                                         <xsl:sort select="./plazas" data-type="number" order="descending" />
