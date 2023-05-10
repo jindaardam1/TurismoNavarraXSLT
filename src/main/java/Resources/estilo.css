@@ -91,6 +91,10 @@ nav {
     color: #00904b;
 }
 
+.azul {
+    color: blue;
+}
+
 .contenedor-svg {
     display: flex;
     justify-content: center;
