@@ -40,11 +40,14 @@
                     </ul>
                 </nav>
                 <div class="contenedor-svg">
-                    <h1>Pisos turísticos</h1>
+                    <h1>Pisos turísticos por categoría</h1>
                     <table class="tabla-index">
                         <tr>
                             <td class="columna1">
-                                <p></p>
+                                <p class="verde">Primera: <xsl:value-of select="count(//piso[contains(CATEGORIA, 'Primera')])"/></p>
+                                <p class="amarillo">Segunda: <xsl:value-of select="count(//piso[contains(CATEGORIA, 'Segunda')])"/></p>
+                                <p class="rojo">Tercera: <xsl:value-of select="count(//piso[contains(CATEGORIA, 'Tercera')])"/></p>
+                                <p class="azul">Lujo: <xsl:value-of select="count(//piso[contains(CATEGORIA, 'Lujo')])"/> (escala 1:10)</p>
                             </td>
                             <td class="columna2">
                                 <svg width="1000" height="300">
