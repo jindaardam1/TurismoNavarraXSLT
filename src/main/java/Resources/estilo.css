@@ -95,6 +95,18 @@ nav {
     color: blue;
 }
 
+.morado {
+    color: purple;
+}
+
+.marron {
+    color: brown;
+}
+
+.naranja {
+    color: orange;
+}
+
 .contenedor-svg {
     display: flex;
     justify-content: center;
